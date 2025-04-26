@@ -1,0 +1,453 @@
+Entry,Organism,Modified residue,Modified_position,Positive_sequence
+A1A5R1,Rattus norvegicus (Rat),Omega-N-methylarginine,323,TAAAFRGAHLR
+A1A5R1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,423,VASLYRGGYSR
+A1A5R1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,428,RGGYSRFAPY
+A1L1K8,Rattus norvegicus (Rat),Omega-N-methylarginine,70,SGAGHRGGRSP
+A2RRU4,Rattus norvegicus (Rat),Omega-N-methylarginine,1048,RGTPGRGSSPS
+A7VJC2,Rattus norvegicus (Rat),Omega-N-methylarginine,38,TEESLRNYYEQ
+A7VJC2,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,203,SSRSGRGGNFG
+A7VJC2,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,213,GFGDSRGGGGN
+A7VJC2,Rattus norvegicus (Rat),Omega-N-methylarginine,228,PGSNFRGGSDG
+A7VJC2,Rattus norvegicus (Rat),Omega-N-methylarginine,238,GYGSGRGFGDG
+A7VJC2,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,266,GYGGGRGGYGG
+A7VJC2,Rattus norvegicus (Rat),Omega-N-methylarginine,325,NFGGSRNMGGP
+A7VJC2,Rattus norvegicus (Rat),Omega-N-methylarginine,350,GGYGGRSRY
+B1WC40,Rattus norvegicus (Rat),Omega-N-methylarginine,146,DYDAGRGGYGK
+B2DD29,Rattus norvegicus (Rat),Omega-N-methylarginine,466,VGDEARGGGSP
+B2DD29,Rattus norvegicus (Rat),Omega-N-methylarginine,481,QTLPSRGPRGG
+B2DD29,Rattus norvegicus (Rat),Omega-N-methylarginine,484,PSRGPRGGGAG
+B2DD29,Rattus norvegicus (Rat),Omega-N-methylarginine,498,PPPSARSTPLP
+B2DD29,Rattus norvegicus (Rat),Omega-N-methylarginine,525,PLHTPRASPTG
+B2DD29,Rattus norvegicus (Rat),Omega-N-methylarginine,550,GGAAWRSRLNS
+B2GV24,Rattus norvegicus (Rat),Omega-N-methylarginine,433,GSGSVRGGGGG
+B2RZ55,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,390,GGWFGRGCAKR
+B5DF91,Rattus norvegicus (Rat),Omega-N-methylarginine,206,HSPARRFGGPV
+B5DF91,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,217,HHQAQRFRFSP
+D3ZAZ5,Rattus norvegicus (Rat),Omega-N-methylarginine,442,AVGCDRGAKLL
+D3ZB51,Rattus norvegicus (Rat),Omega-N-methylarginine,1136,SQGQLRHTSQG
+D3ZFB6,Rattus norvegicus (Rat),Omega-N-methylarginine,244,HPGSPRGSLSR
+D3ZG83,Rattus norvegicus (Rat),Omega-N-methylarginine,843,PLDFPRLPDPQ
+D3ZHA0,Rattus norvegicus (Rat),Omega-N-methylarginine,1003,GQLDVRMTSPS
+D3ZKD3,Rattus norvegicus (Rat),Omega-N-methylarginine,360,PTHRRRGSFSS
+D3ZN95,Rattus norvegicus (Rat),Omega-N-methylarginine,504,PLVTMRPASQA
+D3ZN95,Rattus norvegicus (Rat),Omega-N-methylarginine,524,LPASVRMVVPT
+D4A055,Rattus norvegicus (Rat),Omega-N-methylarginine,505,KPHRNRGSPGG
+F1LMV6,Rattus norvegicus (Rat),Omega-N-methylarginine,2832,SAPGSRSGSRS
+F1LMV6,Rattus norvegicus (Rat),Omega-N-methylarginine,2853,RSGSRRGSFDA
+F1LP90,Rattus norvegicus (Rat),Omega-N-methylarginine,502,ILPGDRKPLYH
+F1LP90,Rattus norvegicus (Rat),Omega-N-methylarginine,510,LYHYGRGINPA
+F1LQY6,Rattus norvegicus (Rat),Omega-N-methylarginine,10,AARLCRAGAHR
+F1LXF1,Rattus norvegicus (Rat),Omega-N-methylarginine,473,LSSKGRGSPAS
+F1M7L9,Rattus norvegicus (Rat),Omega-N-methylarginine,46,AGSSGRGDPVA
+F1MA98,Rattus norvegicus (Rat),Omega-N-methylarginine,2103,IQMTRRQSVGR
+F1MA98,Rattus norvegicus (Rat),Omega-N-methylarginine,2108,RQSVGRGLQLT
+F1MA98,Rattus norvegicus (Rat),Omega-N-methylarginine,2160,VAGVPRFRFGP
+G3V7R4,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,245,SGKSPRRRAAS
+G3V7R4,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,247,KSPRRRAASMD
+O08774,Rattus norvegicus (Rat),Omega-N-methylarginine,524,IPPSKRGATGS
+O08774,Rattus norvegicus (Rat),Omega-N-methylarginine,633,SSKLGRGVALA
+O08816,Rattus norvegicus (Rat),Omega-N-methylarginine,304,PPARGRGAPPP
+O08962,Rattus norvegicus (Rat),Omega-N-methylarginine,1018,YQELPRCPAPA
+O09032,Rattus norvegicus (Rat),Omega-N-methylarginine; by CARM1; alternate,248,HHQAQRFRLDN
+O35052,Rattus norvegicus (Rat),Omega-N-methylarginine,7,LELRHRGGCPG
+O35787,Rattus norvegicus (Rat),Omega-N-methylarginine,1036,GGSRSRGGGST
+O55000,Rattus norvegicus (Rat),Omega-N-methylarginine,665,GPVGPRLLGPP
+O55000,Rattus norvegicus (Rat),Omega-N-methylarginine,693,RGGPMRGGPGP
+O55000,Rattus norvegicus (Rat),Omega-N-methylarginine,737,GPPNGRGGPGG
+O55164,Rattus norvegicus (Rat),Omega-N-methylarginine,1157,SIVGGRGMGSR
+O88339,Rattus norvegicus (Rat),Omega-N-methylarginine,533,TLNQLRLSPVP
+O88453,Rattus norvegicus (Rat),Omega-N-methylarginine,834,RLSEGRGLPLL
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,145,SVSPDRGSTPT
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,863,TAVSGRGLAKH
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,1780,QTAPYRGGPRG
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,1784,YRGGPRGRPRE
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,1794,EAKFARYNLPN
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,1806,VTPLARRDILI
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,2039,SFTDLRHPTDL
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,2069,HRYGPRGDAVG
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,3488,SMAHGRARPPM
+O88778,Rattus norvegicus (Rat),Omega-N-methylarginine,3822,SQPTTRSTAPA
+O88902,Rattus norvegicus (Rat),Omega-N-methylarginine,785,SFPAPRIGPQP
+O88902,Rattus norvegicus (Rat),Omega-N-methylarginine,1478,NGQGLRAAQPT
+O88917,Rattus norvegicus (Rat),Omega-N-methylarginine,1237,PVLQPRGGTSP
+O88984,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,41,NRRSGRGGSGI
+O88989,Rattus norvegicus (Rat),Omega-N-methylarginine,230,TTVQQRGAAVI
+P02688,Rattus norvegicus (Rat),Omega-N-methylarginine,44,LDSIGRFFSGD
+P02688,Rattus norvegicus (Rat),Omega-N-methylarginine,50,FFSGDRGAPKR
+P02688,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,131,SQGKGRGLSLS
+P04256,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,194,ASSSQRGRSGS
+P04256,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,206,NFGGGRGGGFG
+P04256,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,218,NDNFGRGGNFS
+P04256,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,225,GNFSGRGGFGG
+P04256,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,232,GFGGSRGGGGY
+P04256,Rattus norvegicus (Rat),Omega-N-methylarginine,284,GNFGGRSSGPY
+P04256,Rattus norvegicus (Rat),Omega-N-methylarginine,300,YFAKPRNQGGY
+P04256,Rattus norvegicus (Rat),Omega-N-methylarginine,318,SYGSGRRF
+P04916,Rattus norvegicus (Rat),Omega-N-methylarginine,139,LQYSCRLQNLD
+P06536,Rattus norvegicus (Rat),Omega-N-methylarginine,24,LLGQGRGSVMD
+P06761,Rattus norvegicus (Rat),Omega-N-methylarginine,492,IPPAPRGVPQI
+P06766,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT6,83,ATGKLRKLEKI
+P06766,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT6,152,EKRIPREEMLQ
+P09951,Rattus norvegicus (Rat),Omega-N-methylarginine,428,DASPGRGSHSQ
+P09951,Rattus norvegicus (Rat),Omega-N-methylarginine,474,GPGPQRQGPPL
+P09951,Rattus norvegicus (Rat),Omega-N-methylarginine,532,QGRQSRPVAGG
+P09951,Rattus norvegicus (Rat),Omega-N-methylarginine,545,APPAARPPASP
+P09951,Rattus norvegicus (Rat),Omega-N-methylarginine,554,SPSPQRQAGPP
+P09951,Rattus norvegicus (Rat),Omega-N-methylarginine,620,TTQQPRPSGPG
+P0C1X8,Rattus norvegicus (Rat),Omega-N-methylarginine,390,PALTPRKRATV
+P0DMW0,Rattus norvegicus (Rat),Omega-N-methylarginine,469,IPPAPRGVPQI
+P0DMW1,Rattus norvegicus (Rat),Omega-N-methylarginine,469,IPPAPRGVPQI
+P10361,Rattus norvegicus (Rat),Omega-N-methylarginine,331,FTLKIRGRERF
+P12839,Rattus norvegicus (Rat),Omega-N-methylarginine,43,SQSWSRGSPST
+P13383,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,697,GFRGGRGGGGD
+P15205,Rattus norvegicus (Rat),Omega-N-methylarginine,2057,YETSDRCYTPE
+P15389,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,527,RPRSSRGSIFT
+P15999,Rattus norvegicus (Rat),Omega-N-methylarginine,204,LVPIGRGQREL
+P17074,Rattus norvegicus (Rat),Omega-N-methylarginine,67,RHLYLRGGAGV
+P17105,Rattus norvegicus (Rat),Omega-N-methylarginine,35,SVGELRLLFEA
+P17105,Rattus norvegicus (Rat),Omega-N-methylarginine,55,AAGEPRARGAK
+P17105,Rattus norvegicus (Rat),Omega-N-methylarginine,62,RGAKRRGGQVP
+P17136,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,108,GPGIGRAAGRG
+P17136,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,112,GRAAGRGIPAG
+P17136,Rattus norvegicus (Rat),Omega-N-methylarginine,147,MTPQGRGTVAA
+P17136,Rattus norvegicus (Rat),Omega-N-methylarginine,172,QYPPGRGGPPP
+P19332,Rattus norvegicus (Rat),Omega-N-methylarginine,466,KIATPRGAATP
+P19332,Rattus norvegicus (Rat),Omega-N-methylarginine,660,LDFKDRVQSKI
+P19527,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,23,YVETPRVHISS
+P19527,Rattus norvegicus (Rat),Omega-N-methylarginine,30,HISSVRSGYST
+P21575,Rattus norvegicus (Rat),Omega-N-methylarginine,796,ARPGSRGPAPG
+P21677,Rattus norvegicus (Rat),Omega-N-methylarginine,367,TSQWPRAGAPS
+P22909,Rattus norvegicus (Rat),Omega-N-methylarginine,368,GQGEERAGGAK
+P23348,Rattus norvegicus (Rat),Omega-N-methylarginine,294,RIQGGRGSPSG
+P30427,Rattus norvegicus (Rat),Omega-N-methylarginine,4630,STAGSRTGSRT
+P30427,Rattus norvegicus (Rat),Omega-N-methylarginine,4643,RAGSRRGSFDA
+P31424,Rattus norvegicus (Rat),Omega-N-methylarginine,868,NLWKRRGSSGE
+P31424,Rattus norvegicus (Rat),Omega-N-methylarginine,924,NEKSTRGQHLW
+P40146,Rattus norvegicus (Rat),Omega-N-methylarginine,55,FIHGHRGGGGG
+P40748,Rattus norvegicus (Rat),Omega-N-methylarginine,286,GPGGRRTGGGS
+P41777,Rattus norvegicus (Rat),Omega-N-methylarginine,688,KRGSYRGGSIS
+P42930,Rattus norvegicus (Rat),Omega-N-methylarginine,12,PFSLLRSPSWE
+P47709,Rattus norvegicus (Rat),Omega-N-methylarginine,223,TSAPGRGSHGP
+P47819,Rattus norvegicus (Rat),Omega-N-methylarginine,11,ITSARRSYASS
+P47819,Rattus norvegicus (Rat),Omega-N-methylarginine,21,SETMVRGHGPT
+P48675,Rattus norvegicus (Rat),Omega-N-methylarginine,16,VSSYRRTFGGA
+P48675,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,37,SPVFPRAGFGT
+P48675,Rattus norvegicus (Rat),Omega-N-methylarginine,70,GLGSLRASRLG
+P48721,Rattus norvegicus (Rat),Omega-N-methylarginine,513,IPPAPRGVPQI
+P50878,Rattus norvegicus (Rat),Omega-N-methylarginine,97,FGNMCRGGRMF
+P51593,Rattus norvegicus (Rat),Omega-N-methylarginine,3226,RLAVQRGGTFQ
+P54777,Rattus norvegicus (Rat),Omega-N-methylarginine,119,PGLGPRVGPLL
+P56741,Rattus norvegicus (Rat),Omega-N-methylarginine,1241,LTLEIRKPCPY
+P58200,Rattus norvegicus (Rat),Omega-N-methylarginine,107,ATPGGRGDLKF
+P61980,Rattus norvegicus (Rat),Omega-N-methylarginine,316,PPPPPRGGDLM
+P61980,Rattus norvegicus (Rat),Omega-N-methylarginine,377,SYAGGRGSYGD
+P62483,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,28,MIYSTRYGSPK
+P62634,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,25,PTGGGRGRGMR
+P62634,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,27,GGGRGRGMRSR
+P62634,Rattus norvegicus (Rat),Omega-N-methylarginine,79,CYNCGRGGHIA
+P62804,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1; alternate,4,MSGRGKGGK
+P62997,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,241,YSRSYRGGGGG
+P63018,Rattus norvegicus (Rat),Omega-N-methylarginine,469,IPPAPRGVPQI
+P63164,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,108,GPGVGRAAGRG
+P63164,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,112,GRAAGRGVPAG
+P63164,Rattus norvegicus (Rat),Omega-N-methylarginine,147,MTPQGRGTVAA
+P63164,Rattus norvegicus (Rat),Omega-N-methylarginine,172,QYPPGRGTPPP
+P69897,Rattus norvegicus (Rat),Omega-N-methylarginine,318,VAAVFRGRMSM
+P70501,Rattus norvegicus (Rat),Omega-N-methylarginine,824,SGLGARGSSYG
+P70587,Rattus norvegicus (Rat),Omega-N-methylarginine,1149,GRAAYRGGLEG
+P70615,Rattus norvegicus (Rat),Omega-N-methylarginine,14,QRAGSRASAPA
+P70615,Rattus norvegicus (Rat),Omega-N-methylarginine,413,SVRTTRGKRKR
+P81377,Rattus norvegicus (Rat),Omega-N-methylarginine,97,KARRRRGGVSA
+P84586,Rattus norvegicus (Rat),Omega-N-methylarginine,122,RGPPSRGGYMD
+P84586,Rattus norvegicus (Rat),Omega-N-methylarginine,141,NMSSSRGPLPV
+P84586,Rattus norvegicus (Rat),Omega-N-methylarginine,161,GPPPKRSTPSG
+P84586,Rattus norvegicus (Rat),Omega-N-methylarginine,169,PSGPVRSSSGM
+P97839,Rattus norvegicus (Rat),Omega-N-methylarginine,290,TNYVKRGSWST
+P97874,Rattus norvegicus (Rat),Omega-N-methylarginine,1122,SWQTTRPTAPG
+Q00566,Rattus norvegicus (Rat),Omega-N-methylarginine,162,FTVTGRGSPSR
+Q00715,Rattus norvegicus (Rat),Omega-N-methylarginine,86,AHYNKRSTITS
+Q00715,Rattus norvegicus (Rat),Omega-N-methylarginine,92,STITSREIQTA
+Q00729,Rattus norvegicus (Rat),Omega-N-methylarginine,88,AHYNKRSTITS
+Q00729,Rattus norvegicus (Rat),Omega-N-methylarginine,94,STITSREIQTA
+Q01956,Rattus norvegicus (Rat),Omega-N-methylarginine,626,HPGLLRGGAGG
+Q02294,Rattus norvegicus (Rat),Omega-N-methylarginine,22,GGERARGGGAG
+Q04400,Rattus norvegicus (Rat),Omega-N-methylarginine,23,ASPAPRGGPEH
+Q04940,Rattus norvegicus (Rat),Omega-N-methylarginine,68,GAGGARGGAGG
+Q05140,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,873,AQPMMRPPFGA
+Q06486,Rattus norvegicus (Rat),Omega-N-methylarginine,375,SMRLHRGAPVN
+Q10758,Rattus norvegicus (Rat),Omega-N-methylarginine,23,RAFSSRSFTSG
+Q10758,Rattus norvegicus (Rat),Omega-N-methylarginine,32,SGPGARISSSS
+Q10758,Rattus norvegicus (Rat),Omega-N-methylarginine,40,SSSFSRVGSSS
+Q10758,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,49,SSSSFRGSLGG
+Q1LZ53,Rattus norvegicus (Rat),Omega-N-methylarginine,167,SRGRLRGGLGW
+Q2PQA9,Rattus norvegicus (Rat),Omega-N-methylarginine,956,QPVGLRGGGGK
+Q2THW7,Rattus norvegicus (Rat),Omega-N-methylarginine,617,DGLRGRGLGSP
+Q2THW7,Rattus norvegicus (Rat),Omega-N-methylarginine,697,LSSPTRGGVKK
+Q3KRE8,Rattus norvegicus (Rat),Omega-N-methylarginine,318,VAAIFRGRMSM
+Q4KM65,Rattus norvegicus (Rat),Omega-N-methylarginine,15,QTGWPRGVNQF
+Q4V898,Rattus norvegicus (Rat),Omega-N-methylarginine,125,RGPPSRGGHMD
+Q4V898,Rattus norvegicus (Rat),Omega-N-methylarginine,144,TLSSSRGPLPV
+Q4V898,Rattus norvegicus (Rat),Omega-N-methylarginine,164,GPPPKRSAPSG
+Q4V898,Rattus norvegicus (Rat),Omega-N-methylarginine,172,PSGPVRSSSGM
+Q5BJU7,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,341,STSSLRASMTS
+Q5BJY9,Rattus norvegicus (Rat),Omega-N-methylarginine,46,GGSGSRISVSR
+Q5FVM4,Rattus norvegicus (Rat),Omega-N-methylarginine,461,PPAFNRPAPGA
+Q5I6B8,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,459,PSKKGRGALLA
+Q5M9G3,Rattus norvegicus (Rat),Omega-N-methylarginine,163,GDDDVRTDLKQ
+Q5M9G3,Rattus norvegicus (Rat),Omega-N-methylarginine,624,LMNGYRGPANG
+Q5M9G3,Rattus norvegicus (Rat),Omega-N-methylarginine,631,PANGFRGGYDG
+Q5M9G3,Rattus norvegicus (Rat),Omega-N-methylarginine,638,GYDGYRSSFSN
+Q5M9G3,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,696,PPRPNRGMPQM
+Q5RK19,Rattus norvegicus (Rat),Omega-N-methylarginine,4,MHRRGVGAG
+Q5U211,Rattus norvegicus (Rat),Omega-N-methylarginine,43,TVGVGRGRFTT
+Q5U2N3,Rattus norvegicus (Rat),Omega-N-methylarginine,1209,QLLRSRGPSQV
+Q5U2P2,Rattus norvegicus (Rat),Omega-N-methylarginine,375,VVTANRGSSPQ
+Q5U2X5,Rattus norvegicus (Rat),Omega-N-methylarginine,839,QAPGPRAGPCI
+Q5XI81,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,476,PGGRGRSVSGG
+Q5XI81,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,482,SVSGGRGRGGP
+Q5XI81,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,484,SGGRGRGGPRG
+Q62645,Rattus norvegicus (Rat),Omega-N-methylarginine,1303,SHRRHRGGDLG
+Q62698,Rattus norvegicus (Rat),Omega-N-methylarginine,383,PRTQGRGGPAS
+Q62733,Rattus norvegicus (Rat),Omega-N-methylarginine,85,GASVGRGRGAV
+Q62733,Rattus norvegicus (Rat),Omega-N-methylarginine,87,SVGRGRGAVGR
+Q62764,Rattus norvegicus (Rat),Omega-N-methylarginine,243,FDRRSRVFPHP
+Q62764,Rattus norvegicus (Rat),Omega-N-methylarginine,315,NQPSARRGFRR
+Q62770,Rattus norvegicus (Rat),Omega-N-methylarginine,1017,FGGAGRGLYGI
+Q62812,Rattus norvegicus (Rat),Omega-N-methylarginine,1924,KNKLRRGDMPF
+Q62826,Rattus norvegicus (Rat),Omega-N-methylarginine,456,GFGLERMAAPI
+Q62910,Rattus norvegicus (Rat),Omega-N-methylarginine,1198,PTIPARAGVIS
+Q62985,Rattus norvegicus (Rat),Omega-N-methylarginine,270,PAGVGRGGGAA
+Q63014,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,109,SKEGGRGGISS
+Q63014,Rattus norvegicus (Rat),Omega-N-methylarginine,233,NYMGGRGLGGP
+Q63014,Rattus norvegicus (Rat),Omega-N-methylarginine,277,PYGCGRSQTRI
+Q63246,Rattus norvegicus (Rat),Omega-N-methylarginine,278,TIMTLRTSPPG
+Q63246,Rattus norvegicus (Rat),Omega-N-methylarginine,292,SPAAARAGLVV
+Q63279,Rattus norvegicus (Rat),Omega-N-methylarginine,7,TSYSYRQSSAM
+Q63279,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,24,GGGPVRFGSGG
+Q63279,Rattus norvegicus (Rat),Omega-N-methylarginine,32,SGGVFRAPSIH
+Q63279,Rattus norvegicus (Rat),Omega-N-methylarginine,43,GGSGGRGVSVS
+Q63279,Rattus norvegicus (Rat),Omega-N-methylarginine,51,SVSSTRIVSSS
+Q63475,Rattus norvegicus (Rat),Omega-N-methylarginine,259,NDPEPRYLVHS
+Q63553,Rattus norvegicus (Rat),Omega-N-methylarginine,534,RKSQGRGSSCS
+Q63572,Rattus norvegicus (Rat),Omega-N-methylarginine,338,QGSVPRGGPSA
+Q63638,Rattus norvegicus (Rat),Omega-N-methylarginine,33,KVGAGRGVLVT
+Q63638,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,2060,ATRLTRGGLGE
+Q63638,Rattus norvegicus (Rat),Omega-N-methylarginine,2144,GEAEPRGRHRR
+Q63801,Rattus norvegicus (Rat),Omega-N-methylarginine,524,TLVSARAAAPP
+Q64350,Rattus norvegicus (Rat),Omega-N-methylarginine,18,GRANKRGGGSG
+Q64428,Rattus norvegicus (Rat),Omega-N-methylarginine,399,VTGLGRGQQQV
+Q66HL2,Rattus norvegicus (Rat),Omega-N-methylarginine,119,QVDSVRGFGGK
+Q68A21,Rattus norvegicus (Rat),Omega-N-methylarginine,23,FQPAPRGGGGP
+Q68A21,Rattus norvegicus (Rat),Omega-N-methylarginine,155,RQTVNRGGGGF
+Q68A21,Rattus norvegicus (Rat),Omega-N-methylarginine,297,KLYERRGGGSG
+Q68FS3,Rattus norvegicus (Rat),Omega-N-methylarginine,431,IPVYPRPYLPT
+Q68FS3,Rattus norvegicus (Rat),Omega-N-methylarginine,451,GEYDERPILPS
+Q6AXS5,Rattus norvegicus (Rat),Omega-N-methylarginine,165,RPIRGRGGLGR
+Q6AXS5,Rattus norvegicus (Rat),Omega-N-methylarginine,188,DGFDSRGKREF
+Q6AXS5,Rattus norvegicus (Rat),Omega-N-methylarginine,216,KHEDKRGGSGS
+Q6AXS5,Rattus norvegicus (Rat),Omega-N-methylarginine,363,FGDLGRPGRGG
+Q6AXS5,Rattus norvegicus (Rat),Omega-N-methylarginine,366,LGRPGRGGRGG
+Q6AXS5,Rattus norvegicus (Rat),Omega-N-methylarginine,369,PGRGGRGGRGG
+Q6AYU3,Rattus norvegicus (Rat),Omega-N-methylarginine,136,RGSRSRGAGSF
+Q6IMF3,Rattus norvegicus (Rat),Omega-N-methylarginine,12,SRSLCRSGGGG
+Q6IMF3,Rattus norvegicus (Rat),Omega-N-methylarginine,51,GGGGGRFSGGG
+Q6IMF3,Rattus norvegicus (Rat),Omega-N-methylarginine,517,SGTSSRGGGRY
+Q6IMF3,Rattus norvegicus (Rat),Omega-N-methylarginine,574,SSGGHRGGSGG
+Q6IMF3,Rattus norvegicus (Rat),Omega-N-methylarginine,596,SSGGGRGGSSS
+Q6IMY8,Rattus norvegicus (Rat),Omega-N-methylarginine,676,KNQFNRGGGHR
+Q6IMY8,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,707,GGYNRRGNMPQ
+Q6IMY8,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,713,GNMPQRGGGGG
+Q6IN36,Rattus norvegicus (Rat),Omega-N-methylarginine,121,DSGGSRPPILP
+Q6IN36,Rattus norvegicus (Rat),Omega-N-methylarginine,130,LPPGGRATSAK
+Q6JHU9,Rattus norvegicus (Rat),Omega-N-methylarginine,219,AAGRGRGAGMP
+Q6MG11,Rattus norvegicus (Rat),Omega-N-methylarginine,323,QRRRTRETPWG
+Q6P9V9,Rattus norvegicus (Rat),Omega-N-methylarginine,339,TIKTKRSIQFV
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,52,TDDSLREHFEK
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine,76,QTKRSRGFGFV
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,214,SAGSQRGRGGG
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,216,GSQRGRGGGSG
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,226,GNFMGRGGNFG
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,239,GGNFGRGGNFG
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,246,GNFGGRGGYGG
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine,257,GGGGSRGSYGG
+Q6URK4,Rattus norvegicus (Rat),Omega-N-methylarginine,355,GSFGGRSSGSP
+Q75Q39,Rattus norvegicus (Rat),Omega-N-methylarginine,74,REAGGRGDASG
+Q78E60,Rattus norvegicus (Rat),Omega-N-methylarginine,42,GAMPARGGKRR
+Q7TP47,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1; alternate,354,MPPPTRGRGRG
+Q7TP47,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,406,FQVGARGRGGR
+Q7TP47,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1; alternate,428,GAAPPRGRAGY
+Q7TP47,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,436,AGYSQRGGPGS
+Q7TP47,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1; alternate,446,SARGVRGARGG
+Q7TP47,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1; alternate,449,GVRGARGGAQQ
+Q7TPB1,Rattus norvegicus (Rat),Omega-N-methylarginine,19,AGPGNRGKGAY
+Q7TT49,Rattus norvegicus (Rat),Omega-N-methylarginine,671,VKQGGRGPGAT
+Q80WE1,Rattus norvegicus (Rat),Omega-N-methylarginine,449,GQGMGRGSRPY
+Q80WE1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,512,GDGRRRGGGGR
+Q80WE1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,517,RGGGGRGQGGR
+Q80WE1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,522,RGQGGRGRGGG
+Q80WE1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,524,QGGRGRGGGFK
+Q8K585,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,26,TEKRGRGRPRK
+Q8K585,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT6; alternate,58,TPKRPRGRPKG
+Q8K585,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT6; alternate,60,KRPRGRPKGSK
+Q8R4T5,Rattus norvegicus (Rat),Omega-N-methylarginine,269,APGGARGGSRR
+Q8VHK2,Rattus norvegicus (Rat),Omega-N-methylarginine,398,NVAGGRSTGGH
+Q8VHV7,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,233,FERMRRGAYGG
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine,282,VPEPSRGRGVS
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine,284,EPSRGRGVSVR
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine,291,VSVRGRGAAPP
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,310,GVGPPRGALVR
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,315,RGALVRGTPVR
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1; alternate,320,RGTPVRGSITR
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,325,RGSITRGATVT
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1; alternate,331,GATVTRGVPPP
+Q91V33,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1; alternate,340,PPPTVRGAPTP
+Q91XU1,Rattus norvegicus (Rat),Omega-N-methylarginine,227,AQAAPRIITGP
+Q91XU1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,242,PPAALRTPTPA
+Q91XU1,Rattus norvegicus (Rat),Omega-N-methylarginine,256,IMPLIRQIQTA
+Q920P0,Rattus norvegicus (Rat),Omega-N-methylarginine,21,GKGIGRSTVLA
+Q925G0,Rattus norvegicus (Rat),Omega-N-methylarginine,47,ETQRSRGFGFI
+Q925G0,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,105,GRSYSRGGGDQ
+Q925G0,Rattus norvegicus (Rat),Omega-N-methylarginine,120,GRYDSRPGGYG
+Q925G0,Rattus norvegicus (Rat),Omega-N-methylarginine,130,GYGYGRSRDYS
+Q99PF5,Rattus norvegicus (Rat),Omega-N-methylarginine,40,PGAGDRGGGGP
+Q99PF5,Rattus norvegicus (Rat),Omega-N-methylarginine,412,MPPGGRGRGRG
+Q99PF5,Rattus norvegicus (Rat),Omega-N-methylarginine,414,PGGRGRGRGQG
+Q99PF5,Rattus norvegicus (Rat),Omega-N-methylarginine,416,GRGRGRGQGNW
+Q99PF5,Rattus norvegicus (Rat),Omega-N-methylarginine,443,GLVIGRGGENV
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine,385,NQYMQRMASVR
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine,419,PQTQNRAAYYP
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine,432,QIAQLRPSPRW
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine,436,LRPSPRWTAQG
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine,475,SSQVPRVMSTQ
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine,481,VMSTQRVANTS
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,493,QTMGPRPAAAA
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine,506,ATPAVRTVPQY
+Q9EPH8,Rattus norvegicus (Rat),Omega-N-methylarginine,518,YAAGVRNPQQH
+Q9ER24,Rattus norvegicus (Rat),Omega-N-methylarginine,10,RMPPSRLSGIM
+Q9JJ54,Rattus norvegicus (Rat),Omega-N-methylarginine,270,QQWGSRGGFAG
+Q9JJ54,Rattus norvegicus (Rat),Omega-N-methylarginine,276,GGFAGRARGRG
+Q9JJ54,Rattus norvegicus (Rat),Omega-N-methylarginine,278,FAGRARGRGGG
+Q9JJ54,Rattus norvegicus (Rat),Omega-N-methylarginine,280,GRARGRGGGPS
+Q9JJ54,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,343,GKVSRRGGHQN
+Q9JJM9,Rattus norvegicus (Rat),Omega-N-methylarginine,168,FGHGLRPVDVG
+Q9JKA9,Rattus norvegicus (Rat),Omega-N-methylarginine,728,ALGSPRLVRRA
+Q9JKU3,Rattus norvegicus (Rat),Omega-N-methylarginine,672,ADQVSREYGGE
+Q9JLT0,Rattus norvegicus (Rat),Omega-N-methylarginine,18,YLFVDRAVIYN
+Q9JLT0,Rattus norvegicus (Rat),Omega-N-methylarginine,1930,KNRLRRGGPIS
+Q9JLT0,Rattus norvegicus (Rat),Omega-N-methylarginine,1940,SFSSSRSGRRQ
+Q9JMC1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,56,TPSEPRLALAP
+Q9JMC1,Rattus norvegicus (Rat),Omega-N-methylarginine,65,APVGPRAAVSP
+Q9JMC1,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,83,ALSSPRPILAP
+Q9QVC8,Rattus norvegicus (Rat),Omega-N-methylarginine,373,DFDLARADFQK
+Q9QXY2,Rattus norvegicus (Rat),Omega-N-methylarginine,364,SPSRSRLSYAG
+Q9QXY2,Rattus norvegicus (Rat),Omega-N-methylarginine,371,SYAGGRPPSYA
+Q9QXY2,Rattus norvegicus (Rat),Omega-N-methylarginine,535,SGPPSRGSPVR
+Q9QZA2,Rattus norvegicus (Rat),Omega-N-methylarginine,749,PTPAPRTMPPA
+Q9R080,Rattus norvegicus (Rat),Omega-N-methylarginine,418,TWDLLRLPLDR
+Q9R172,Rattus norvegicus (Rat),Omega-N-methylarginine,2175,PLDWARLPPPA
+Q9WUI9,Rattus norvegicus (Rat),Omega-N-methylarginine,1261,QQVQQRTLMMR
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,43,QGTRGRGSGAP
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,544,GSLGSRGRRRK
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,958,LTPSPRGGPFN
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,1059,SLRGWRGGGPS
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,1098,FQLPPRAASAA
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,1109,MYVPARSGRGR
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,1429,RELGYRAGLGS
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,1901,ALPWARGGSGG
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,2022,VSPAPRPSSLP
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,2042,GLFDIRSSPTG
+Q9WV48,Rattus norvegicus (Rat),Omega-N-methylarginine,2080,LSGASRSLSPT
+Q9Z1Z3,Rattus norvegicus (Rat),Omega-N-methylarginine,170,QITFGRGSSQP
+Q9Z2A6,Rattus norvegicus (Rat),Omega-N-methylarginine,449,VKTHVRAVAPS
+Q9Z2P5,Rattus norvegicus (Rat),Omega-N-methylarginine,474,PAQFGRGRGW
+Q9Z327,Rattus norvegicus (Rat),Omega-N-methylarginine,850,VPNLPRAGLPP
+B5DF21,Rattus norvegicus (Rat),Omega-N-methylarginine,465,RQQRNRGFGQS
+B5DFC9,Rattus norvegicus (Rat),Omega-N-methylarginine,1329,PDGTGRRVIQN
+D3ZD05,Rattus norvegicus (Rat),Omega-N-methylarginine,105,YSYCGRGFYPQ
+D4A615,Rattus norvegicus (Rat),Omega-N-methylarginine,797,YQAAIRGVGSA
+F1LNI5,Rattus norvegicus (Rat),Omega-N-methylarginine,22,GVGAPRLPLPY
+O70141,Rattus norvegicus (Rat),Omega-N-methylarginine,667,TGTGGRGGAGG
+P31232,Rattus norvegicus (Rat),Omega-N-methylarginine,183,QMGSNRGASQA
+P49797,Rattus norvegicus (Rat),Omega-N-methylarginine,167,TEVGKRSGQHT
+P52590,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,60,TPSSFRQPFTP
+P52590,Rattus norvegicus (Rat),Omega-N-methylarginine,68,FTPPSRSLLRH
+P62275,Rattus norvegicus (Rat),Omega-N-methylarginine,12,YWSHPRKFGQG
+P62282,Rattus norvegicus (Rat),Omega-N-methylarginine,69,GNVSIRGRILS
+P63255,Rattus norvegicus (Rat),Omega-N-methylarginine,68,PKGFGRGGAES
+P63326,Rattus norvegicus (Rat),Omega-N-methylarginine,153,TEFQFRGGFGR
+P85108,Rattus norvegicus (Rat),Omega-N-methylarginine,318,VAAIFRGRMSM
+P97680,Rattus norvegicus (Rat),Omega-N-methylarginine,692,EALVHRLPTTG
+Q02356,Rattus norvegicus (Rat),Omega-N-methylarginine,44,PLQSARSLPGT
+Q32PX7,Rattus norvegicus (Rat),Omega-N-methylarginine,316,GTTPDRIAQIT
+Q32PX7,Rattus norvegicus (Rat),Omega-N-methylarginine,354,PGPGGRGRGRG
+Q32PX7,Rattus norvegicus (Rat),Omega-N-methylarginine,356,PGGRGRGRGQG
+Q32PX7,Rattus norvegicus (Rat),Omega-N-methylarginine,358,GRGRGRGQGNW
+Q3MKQ1,Rattus norvegicus (Rat),Omega-N-methylarginine,51,EYYVPRGSRRR
+Q4FZT2,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,16,GRLPSRPPLPG
+Q4KLH4,Rattus norvegicus (Rat),Omega-N-methylarginine,506,PGGFGRGSQGG
+Q5M821,Rattus norvegicus (Rat),Omega-N-methylarginine,212,RAASLRGGVGA
+Q5U4E8,Rattus norvegicus (Rat),Omega-N-methylarginine,32,HQEIARSSYAD
+Q66H68,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,396,RTPGPRGSYLG
+Q66H68,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,407,GYSAGRGIYSR
+Q6AY09,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,233,FERMRRGAYGG
+Q6IFV4,Rattus norvegicus (Rat),Omega-N-methylarginine,27,QLGGGRNISTC
+Q6IFV4,Rattus norvegicus (Rat),Omega-N-methylarginine,35,STCSSRFVTGG
+Q6IG00,Rattus norvegicus (Rat),Omega-N-methylarginine,13,VRGVSRGFSSG
+Q6IG01,Rattus norvegicus (Rat),Omega-N-methylarginine,81,GFCQSRGAGGG
+Q6IG01,Rattus norvegicus (Rat),Omega-N-methylarginine,95,GFGGGRSFGGG
+Q6IG02,Rattus norvegicus (Rat),Omega-N-methylarginine,52,RHGGGRGGSGG
+Q6IG02,Rattus norvegicus (Rat),Omega-N-methylarginine,554,GSYGGRGGGST
+Q6IG02,Rattus norvegicus (Rat),Omega-N-methylarginine,588,SGGGSRGGSGG
+Q6IG02,Rattus norvegicus (Rat),Omega-N-methylarginine,603,TGGGSRGGSSS
+Q6IG02,Rattus norvegicus (Rat),Omega-N-methylarginine,653,SGGGSRGGSSS
+Q6IG12,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,15,TAYPGRGAQVR
+Q6P6Q2,Rattus norvegicus (Rat),Omega-N-methylarginine,527,GPLLNRRGLGS
+Q8R508,Rattus norvegicus (Rat),Omega-N-methylarginine,4508,SLHNSRGTSSS
+Q8R508,Rattus norvegicus (Rat),Omega-N-methylarginine,4518,SDMSARCGFDD
+Q920F3,Rattus norvegicus (Rat),Omega-N-methylarginine,230,GTTVTRGALPV
+Q920F3,Rattus norvegicus (Rat),Omega-N-methylarginine,240,VPPVARGVPTP
+Q9WTY8,Rattus norvegicus (Rat),Omega-N-methylarginine,100,ARAGGRGSGAG
+A1A5P0,Rattus norvegicus (Rat),Omega-N-methylarginine,53,TMHVGRGGDVF
+B2RYD2,Rattus norvegicus (Rat),Omega-N-methylarginine,578,LLLNPRALQPS
+B4F7F3,Rattus norvegicus (Rat),Omega-N-methylarginine,171,RHYVLRGGGPA
+B5DF93,Rattus norvegicus (Rat),Omega-N-methylarginine,385,NGTGDRGGHRV
+P55043,Rattus norvegicus (Rat),Omega-N-methylarginine,23,ERDRRRGSTPW
+Q0PGW2,Rattus norvegicus (Rat),Omega-N-methylarginine,41,GSGGGRVAAEA
+Q3SWU3,Rattus norvegicus (Rat),Omega-N-methylarginine,6,MTGTARSALPL
+Q3SWU3,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,310,YGKASRGGGNH
+Q4KM37,Rattus norvegicus (Rat),Omega-N-methylarginine,309,KVPAGRGGQNL
+Q4V896,Rattus norvegicus (Rat),Omega-N-methylarginine,106,AEDLLRFTVPI
+Q5HZE4,Rattus norvegicus (Rat),Omega-N-methylarginine,158,EQTNPRGGKVT
+Q5M864,Rattus norvegicus (Rat),Omega-N-methylarginine,316,SPRGLRGGPQY
+Q5MJ12,Rattus norvegicus (Rat),Omega-N-methylarginine,92,GPPVERPPLAT
+Q5PQQ2,Rattus norvegicus (Rat),Omega-N-methylarginine,192,GHGVPRLPPGR
+Q5RJM0,Rattus norvegicus (Rat),Omega-N-methylarginine,113,YLFGERLLSCK
+Q5U2M6,Rattus norvegicus (Rat),Omega-N-methylarginine; by PRMT1,198,LHFNQRGTWLA
+Q5U3Y0,Rattus norvegicus (Rat),Omega-N-methylarginine,13,DRNRRRGGGAA
+Q5XI07,Rattus norvegicus (Rat),Omega-N-methylarginine,246,YGPGSRSYNTQ
+Q5XI72,Rattus norvegicus (Rat),Omega-N-methylarginine,19,SFGGGRGSRGS
+Q5XI72,Rattus norvegicus (Rat),Omega-N-methylarginine,22,GGRGSRGSAGG
+Q5XI72,Rattus norvegicus (Rat),Omega-N-methylarginine,136,GGPDDRGMGGS
+Q5XI72,Rattus norvegicus (Rat),Omega-N-methylarginine,166,DFLGGRGGSRP
+Q5XI72,Rattus norvegicus (Rat),Omega-N-methylarginine,175,RPGDRRAGPPM
+Q5XIU5,Rattus norvegicus (Rat),Omega-N-methylarginine,205,PFGCQRGGMIV
+Q5XIU5,Rattus norvegicus (Rat),Omega-N-methylarginine,231,SGLPNRLPPGA
+Q63312,Rattus norvegicus (Rat),Omega-N-methylarginine,6,LTLGARGRRTR
+Q6AXX4,Rattus norvegicus (Rat),Omega-N-methylarginine,8,KRSRRRGAAQW
+Q6IE24,Rattus norvegicus (Rat),Omega-N-methylarginine,12,YFSGGRGSVQG
+Q6MG48,Rattus norvegicus (Rat),Omega-N-methylarginine,296,SGPPMRLVEPV
+Q6MG48,Rattus norvegicus (Rat),Omega-N-methylarginine,908,GRKPARGVGGG
+Q6MG48,Rattus norvegicus (Rat),Omega-N-methylarginine,1069,RGDDGRGGGSG
+Q7TP98,Rattus norvegicus (Rat),Omega-N-methylarginine; alternate,94,DILGSRITRPT
+Q7TP98,Rattus norvegicus (Rat),Omega-N-methylarginine,145,KLKGFRPFVPH
+Q812D3,Rattus norvegicus (Rat),Omega-N-methylarginine,61,PTGTGRGGSSI
+Q8R4R9,Rattus norvegicus (Rat),Omega-N-methylarginine,27,FFQSPRGGTGG
+Q9JHU0,Rattus norvegicus (Rat),Omega-N-methylarginine,559,APPGGRSSGIW
+B2RYL1,Rattus norvegicus (Rat),Omega-N-methylarginine,396,PGTFQRSAGLQ
+Q3B7K9,Rattus norvegicus (Rat),Omega-N-methylarginine,13,GLSGSRGGGKK
+Q5FVR6,Rattus norvegicus (Rat),Omega-N-methylarginine,164,CSSAVRALELI
+Q5M9G5,Rattus norvegicus (Rat),Omega-N-methylarginine,47,PRPGVRGPPSS
+Q5PQM4,Rattus norvegicus (Rat),Omega-N-methylarginine,322,CSLEIRKPSPF
+Q5U2S0,Rattus norvegicus (Rat),Omega-N-methylarginine,147,YYAITRGRRYY
+Q5XFX0,Rattus norvegicus (Rat),Omega-N-methylarginine,182,QMGTNRGASQA
+Q5XFX0,Rattus norvegicus (Rat),Omega-N-methylarginine,196,GYGMPRQIL

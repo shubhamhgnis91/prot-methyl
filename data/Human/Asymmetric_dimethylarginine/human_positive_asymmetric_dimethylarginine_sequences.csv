@@ -1,0 +1,330 @@
+Entry,Organism,Modified residue,Modified_position,Positive_sequence
+A0AV96,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,394,RAPGPRGSYLG
+A0AV96,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,405,GYSAGRGIYSR
+A7KAX9,Homo sapiens (Human),Asymmetric dimethylarginine,1523,QVYGARSEPPA
+A7KAX9,Homo sapiens (Human),Asymmetric dimethylarginine,1533,ASMGLRYNTYV
+O00267,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,681,SAGGQRGGFGS
+O00267,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,696,SGGMSRGRGRR
+O00267,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,698,GMSRGRGRRDN
+O14497,Homo sapiens (Human),Asymmetric dimethylarginine,429,SQTPQRYPMTM
+O14776,Homo sapiens (Human),Asymmetric dimethylarginine,28,QQQALRFRGPA
+O14776,Homo sapiens (Human),Asymmetric dimethylarginine,30,QALRFRGPAPP
+O14776,Homo sapiens (Human),Asymmetric dimethylarginine,41,PNAVMRGPPPL
+O14776,Homo sapiens (Human),Asymmetric dimethylarginine,48,PPPLMRPPPPF
+O43251,Homo sapiens (Human),Asymmetric dimethylarginine,297,VYGAVRAVPPT
+O43251,Homo sapiens (Human),Asymmetric dimethylarginine,329,GYAAYRYAQPA
+O43251,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,381,VASLYRGGYSR
+O43251,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,386,RGGYSRFAPY
+O43516,Homo sapiens (Human),Asymmetric dimethylarginine,33,TEQAGRNALLS
+O43823,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,109,SKEGGRGGSGG
+O60331,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,459,PSKKGRGGALL
+O60506,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,444,MPPPTRGRGRG
+O60506,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,510,GAAPSRGRGAA
+O60506,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,518,GAAPPRGRAGY
+O60506,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,526,AGYSQRGGPGS
+O60506,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,536,SARGVRGARGG
+O60506,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,539,GVRGARGGAQQ
+O60641,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,865,AQPMMRPPFGA
+O95793,Homo sapiens (Human),Asymmetric dimethylarginine,108,YNYNMRGGAYP
+O95793,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,115,GAYPPRYFYPF
+P05787,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,47,GSSNFRGGLGG
+P07196,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,23,YVETPRVHISS
+P08651,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,365,HSGIARSPHPS
+P08651,Homo sapiens (Human),Asymmetric dimethylarginine,395,PHTAIRYPPHL
+P08727,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,24,GGGSVRFGPGV
+P09651,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,194,ASSSQRGRSGS
+P09651,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,206,NFGGGRGGGFG
+P09651,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,218,NDNFGRGGNFS
+P09651,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,225,GNFSGRGGFGG
+P09651,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,232,GFGGSRGGGGY
+P11940,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,493,QTMGPRPAAAA
+P12270,Homo sapiens (Human),Asymmetric dimethylarginine,2343,GRQFNRQRGVS
+P12270,Homo sapiens (Human),Asymmetric dimethylarginine,2345,QFNRQRGVSHA
+P12270,Homo sapiens (Human),Asymmetric dimethylarginine,2354,HAMGGRGGINR
+P14678,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,108,GPGIGRAAGRG
+P14678,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,112,GRAAGRGIPAG
+P17096,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,26,TEKRGRGRPRK
+P17096,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT6; alternate,58,TPKRPRGRPKG
+P17096,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT6; alternate,60,KRPRGRPKGSK
+P17600,Homo sapiens (Human),Asymmetric dimethylarginine,679,EPAPPRPSLSQ
+P17661,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,37,SPVFPRAGFGS
+P18583,Homo sapiens (Human),Asymmetric dimethylarginine,1007,SYAAERSMMSS
+P18583,Homo sapiens (Human),Asymmetric dimethylarginine,1022,MMSYERSMMSP
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,656,GGFGGRGGGRG
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,660,GRGGGRGGFGG
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,666,GGFGGRGGGRG
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,670,GRGGGRGGRGG
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,673,GGRGGRGGFGG
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,679,GGFGGRGRGGF
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,681,FGGRGRGGFGG
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,687,GGFGGRGGFRG
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine,691,GRGGFRGGRGG
+P19338,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,694,GFRGGRGGGGD
+P22626,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,203,SSRSGRGGNFG
+P22626,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,213,GFGDSRGGGGN
+P22626,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,266,GYGGGRGGYGG
+P23246,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,9,DRFRSRGGGGG
+P26378,Homo sapiens (Human),Asymmetric dimethylarginine; by CARM1; alternate,248,HHQAQRFRLDN
+P31942,Homo sapiens (Human),Asymmetric dimethylarginine,121,RPIGGRGGYYG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,216,QDRGGRGRGGS
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,218,RGGRGRGGSGG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,242,GGYEPRGRGGG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,244,YEPRGRGGGRG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,248,GRGGGRGGRGG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,251,GGRGGRGGMGG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,259,MGGSDRGGFNK
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,377,RADFNRGGGNG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,383,GGGNGRGGRGR
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,386,NGRGGRGRGGP
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,388,RGGRGRGGPMG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,394,GGPMGRGGYGG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,407,SGGGGRGGFPS
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,473,YGDDRRGGRGG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,476,DRRGGRGGYDR
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,481,RGGYDRGGYRG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,485,DRGGYRGRGGD
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,487,GGYRGRGGDRG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,491,GRGGDRGGFRG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,495,DRGGFRGGRGG
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine,498,GFRGGRGGGDR
+P35637,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,503,RGGGDRGGFGP
+P35908,Homo sapiens (Human),Asymmetric dimethylarginine,20,GGGGFRGFSSG
+P45985,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,58,FKSTARFTLNP
+P48634,Homo sapiens (Human),Asymmetric dimethylarginine,272,PQGPYRYPTPD
+P49792,Homo sapiens (Human),Asymmetric dimethylarginine,945,GPPALRFESPA
+P49792,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,1016,PGEGLRPSLPT
+P51114,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,447,PGGRGRSVSGG
+P51114,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,453,SVSGGRGRGGP
+P51114,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,455,SGGRGRGGPRG
+P51991,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,214,SAGSQRGRGGG
+P51991,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,216,GSQRGRGGGSG
+P51991,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,226,GNFMGRGGNFG
+P51991,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,239,GGNFGRGGNFG
+P51991,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,246,GNFGGRGGYGG
+P51991,Homo sapiens (Human),Asymmetric dimethylarginine,286,PGYSSRGGYGG
+P57740,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,60,TPSSFRQPFTP
+P61081,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,169,VQRSMRGGYIG
+P62805,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,4,MSGRGKGGK
+P62995,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,241,YSRSYRGGGGG
+P63162,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,108,GPGVGRAAGRG
+P63162,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,112,GRAAGRGVPAG
+P98179,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,105,GRSYSRGGGDQ
+Q00839,Homo sapiens (Human),Asymmetric dimethylarginine,715,GGFNMRGGNFR
+Q00839,Homo sapiens (Human),Asymmetric dimethylarginine,720,RGGNFRGGAPG
+Q00839,Homo sapiens (Human),Asymmetric dimethylarginine,727,GAPGNRGGYNR
+Q00839,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,733,GGYNRRGNMPQ
+Q00839,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,739,GNMPQRGGGGG
+Q00839,Homo sapiens (Human),Asymmetric dimethylarginine,755,GYPYPRAPVFP
+Q00839,Homo sapiens (Human),Asymmetric dimethylarginine,762,PVFPGRGSYSN
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,300,SGPDNRGRGRG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,302,PDNRGRGRGGF
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,304,NRGRGRGGFDR
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,309,RGGFDRGGMSR
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,314,RGGMSRGGRGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,317,MSRGGRGGGRG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,321,GRGGGRGGMGS
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,455,PMNSMRGGLPP
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,464,PPREGRGMPPP
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,471,MPPPLRGGPGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT8,490,GRMGGRGGDRG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,494,GRGGDRGGFPP
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,500,GGFPPRGPRGS
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,503,PPRGPRGSRGN
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,506,GPRGSRGNPSG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,563,PPGGDRGRGGP
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,565,GGDRGRGGPGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine; alternate; by PRMT8,572,GPGGMRGGRGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,575,GMRGGRGGLMD
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,581,GGLMDRGGPGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,589,PGGMFRGGRGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,592,MFRGGRGGDRG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine; alternate; by PRMT8,596,GRGGDRGGFRG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,600,DRGGFRGGRGM
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT8,603,GFRGGRGMDRG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine; alternate; by PRMT8,607,GRGMDRGGFGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,615,FGGGRRGGPGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,633,QMGGRRGGRGG
+Q01844,Homo sapiens (Human),Asymmetric dimethylarginine,636,GRRGGRGGPGK
+Q06787,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,534,GDGRRRGGGGR
+Q06787,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,539,RGGGGRGQGGR
+Q06787,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,544,RGQGGRGRGGG
+Q06787,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,546,QGGRGRGGGFK
+Q07666,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,45,LPHRSRGGGGG
+Q07666,Homo sapiens (Human),Asymmetric dimethylarginine; partial; by PRMT1,52,GGGGSRGGARA
+Q07666,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,304,PVPRGRGVGPP
+Q07666,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,331,GATVTRGVPPP
+Q07955,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,93,FPRSGRGTGRG
+Q07955,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,97,GRGTGRGGGGG
+Q07955,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,109,GGGAPRGRYGP
+Q08211,Homo sapiens (Human),Asymmetric dimethylarginine,1166,PPKMARYDNGS
+Q08211,Homo sapiens (Human),Asymmetric dimethylarginine,1219,VGGGYRGVSRG
+Q08211,Homo sapiens (Human),Asymmetric dimethylarginine,1235,SGGDYRGPSGG
+Q08211,Homo sapiens (Human),Asymmetric dimethylarginine,1242,PSGGYRGSGGF
+Q08211,Homo sapiens (Human),Asymmetric dimethylarginine,1249,SGGFQRGGGRG
+Q08211,Homo sapiens (Human),Asymmetric dimethylarginine,1265,YFGQGRGGGGY
+Q12830,Homo sapiens (Human),Asymmetric dimethylarginine,2162,ATVTIRPNTSG
+Q12830,Homo sapiens (Human),Asymmetric dimethylarginine,2184,TGPQIRPGMTV
+Q12830,Homo sapiens (Human),Asymmetric dimethylarginine,2191,GMTVIRTPLQQ
+Q12905,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,16,GRFGSRGGPGG
+Q13151,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,291,NSGPYRGGYGG
+Q13227,Homo sapiens (Human),Asymmetric dimethylarginine,312,SQPGPRLPFIQ
+Q13227,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,323,HSQNPRFYHK
+Q13283,Homo sapiens (Human),Asymmetric dimethylarginine,429,RDNRLRGPGGP
+Q13283,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,435,GPGGPRGGLGG
+Q13303,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,28,MIYSTRYGSPK
+Q14103,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,345,GKVSRRGGHQN
+Q14157,Homo sapiens (Human),Asymmetric dimethylarginine,187,GGSGRRGGRFS
+Q14157,Homo sapiens (Human),Asymmetric dimethylarginine,190,GRRGGRFSAQG
+Q14444,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,698,PPRPNRGMPQM
+Q14781,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,247,ASSPGRGGISW
+Q15025,Homo sapiens (Human),Asymmetric dimethylarginine,571,DWSQIRYPPPP
+Q15025,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,599,PEYTWRLPCGG
+Q15424,Homo sapiens (Human),Asymmetric dimethylarginine,868,GHMMNRGGMSG
+Q15424,Homo sapiens (Human),Asymmetric dimethylarginine,874,GGMSGRGSFAP
+Q15424,Homo sapiens (Human),Asymmetric dimethylarginine,884,PGGASRGHPIP
+Q15554,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,59,GRAAGRRASRS
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,338,FSQIYRFSLSD
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,864,QKTALRISQST
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,874,TFNNPRPGQLG
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,1173,LRMQPRPGLRP
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,1177,PRPGLRPTGLV
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,1190,QPNQLRLQLQH
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,1196,LQLQHRLQAQQ
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,1203,QAQQNRQPLMN
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,1221,VNLTLRPGVPT
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,1240,LAQRQREILNQ
+Q15596,Homo sapiens (Human),Asymmetric dimethylarginine,1266,RTLMMRGQGLN
+Q15654,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,25,GRAIPRGTPGP
+Q15717,Homo sapiens (Human),Asymmetric dimethylarginine; by CARM1; alternate,217,HHQAQRFRFSP
+Q15735,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,56,GPSEPRLALAP
+Q15735,Homo sapiens (Human),Asymmetric dimethylarginine,76,SSEGPRLALAS
+Q15735,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,83,ALASPRPILAP
+Q15772,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,2055,ATRLARGGLGE
+Q5SQI0,Homo sapiens (Human),Asymmetric dimethylarginine,305,PHPTARLLLAA
+Q69YN4,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,1741,NYNESRGGQSN
+Q69YN4,Homo sapiens (Human),Asymmetric dimethylarginine,1773,RDRASRGRGGL
+Q69YN4,Homo sapiens (Human),Asymmetric dimethylarginine,1775,RASRGRGGLGP
+Q69YN4,Homo sapiens (Human),Asymmetric dimethylarginine,1793,GSGGSRGKFVS
+Q7Z6G3,Homo sapiens (Human),Asymmetric dimethylarginine,42,RMGEPRESLAP
+Q86TB9,Homo sapiens (Human),Asymmetric dimethylarginine,217,KPVHVRPPMPP
+Q86TB9,Homo sapiens (Human),Asymmetric dimethylarginine,223,PPMPPRYPAPY
+Q86TB9,Homo sapiens (Human),Asymmetric dimethylarginine,263,LSPLQRAQLLG
+Q86TB9,Homo sapiens (Human),Asymmetric dimethylarginine,284,PSQFARVPGFV
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,238,DESLFRGRQIK
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,259,ISTTDRGFPRA
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,263,DRGFPRARYRA
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,265,GFPRARYRART
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,267,PRARYRARTTN
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,269,ARYRARTTNYN
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,277,NYNSSRSRFYS
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,279,NSSRSRFYSGF
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,287,SGFNSRPRGRV
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,289,FNSRPRGRVYR
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,291,SRPRGRVYRGR
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,294,RGRVYRGRARA
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,296,RVYRGRARATS
+Q86U42,Homo sapiens (Human),Asymmetric dimethylarginine,298,YRGRARATSWY
+Q86UU1,Homo sapiens (Human),Asymmetric dimethylarginine,131,QSTFLRFNHPA
+Q86UW9,Homo sapiens (Human),Asymmetric dimethylarginine,213,GPVSGRYRHSM
+Q86UW9,Homo sapiens (Human),Asymmetric dimethylarginine,215,VSGRYRHSMTN
+Q86UW9,Homo sapiens (Human),Asymmetric dimethylarginine,233,QHPPHRTASVF
+Q86V81,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,38,GSQGGRGGGAQ
+Q86V81,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,197,AQSVNRGGMTR
+Q86V81,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,204,GMTRNRGAGGF
+Q86VQ6,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,26,RSGHVRGARVL
+Q86YP4,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,539,SATTPRGVLHT
+Q8NF64,Homo sapiens (Human),Asymmetric dimethylarginine,245,LYAGQRLPQHG
+Q8NF64,Homo sapiens (Human),Asymmetric dimethylarginine,262,AQPLPRQGVKR
+Q8TAP9,Homo sapiens (Human),Asymmetric dimethylarginine,37,GGGGPRPPSPR
+Q8TAP9,Homo sapiens (Human),Asymmetric dimethylarginine,59,YGPRSRPYGSS
+Q8TAP9,Homo sapiens (Human),Asymmetric dimethylarginine,68,SSHSPRHGGSF
+Q8TAP9,Homo sapiens (Human),Asymmetric dimethylarginine,77,SFPGGRFGSPS
+Q92530,Homo sapiens (Human),Asymmetric dimethylarginine,219,RSGFPRALIDP
+Q92558,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,341,STSSLRASMTS
+Q92793,Homo sapiens (Human),Asymmetric dimethylarginine,601,VTQDLRSHLVH
+Q92793,Homo sapiens (Human),Asymmetric dimethylarginine,625,ALKDRRMENLV
+Q92804,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,206,SSGGDRGGFKN
+Q92804,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,528,GGDRSRGGYGG
+Q92804,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,535,GYGGDRGGGSG
+Q92804,Homo sapiens (Human),Asymmetric dimethylarginine,570,GYGGDRGGYGG
+Q92804,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,570,GYGGDRGGYGG
+Q92934,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,94,EPSPFRGRSRS
+Q92934,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1,96,SPFRGRSRSAP
+Q92997,Homo sapiens (Human),Asymmetric dimethylarginine; by PRMT1; alternate,271,GQSNERGDGGI
+Q93074,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,1899,KTSVYRQQQPA
+Q93074,Homo sapiens (Human),Asymmetric dimethylarginine,1994,RHLQQRPSGYV
+Q93074,Homo sapiens (Human),Asymmetric dimethylarginine,2015,LTSTQRFSHQT
+Q96EV2,Homo sapiens (Human),Asymmetric dimethylarginine,470,VSGEPRFPSHL
+Q96EV2,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,1028,KVTLTRGGLQQ
+Q96PU8,Homo sapiens (Human),Asymmetric dimethylarginine; by CARM1; alternate,242,PPAALRTPTPA
+Q96RK0,Homo sapiens (Human),Asymmetric dimethylarginine,1772,PTTSIRFTLPP
+Q96T37,Homo sapiens (Human),Asymmetric dimethylarginine; alternate; by PRMT1,578,YRDRDRDLYPD
+Q96T58,Homo sapiens (Human),Asymmetric dimethylarginine,3113,ITYSIRPEALH
+Q96T58,Homo sapiens (Human),Asymmetric dimethylarginine,3121,ALHSPRAPLQP
+Q99700,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,640,RVSAGRGSISS
+Q99729,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,322,GKSQRRGGHQN
+Q99958,Homo sapiens (Human),Asymmetric dimethylarginine,458,MFNSHRLGIEN
+Q9BST9,Homo sapiens (Human),Asymmetric dimethylarginine,230,SGRRVRASLDS
+Q9BTC0,Homo sapiens (Human),Asymmetric dimethylarginine,1893,QFGGQRRPLLS
+Q9BTC0,Homo sapiens (Human),Asymmetric dimethylarginine,1894,FGGQRRPLLSQ
+Q9BTC0,Homo sapiens (Human),Asymmetric dimethylarginine,1977,VHSPPRFTNQR
+Q9BTC0,Homo sapiens (Human),Asymmetric dimethylarginine,1982,RFTNQRAPAPL
+Q9BTC0,Homo sapiens (Human),Asymmetric dimethylarginine,1993,QFGGLRGSAPF
+Q9BTC0,Homo sapiens (Human),Asymmetric dimethylarginine,2008,EQTPSRFHFQG
+Q9BTC0,Homo sapiens (Human),Asymmetric dimethylarginine,2024,MKPGPRPLLEL
+Q9BUJ2,Homo sapiens (Human),Asymmetric dimethylarginine,639,PPGGNRGGFQN
+Q9BUJ2,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,645,GGFQNRGGGSG
+Q9BUJ2,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,656,GGGNYRGGFNR
+Q9C0J8,Homo sapiens (Human),Asymmetric dimethylarginine,915,LGDGPRAPFNQ
+Q9C0J8,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,1315,GSNWGRGSNMN
+Q9C0K0,Homo sapiens (Human),Asymmetric dimethylarginine,322,FSPPPRHHLDP
+Q9H0D6,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,824,GHVMPRGSGTG
+Q9H0D6,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,847,QGNLYRPLLRG
+Q9H0D6,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,851,YRPLLRGQAQI
+Q9H0D6,Homo sapiens (Human),Asymmetric dimethylarginine,880,LFQQQRFDRGV
+Q9H0D6,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,883,QQRFDRGVGAE
+Q9H0D6,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,946,PPPSGRYNWN
+Q9H987,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,921,DEPIWRTELAS
+Q9HCE9,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,1020,TGSDTRLPAFL
+Q9NR22,Homo sapiens (Human),Asymmetric dimethylarginine; by autocatalysis,73,EEMTSRDYYFD
+Q9NRC8,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,388,GGWFGRGCTKR
+Q9NWB1,Homo sapiens (Human),Asymmetric dimethylarginine,317,GYAAYRYAQPT
+Q9P2D1,Homo sapiens (Human),Asymmetric dimethylarginine,286,QQGAVRPQTLN
+Q9UBU9,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,42,NRRSGRGGSGI
+Q9ULX6,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,208,DPMGARGQCMS
+Q9UPA5,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,1801,EAKFARYNLPN
+Q9UPA5,Homo sapiens (Human),Asymmetric dimethylarginine,2250,PMIAPRVPLGP
+Q9UPA5,Homo sapiens (Human),Asymmetric dimethylarginine,2260,PTGLYRYPAPS
+Q9UPA5,Homo sapiens (Human),Asymmetric dimethylarginine,2266,YPAPSRFPIAS
+Q9UPN9,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,515,NLAQLRLQHMQ
+Q9UPN9,Homo sapiens (Human),Asymmetric dimethylarginine,577,VQTMQRGNMNC
+Q9UPN9,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,591,QAHQMRLAQNA
+Q9UPN9,Homo sapiens (Human),Asymmetric dimethylarginine,598,AQNAARIPGIP
+Q9UPN9,Homo sapiens (Human),Asymmetric dimethylarginine,604,IPGIPRHSGPQ
+Q9UQ35,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,2384,NLTSPRVPLSA
+Q9Y3I1,Homo sapiens (Human),Asymmetric dimethylarginine,518,RPTDGRLSFM
+Q9Y520,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,242,LASQYRAMMPP
+Q9Y520,Homo sapiens (Human),Asymmetric dimethylarginine,255,FQQYPRMTYPP
+Q9Y520,Homo sapiens (Human),Asymmetric dimethylarginine,266,LHGPMRFPPSL
+Q9Y520,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,2823,LQSTQRFFSEQ
+Q9Y566,Homo sapiens (Human),Asymmetric dimethylarginine,1253,NEARRRSTLFL
+Q9Y570,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,16,GRLPSRPPLPG
+A6NFN3,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,223,TAVAYRGAHLR
+A6NFN3,Homo sapiens (Human),Asymmetric dimethylarginine,272,GYAAYRYAQPA
+Q2MJR0,Homo sapiens (Human),Asymmetric dimethylarginine,240,STCVVRFAKTG
+Q6PJG2,Homo sapiens (Human),Asymmetric dimethylarginine,193,QLEVGRPQAPL
+Q9Y3X0,Homo sapiens (Human),Asymmetric dimethylarginine,131,GGRGRRGRGRG
+Q9Y3X0,Homo sapiens (Human),Asymmetric dimethylarginine,133,RGRRGRGRGSP
+Q9Y3X0,Homo sapiens (Human),Asymmetric dimethylarginine,135,RRGRGRGSPHL
+C9J069,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,749,FLSRGRGVLFL
+P0CG12,Homo sapiens (Human),Asymmetric dimethylarginine,364,ANPFPRGAGSS
+Q15032,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,929,GQGDSRYPLLG
+Q32P51,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,194,ASSSQRGRRGS
+Q32P51,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,206,NFGGGRGDGFG
+Q32P51,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,218,NDNFGRGGNFS
+Q32P51,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,225,GNFSGRGGFGG
+Q86WR7,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,252,QPKAPRFPSNI
+Q9H1Z4,Homo sapiens (Human),Asymmetric dimethylarginine; alternate,114,RRSVSRGSYQL
+Q5T0Z8,Homo sapiens (Human),Asymmetric dimethylarginine,1044,FPAGARYAGAG
+Q5T0Z8,Homo sapiens (Human),Asymmetric dimethylarginine,1157,PYTTTRYGSPI
+Q8N4B5,Homo sapiens (Human),Asymmetric dimethylarginine,172,PSAEPRRLLAP

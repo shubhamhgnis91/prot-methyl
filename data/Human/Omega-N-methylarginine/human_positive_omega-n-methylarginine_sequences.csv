@@ -1,0 +1,988 @@
+Entry,Organism,Modified residue,Modified_position,Positive_sequence
+A0AV96,Homo sapiens (Human),Omega-N-methylarginine,332,YQKAARGGGAA
+A0AV96,Homo sapiens (Human),Omega-N-methylarginine; alternate,394,RAPGPRGSYLG
+A0AV96,Homo sapiens (Human),Omega-N-methylarginine; alternate,405,GYSAGRGIYSR
+A1L390,Homo sapiens (Human),Omega-N-methylarginine,1107,STKRGRGGGEA
+A2RUH7,Homo sapiens (Human),Omega-N-methylarginine,321,CSLEIRKPGPF
+A7KAX9,Homo sapiens (Human),Omega-N-methylarginine,2037,LPQHQRGVFGG
+O00192,Homo sapiens (Human),Omega-N-methylarginine,170,RHFLLRGGGPV
+O00220,Homo sapiens (Human),Omega-N-methylarginine,52,PRGGGRGALPT
+O00267,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,681,SAGGQRGGFGS
+O00267,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,696,SGGMSRGRGRR
+O00267,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1 and PRMT5; alternate,698,GMSRGRGRRDN
+O00305,Homo sapiens (Human),Omega-N-methylarginine,506,KPHRNRGSPGG
+O00401,Homo sapiens (Human),Omega-N-methylarginine,307,PPARGRGAPPP
+O00562,Homo sapiens (Human),Omega-N-methylarginine,1211,QLLRSRGPSQA
+O00562,Homo sapiens (Human),Omega-N-methylarginine,1218,PSQAEREGPGT
+O00567,Homo sapiens (Human),Omega-N-methylarginine,359,STFIGRAAAKN
+O00571,Homo sapiens (Human),Omega-N-methylarginine,101,FDDRGRSDYDG
+O00571,Homo sapiens (Human),Omega-N-methylarginine,110,DGIGSRGDRSG
+O00571,Homo sapiens (Human),Omega-N-methylarginine,592,RSKSSRFSGGF
+O00571,Homo sapiens (Human),Omega-N-methylarginine,617,SFSSSRASSSR
+O00571,Homo sapiens (Human),Omega-N-methylarginine,632,GHGSSRGFGGG
+O14497,Homo sapiens (Human),Omega-N-methylarginine,1276,VAMGPRQHYPY
+O14525,Homo sapiens (Human),Omega-N-methylarginine,337,INNKARAGSAF
+O14559,Homo sapiens (Human),Omega-N-methylarginine,1244,PPAYGRGGELH
+O14776,Homo sapiens (Human),Omega-N-methylarginine,20,NPGELRMAQQQ
+O14924,Homo sapiens (Human),Omega-N-methylarginine,524,VPPSKRGTVGA
+O14924,Homo sapiens (Human),Omega-N-methylarginine,633,GSKFGRGTGLT
+O14976,Homo sapiens (Human),Omega-N-methylarginine,1123,SWQTSRPPAQG
+O14979,Homo sapiens (Human),Omega-N-methylarginine,25,ATLASRSLSHW
+O14979,Homo sapiens (Human),Omega-N-methylarginine; alternate,408,YGKASRGGGNH
+O15061,Homo sapiens (Human),Omega-N-methylarginine,1487,LGVSDRGSWRD
+O15164,Homo sapiens (Human),Omega-N-methylarginine,469,SLAQLRLQHMQ
+O15232,Homo sapiens (Human),Omega-N-methylarginine,198,IVTDGRPQDQV
+O15355,Homo sapiens (Human),Omega-N-methylarginine,22,GVGAPRLPLPY
+O15399,Homo sapiens (Human),Omega-N-methylarginine,1316,SHRRHRGGDLG
+O15523,Homo sapiens (Human),Omega-N-methylarginine,100,FDDRGRSDYDG
+O15523,Homo sapiens (Human),Omega-N-methylarginine,109,DGIGNRERPGF
+O15523,Homo sapiens (Human),Omega-N-methylarginine,590,RSKSNRFSGGF
+O15523,Homo sapiens (Human),Omega-N-methylarginine,615,GFGASRGSSSR
+O15523,Homo sapiens (Human),Omega-N-methylarginine,630,GYGNSRGFGGG
+O15550,Homo sapiens (Human),Omega-N-methylarginine,519,GVAQVRSTGIP
+O15550,Homo sapiens (Human),Omega-N-methylarginine,549,QLALTRVPSVS
+O43237,Homo sapiens (Human),Omega-N-methylarginine,397,PRTQGRGGPAS
+O43251,Homo sapiens (Human),Omega-N-methylarginine,281,TAAAFRGAHLR
+O43251,Homo sapiens (Human),Omega-N-methylarginine; alternate,381,VASLYRGGYSR
+O43251,Homo sapiens (Human),Omega-N-methylarginine; alternate,386,RGGYSRFAPY
+O43426,Homo sapiens (Human),Omega-N-methylarginine,1201,PTIPPRAGVIS
+O43516,Homo sapiens (Human),Omega-N-methylarginine,125,DSGGSRPPLLP
+O43516,Homo sapiens (Human),Omega-N-methylarginine,134,LPPGGRSTSAK
+O43541,Homo sapiens (Human),Omega-N-methylarginine; alternate,75,DAVGQRGAQGA
+O43541,Homo sapiens (Human),Omega-N-methylarginine; alternate,82,AQGAGRRRRAG
+O43809,Homo sapiens (Human),Omega-N-methylarginine,15,QTGWPRGVTQF
+O43818,Homo sapiens (Human),Omega-N-methylarginine,10,AAARKRGKPAS
+O43823,Homo sapiens (Human),Omega-N-methylarginine; alternate,109,SKEGGRGGSGG
+O43823,Homo sapiens (Human),Omega-N-methylarginine,233,NYVGGRGLGGP
+O43823,Homo sapiens (Human),Omega-N-methylarginine,277,PYGCGRSQPRM
+O43896,Homo sapiens (Human),Omega-N-methylarginine,1041,GGGRSRGAGSA
+O60331,Homo sapiens (Human),Omega-N-methylarginine; alternate,459,PSKKGRGGALL
+O60343,Homo sapiens (Human),Omega-N-methylarginine,577,ENIFSRGANRM
+O60493,Homo sapiens (Human),Omega-N-methylarginine,43,TVGVGRGRFTT
+O60506,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,444,MPPPTRGRGRG
+O60506,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,496,FQVGARGRGGR
+O60506,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,518,GAAPPRGRAGY
+O60506,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,526,AGYSQRGGPGS
+O60506,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,536,SARGVRGARGG
+O60506,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,539,GVRGARGGAQQ
+O60641,Homo sapiens (Human),Omega-N-methylarginine; alternate,865,AQPMMRPPFGA
+O60814,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+O60814,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+O75069,Homo sapiens (Human),Omega-N-methylarginine,163,RPSIKRGASLH
+O75112,Homo sapiens (Human),Omega-N-methylarginine,219,YQMSLRGKASG
+O75112,Homo sapiens (Human),Omega-N-methylarginine,516,KQTLPRGGPAY
+O75112,Homo sapiens (Human),Omega-N-methylarginine,533,VPPLARGTVQR
+O75190,Homo sapiens (Human),Omega-N-methylarginine,135,RGSRSRGTGSF
+O75400,Homo sapiens (Human),Omega-N-methylarginine,9,GTGAERGGLMV
+O75607,Homo sapiens (Human),Omega-N-methylarginine,27,GVGGLRVPAPV
+O75815,Homo sapiens (Human),Omega-N-methylarginine,442,ATGCGRGAKLP
+O75970,Homo sapiens (Human),Omega-N-methylarginine,1170,SIVGGRGMGSR
+O76041,Homo sapiens (Human),Omega-N-methylarginine,795,EKTKGRGFTPV
+O94826,Homo sapiens (Human),Omega-N-methylarginine,71,REARGRGDASG
+O94874,Homo sapiens (Human),Omega-N-methylarginine,433,GSGSMRGGGGG
+O94910,Homo sapiens (Human),Omega-N-methylarginine,1194,PVLQPRGGTSP
+O94929,Homo sapiens (Human),Omega-N-methylarginine,631,LLVTTRGRNRL
+O95208,Homo sapiens (Human),Omega-N-methylarginine,170,QITFGRGSSQP
+O95425,Homo sapiens (Human),Omega-N-methylarginine,1203,WKTRGRGAAND
+O95429,Homo sapiens (Human),Omega-N-methylarginine,40,PLYPLRPEPPQ
+O95429,Homo sapiens (Human),Omega-N-methylarginine,53,ISWRVRGGGPA
+O95429,Homo sapiens (Human),Omega-N-methylarginine,108,WNSTARSRAPY
+O95429,Homo sapiens (Human),Omega-N-methylarginine,185,PTPVSRWIYPQ
+O95622,Homo sapiens (Human),Omega-N-methylarginine,23,AAPAPRGGPEH
+O95793,Homo sapiens (Human),Omega-N-methylarginine; alternate,115,GAYPPRYFYPF
+O95817,Homo sapiens (Human),Omega-N-methylarginine,139,SQSPLRGMPET
+O95817,Homo sapiens (Human),Omega-N-methylarginine,261,EPRPLRAASPF
+P00533,Homo sapiens (Human),Omega-N-methylarginine,1199,NAEYLRVAPQS
+P02686,Homo sapiens (Human),Omega-N-methylarginine,177,LDSIGRFFGGD
+P02686,Homo sapiens (Human),Omega-N-methylarginine,183,FFGGDRGAPKR
+P02686,Homo sapiens (Human),Omega-N-methylarginine; alternate,241,SQGKGRGLSLS
+P02753,Homo sapiens (Human),Omega-N-methylarginine,139,VQYSCRLLNLD
+P04150,Homo sapiens (Human),Omega-N-methylarginine,23,VLAQERGDVMD
+P04264,Homo sapiens (Human),Omega-N-methylarginine,12,SRSGYRSGGGF
+P04264,Homo sapiens (Human),Omega-N-methylarginine,45,GGGGGRFSSCG
+P04264,Homo sapiens (Human),Omega-N-methylarginine,82,SISVARGGGRG
+P04264,Homo sapiens (Human),Omega-N-methylarginine,518,SGGGSRGGGGG
+P04264,Homo sapiens (Human),Omega-N-methylarginine,588,SSGGYRGGSGG
+P04637,Homo sapiens (Human),Omega-N-methylarginine; by PRMT5,333,FTLQIRGRERF
+P04792,Homo sapiens (Human),Omega-N-methylarginine,12,PFSLLRGPSWD
+P05423,Homo sapiens (Human),Omega-N-methylarginine,95,REGHGRGRGRP
+P05423,Homo sapiens (Human),Omega-N-methylarginine,97,GHGRGRGRPEV
+P05423,Homo sapiens (Human),Omega-N-methylarginine,99,GRGRGRPEVIQ
+P05783,Homo sapiens (Human),Omega-N-methylarginine,45,GGSGSRISVSR
+P05783,Homo sapiens (Human),Omega-N-methylarginine,55,RSTSFRGGMGS
+P05787,Homo sapiens (Human),Omega-N-methylarginine,23,RAFSSRSYTSG
+P05787,Homo sapiens (Human),Omega-N-methylarginine,32,SGPGSRISSSS
+P05787,Homo sapiens (Human),Omega-N-methylarginine,40,SSSFSRVGSSN
+P05787,Homo sapiens (Human),Omega-N-methylarginine; alternate,47,GSSNFRGGLGG
+P06746,Homo sapiens (Human),Omega-N-methylarginine; by PRMT6,83,ATGKLRKLEKI
+P06746,Homo sapiens (Human),Omega-N-methylarginine; by PRMT6,152,EKRIPREEMLQ
+P06899,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+P06899,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+P07196,Homo sapiens (Human),Omega-N-methylarginine; alternate,23,YVETPRVHISS
+P07196,Homo sapiens (Human),Omega-N-methylarginine,30,HISSVRSGYST
+P07197,Homo sapiens (Human),Omega-N-methylarginine,42,SQSWSRGSPST
+P07437,Homo sapiens (Human),Omega-N-methylarginine,318,VAAVFRGRMSM
+P07814,Homo sapiens (Human),Omega-N-methylarginine,1152,WCNVVRWEFKH
+P08651,Homo sapiens (Human),Omega-N-methylarginine; alternate,365,HSGIARSPHPS
+P08651,Homo sapiens (Human),Omega-N-methylarginine,451,PPGLPRLALPP
+P08727,Homo sapiens (Human),Omega-N-methylarginine,7,TSYSYRQSSAT
+P08727,Homo sapiens (Human),Omega-N-methylarginine; alternate,24,GGGSVRFGPGV
+P08727,Homo sapiens (Human),Omega-N-methylarginine,32,PGVAFRAPSIH
+P08727,Homo sapiens (Human),Omega-N-methylarginine,43,GGSGGRGVSVS
+P08727,Homo sapiens (Human),Omega-N-methylarginine,51,SVSSARFVSSS
+P08729,Homo sapiens (Human),Omega-N-methylarginine; alternate,20,AAFSGRGAQVR
+P08913,Homo sapiens (Human),Omega-N-methylarginine,368,GPGEERVGAAK
+P09012,Homo sapiens (Human),Omega-N-methylarginine,152,MTQAPRIMHHM
+P09038,Homo sapiens (Human),Omega-N-methylarginine; alternate,108,ERVGGRGRGRG
+P09038,Homo sapiens (Human),Omega-N-methylarginine; alternate,110,VGGRGRGRGTA
+P09038,Homo sapiens (Human),Omega-N-methylarginine; alternate,112,GRGRGRGTAAP
+P09651,Homo sapiens (Human),Omega-N-methylarginine; alternate,194,ASSSQRGRSGS
+P09651,Homo sapiens (Human),Omega-N-methylarginine; alternate,206,NFGGGRGGGFG
+P09651,Homo sapiens (Human),Omega-N-methylarginine; alternate,218,NDNFGRGGNFS
+P09651,Homo sapiens (Human),Omega-N-methylarginine; alternate,225,GNFSGRGGFGG
+P09651,Homo sapiens (Human),Omega-N-methylarginine; alternate,232,GFGGSRGGGGY
+P09651,Homo sapiens (Human),Omega-N-methylarginine,336,GNFGGRSSGPY
+P09651,Homo sapiens (Human),Omega-N-methylarginine,352,YFAKPRNQGGY
+P09651,Homo sapiens (Human),Omega-N-methylarginine,370,SYGSGRRF
+P0DMV8,Homo sapiens (Human),Omega-N-methylarginine,469,IPPAPRGVPQI
+P0DMV9,Homo sapiens (Human),Omega-N-methylarginine,469,IPPAPRGVPQI
+P10071,Homo sapiens (Human),Omega-N-methylarginine,175,DLPFIRISPHR
+P10636,Homo sapiens (Human),Omega-N-methylarginine,472,KIATPRGAAPP
+P10636,Homo sapiens (Human),Omega-N-methylarginine,666,LDFKDRVQSKI
+P11021,Homo sapiens (Human),Omega-N-methylarginine,492,IPPAPRGVPQI
+P11142,Homo sapiens (Human),Omega-N-methylarginine,469,IPPAPRGVPQI
+P11274,Homo sapiens (Human),Omega-N-methylarginine,471,LSSKGRGSRDA
+P11717,Homo sapiens (Human),Omega-N-methylarginine,2425,KVHSGRGAGAE
+P11940,Homo sapiens (Human),Omega-N-methylarginine,385,NQYMQRMASVR
+P11940,Homo sapiens (Human),Omega-N-methylarginine,419,PQTQNRAAYYP
+P11940,Homo sapiens (Human),Omega-N-methylarginine,432,QIAQLRPSPRW
+P11940,Homo sapiens (Human),Omega-N-methylarginine,436,LRPSPRWTAQG
+P11940,Homo sapiens (Human),Omega-N-methylarginine,475,SSQVPRVMSTQ
+P11940,Homo sapiens (Human),Omega-N-methylarginine,481,VMSTQRVANTS
+P11940,Homo sapiens (Human),Omega-N-methylarginine; alternate,493,QTMGPRPAAAA
+P11940,Homo sapiens (Human),Omega-N-methylarginine,506,ATPAVRTVPQY
+P11940,Homo sapiens (Human),Omega-N-methylarginine,518,YAAGVRNPQQH
+P12270,Homo sapiens (Human),Omega-N-methylarginine,2106,IQMTRRQSVGR
+P12270,Homo sapiens (Human),Omega-N-methylarginine,2111,RQSVGRGLQLT
+P12270,Homo sapiens (Human),Omega-N-methylarginine,2163,VAGVPRFRFGP
+P13497,Homo sapiens (Human),Omega-N-methylarginine,934,DSTAPRLGRYC
+P13497,Homo sapiens (Human),Omega-N-methylarginine,937,APRLGRYCGSG
+P13631,Homo sapiens (Human),Omega-N-methylarginine,34,FPGALRGSPPF
+P13646,Homo sapiens (Human),Omega-N-methylarginine,27,QLGGGRGVSTC
+P13646,Homo sapiens (Human),Omega-N-methylarginine,35,STCSTRFVSGG
+P14136,Homo sapiens (Human),Omega-N-methylarginine,12,TSAARRSYVSS
+P14678,Homo sapiens (Human),Omega-N-methylarginine; alternate,108,GPGIGRAAGRG
+P14678,Homo sapiens (Human),Omega-N-methylarginine; alternate,112,GRAAGRGIPAG
+P14678,Homo sapiens (Human),Omega-N-methylarginine,147,MTPQGRGTVAA
+P14678,Homo sapiens (Human),Omega-N-methylarginine,172,QYPPGRGGPPP
+P15056,Homo sapiens (Human),Omega-N-methylarginine; by PRMT5,671,IFMVGRGYLSP
+P15923,Homo sapiens (Human),Omega-N-methylarginine,371,TSQWPRAGAPG
+P15924,Homo sapiens (Human),Omega-N-methylarginine,2826,SAPGSRSGSRS
+P15924,Homo sapiens (Human),Omega-N-methylarginine,2847,RSGSRRGSFDA
+P16989,Homo sapiens (Human),Omega-N-methylarginine,251,FDRRSRVLPHP
+P16989,Homo sapiens (Human),Omega-N-methylarginine,326,NQPSVRRGYRR
+P17096,Homo sapiens (Human),Omega-N-methylarginine; alternate,26,TEKRGRGRPRK
+P17096,Homo sapiens (Human),Omega-N-methylarginine; by PRMT6; alternate,58,TPKRPRGRPKG
+P17096,Homo sapiens (Human),Omega-N-methylarginine; by PRMT6; alternate,60,KRPRGRPKGSK
+P17600,Homo sapiens (Human),Omega-N-methylarginine,430,DASPGRGSHGQ
+P17600,Homo sapiens (Human),Omega-N-methylarginine,476,GPGPQRQGPPL
+P17600,Homo sapiens (Human),Omega-N-methylarginine,534,QGRQSRPVAGG
+P17600,Homo sapiens (Human),Omega-N-methylarginine,547,APPAARPPASP
+P17600,Homo sapiens (Human),Omega-N-methylarginine,556,SPSPQRQAGPP
+P17600,Homo sapiens (Human),Omega-N-methylarginine,622,TTQQPRPSGPG
+P17661,Homo sapiens (Human),Omega-N-methylarginine,16,VSSYRRTFGGA
+P17661,Homo sapiens (Human),Omega-N-methylarginine; alternate,37,SPVFPRAGFGS
+P17661,Homo sapiens (Human),Omega-N-methylarginine,70,GLGSLRASRLG
+P18583,Homo sapiens (Human),Omega-N-methylarginine,950,GQDPYRLGHDP
+P19013,Homo sapiens (Human),Omega-N-methylarginine,13,VRGGPRGFSCG
+P19338,Homo sapiens (Human),Omega-N-methylarginine; alternate,694,GFRGGRGGGGD
+P20290,Homo sapiens (Human),Omega-N-methylarginine,19,GRGRARGGCPG
+P20700,Homo sapiens (Human),Omega-N-methylarginine,14,PRMGSRAGGPT
+P20700,Homo sapiens (Human),Omega-N-methylarginine,413,SVRTTRGKRKR
+P20839,Homo sapiens (Human),Omega-N-methylarginine,341,VMACGRPQGTA
+P20839,Homo sapiens (Human),Omega-N-methylarginine,355,VAEYARRFGVP
+P22626,Homo sapiens (Human),Omega-N-methylarginine,38,TEESLRNYYEQ
+P22626,Homo sapiens (Human),Omega-N-methylarginine; alternate,203,SSRSGRGGNFG
+P22626,Homo sapiens (Human),Omega-N-methylarginine; alternate,213,GFGDSRGGGGN
+P22626,Homo sapiens (Human),Omega-N-methylarginine,228,PGSNFRGGSDG
+P22626,Homo sapiens (Human),Omega-N-methylarginine,238,GYGSGRGFGDG
+P22626,Homo sapiens (Human),Omega-N-methylarginine; alternate,266,GYGGGRGGYGG
+P22626,Homo sapiens (Human),Omega-N-methylarginine,325,NFGGSRNMGGP
+P22626,Homo sapiens (Human),Omega-N-methylarginine,350,GGYGGRSRY
+P23246,Homo sapiens (Human),Omega-N-methylarginine; alternate,9,DRFRSRGGGGG
+P23246,Homo sapiens (Human),Omega-N-methylarginine,236,PKPPHRGGGEP
+P23246,Homo sapiens (Human),Omega-N-methylarginine,242,GGGEPRGGRQH
+P23246,Homo sapiens (Human),Omega-N-methylarginine,245,EPRGGRQHHPP
+P23246,Homo sapiens (Human),Omega-N-methylarginine,681,GGQGPRGMGPG
+P23246,Homo sapiens (Human),Omega-N-methylarginine; alternate,693,PAGYGRGREEY
+P23246,Homo sapiens (Human),Omega-N-methylarginine,695,GYGRGREEYEG
+P23527,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+P23527,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+P23677,Homo sapiens (Human),Omega-N-methylarginine,35,SVGELRLLFEA
+P23677,Homo sapiens (Human),Omega-N-methylarginine,55,AAGEPRARGAK
+P23677,Homo sapiens (Human),Omega-N-methylarginine,62,RGAKRRGGQVP
+P25705,Homo sapiens (Human),Omega-N-methylarginine,204,LVPIGRGQREL
+P26378,Homo sapiens (Human),Omega-N-methylarginine; by CARM1; alternate,248,HHQAQRFRLDN
+P28340,Homo sapiens (Human),Omega-N-methylarginine,19,PPKRARGGLWD
+P28702,Homo sapiens (Human),Omega-N-methylarginine,25,GPVGVRKEMHC
+P31321,Homo sapiens (Human),Omega-N-methylarginine,97,KARRRRGGVSA
+P31942,Homo sapiens (Human),Omega-N-methylarginine,174,RMRDGRGMGGH
+P31942,Homo sapiens (Human),Omega-N-methylarginine,287,MGGYGRDGMDN
+P31942,Homo sapiens (Human),Omega-N-methylarginine,323,LGGYGRGGGGS
+P31942,Homo sapiens (Human),Omega-N-methylarginine,343,SGGGWRGMY
+P31943,Homo sapiens (Human),Omega-N-methylarginine; alternate,233,FERMRRGAYGG
+P33176,Homo sapiens (Human),Omega-N-methylarginine,956,QPVAVRGGGGK
+P33240,Homo sapiens (Human),Omega-N-methylarginine,308,RAAMQRGSLPA
+P33240,Homo sapiens (Human),Omega-N-methylarginine,468,RGMDTRGPVPG
+P33240,Homo sapiens (Human),Omega-N-methylarginine,475,PVPGPRGPIPS
+P33778,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+P33778,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+P35579,Homo sapiens (Human),Omega-N-methylarginine,1923,KNKLRRGDLPF
+P35580,Homo sapiens (Human),Omega-N-methylarginine,18,YLFVDRAVIYN
+P35580,Homo sapiens (Human),Omega-N-methylarginine,1930,KNRLRRGGPIS
+P35580,Homo sapiens (Human),Omega-N-methylarginine,1940,SFSSSRSGRRQ
+P35637,Homo sapiens (Human),Omega-N-methylarginine; alternate,216,QDRGGRGRGGS
+P35637,Homo sapiens (Human),Omega-N-methylarginine; alternate,218,RGGRGRGGSGG
+P35637,Homo sapiens (Human),Omega-N-methylarginine; alternate,407,SGGGGRGGFPS
+P35637,Homo sapiens (Human),Omega-N-methylarginine; alternate,503,RGGGDRGGFGP
+P35908,Homo sapiens (Human),Omega-N-methylarginine,12,CKSRGRGGGGG
+P36578,Homo sapiens (Human),Omega-N-methylarginine,97,FGNMCRGGRMF
+P37802,Homo sapiens (Human),Omega-N-methylarginine,182,QMGTNRGASQA
+P37802,Homo sapiens (Human),Omega-N-methylarginine,196,GYGMPRQIL
+P38159,Homo sapiens (Human),Omega-N-methylarginine,125,RGPPSRGGHMD
+P38159,Homo sapiens (Human),Omega-N-methylarginine,144,NMSSSRGPLPV
+P38159,Homo sapiens (Human),Omega-N-methylarginine,164,GPPPKRSAPSG
+P38159,Homo sapiens (Human),Omega-N-methylarginine,172,PSGPVRSSSGM
+P38646,Homo sapiens (Human),Omega-N-methylarginine,513,IPPAPRGVPQI
+P39019,Homo sapiens (Human),Omega-N-methylarginine,67,RHLYLRGGAGV
+P40145,Homo sapiens (Human),Omega-N-methylarginine,55,FIHGHRGGSGS
+P40925,Homo sapiens (Human),Omega-N-methylarginine,230,TTVQQRGAAVI
+P40939,Homo sapiens (Human),Omega-N-methylarginine,399,LTALDRGQQQV
+P41594,Homo sapiens (Human),Omega-N-methylarginine,869,NLWKRRGSSGE
+P41594,Homo sapiens (Human),Omega-N-methylarginine,925,NEKSSRGQHLW
+P42166,Homo sapiens (Human),Omega-N-methylarginine,86,AAAAGRSRAAV
+P42166,Homo sapiens (Human),Omega-N-methylarginine,88,AAGRSRAAVGR
+P42167,Homo sapiens (Human),Omega-N-methylarginine,86,AAAAGRSRAAV
+P42167,Homo sapiens (Human),Omega-N-methylarginine,88,AAGRSRAAVGR
+P42694,Homo sapiens (Human),Omega-N-methylarginine,1245,LQTHGRGSPIP
+P45985,Homo sapiens (Human),Omega-N-methylarginine; alternate,58,FKSTARFTLNP
+P46100,Homo sapiens (Human),Omega-N-methylarginine,2474,PPPLQRAPPPM
+P46100,Homo sapiens (Human),Omega-N-methylarginine,2480,APPPMRSKNPG
+P46783,Homo sapiens (Human),Omega-N-methylarginine,153,TEFQFRGGFGR
+P48634,Homo sapiens (Human),Omega-N-methylarginine,296,SGPPMRLVEPV
+P48634,Homo sapiens (Human),Omega-N-methylarginine,904,GRKPARGVGSG
+P48634,Homo sapiens (Human),Omega-N-methylarginine,1066,RGDDGRGGGTG
+P48730,Homo sapiens (Human),Omega-N-methylarginine,375,SMRLHRGAPVN
+P48751,Homo sapiens (Human),Omega-N-methylarginine,295,RTQGGRGSPSG
+P49247,Homo sapiens (Human),Omega-N-methylarginine,52,AQSGTRGGAGN
+P49674,Homo sapiens (Human),Omega-N-methylarginine,382,SMRLHRGAPAN
+P49792,Homo sapiens (Human),Omega-N-methylarginine; alternate,1016,PGEGLRPSLPT
+P49796,Homo sapiens (Human),Omega-N-methylarginine,448,TEVAKRGGQHT
+P49821,Homo sapiens (Human),Omega-N-methylarginine,257,PTICRRGGTWF
+P49848,Homo sapiens (Human),Omega-N-methylarginine,524,TLVSARAAAPP
+P49918,Homo sapiens (Human),Omega-N-methylarginine,107,LLLAPRPVAVA
+P50238,Homo sapiens (Human),Omega-N-methylarginine,68,PKGFGRGGAES
+P50991,Homo sapiens (Human),Omega-N-methylarginine,19,GAAGGRGKGAY
+P51114,Homo sapiens (Human),Omega-N-methylarginine; alternate,447,PGGRGRSVSGG
+P51114,Homo sapiens (Human),Omega-N-methylarginine; alternate,453,SVSGGRGRGGP
+P51114,Homo sapiens (Human),Omega-N-methylarginine; alternate,455,SGGRGRGGPRG
+P51608,Homo sapiens (Human),Omega-N-methylarginine,162,FTVTGRGSPSR
+P51610,Homo sapiens (Human),Omega-N-methylarginine,504,PLVTMRPASQA
+P51610,Homo sapiens (Human),Omega-N-methylarginine,524,LPAGVRMVVPT
+P51610,Homo sapiens (Human),Omega-N-methylarginine,1219,LSSKVRLSSPS
+P51991,Homo sapiens (Human),Omega-N-methylarginine; alternate,52,TDDSLREHFEK
+P51991,Homo sapiens (Human),Omega-N-methylarginine,76,QTKRSRGFGFV
+P51991,Homo sapiens (Human),Omega-N-methylarginine; alternate,214,SAGSQRGRGGG
+P51991,Homo sapiens (Human),Omega-N-methylarginine; alternate,216,GSQRGRGGGSG
+P51991,Homo sapiens (Human),Omega-N-methylarginine; alternate,226,GNFMGRGGNFG
+P51991,Homo sapiens (Human),Omega-N-methylarginine; alternate,239,GGNFGRGGNFG
+P51991,Homo sapiens (Human),Omega-N-methylarginine; alternate,246,GNFGGRGGYGG
+P51991,Homo sapiens (Human),Omega-N-methylarginine,257,GGGGSRGSYGG
+P51991,Homo sapiens (Human),Omega-N-methylarginine,354,GSFGGRSSGSP
+P52272,Homo sapiens (Human),Omega-N-methylarginine,496,GFGLERMAAPI
+P52298,Homo sapiens (Human),Omega-N-methylarginine,146,DYDAGRGGYGK
+P52799,Homo sapiens (Human),Omega-N-methylarginine,277,LATPKRSGNNN
+P53621,Homo sapiens (Human),Omega-N-methylarginine,965,LQTYARGRTTY
+P55042,Homo sapiens (Human),Omega-N-methylarginine,24,ERERRRGSTPW
+P55795,Homo sapiens (Human),Omega-N-methylarginine; alternate,233,FERMRRGAYGG
+P57053,Homo sapiens (Human),Omega-N-methylarginine,87,PHYNKRSTITS
+P57053,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+P57740,Homo sapiens (Human),Omega-N-methylarginine; alternate,60,TPSSFRQPFTP
+P57740,Homo sapiens (Human),Omega-N-methylarginine,68,FTPTSRSLLRQ
+P57772,Homo sapiens (Human),Omega-N-methylarginine,556,RARAGRGEATR
+P58876,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+P58876,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+P61081,Homo sapiens (Human),Omega-N-methylarginine; alternate,169,VQRSMRGGYIG
+P61978,Homo sapiens (Human),Omega-N-methylarginine,316,PPPPPRGGDLM
+P61978,Homo sapiens (Human),Omega-N-methylarginine,377,SYAGGRGSYGD
+P62273,Homo sapiens (Human),Omega-N-methylarginine,12,YWSHPRKFGQG
+P62280,Homo sapiens (Human),Omega-N-methylarginine,69,GNVSIRGRILS
+P62633,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,25,PTGGGRGRGMR
+P62633,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,27,GGGRGRGMRSR
+P62633,Homo sapiens (Human),Omega-N-methylarginine,79,CYNCGRGGHIA
+P62805,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,4,MSGRGKGGK
+P62807,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+P62807,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+P62995,Homo sapiens (Human),Omega-N-methylarginine; alternate,241,YSRSYRGGGGG
+P63162,Homo sapiens (Human),Omega-N-methylarginine; alternate,108,GPGVGRAAGRG
+P63162,Homo sapiens (Human),Omega-N-methylarginine; alternate,112,GRAAGRGVPAG
+P63162,Homo sapiens (Human),Omega-N-methylarginine,147,MTPQGRGTVAA
+P63162,Homo sapiens (Human),Omega-N-methylarginine,172,QYPPGRGTPPP
+P68363,Homo sapiens (Human),Omega-N-methylarginine,339,TIKTKRSIQFV
+P78344,Homo sapiens (Human),Omega-N-methylarginine,360,PFMPPRMKMDR
+P78344,Homo sapiens (Human),Omega-N-methylarginine,505,SAQPPRTQTPP
+P83369,Homo sapiens (Human),Omega-N-methylarginine,41,ALYAPRLPPIP
+P85037,Homo sapiens (Human),Omega-N-methylarginine,161,PHFYLRCLGKN
+P85037,Homo sapiens (Human),Omega-N-methylarginine,191,KQCTFRFPSTA
+P98175,Homo sapiens (Human),Omega-N-methylarginine,902,SGLGARGSSYG
+P98179,Homo sapiens (Human),Omega-N-methylarginine,47,ETQRSRGFGFI
+P98179,Homo sapiens (Human),Omega-N-methylarginine; alternate,105,GRSYSRGGGDQ
+P98179,Homo sapiens (Human),Omega-N-methylarginine,121,RYYDSRPGGYG
+P98179,Homo sapiens (Human),Omega-N-methylarginine,131,GYGYGRSRDYN
+Q00587,Homo sapiens (Human),Omega-N-methylarginine,53,TMHVGRGGDVF
+Q00839,Homo sapiens (Human),Omega-N-methylarginine,702,KNQFNRGGGHR
+Q00839,Homo sapiens (Human),Omega-N-methylarginine; alternate,733,GGYNRRGNMPQ
+Q00839,Homo sapiens (Human),Omega-N-methylarginine; alternate,739,GNMPQRGGGGG
+Q00975,Homo sapiens (Human),Omega-N-methylarginine,22,GGERARGGGAG
+Q01081,Homo sapiens (Human),Omega-N-methylarginine,165,MGECTRGGFCN
+Q01167,Homo sapiens (Human),Omega-N-methylarginine,144,RVCTFRFPSTN
+Q01201,Homo sapiens (Human),Omega-N-methylarginine,16,SVPTGRAMPSR
+Q01433,Homo sapiens (Human),Omega-N-methylarginine,45,PLQSARSLPGP
+Q01546,Homo sapiens (Human),Omega-N-methylarginine,85,GFGGGRSSCGF
+Q01546,Homo sapiens (Human),Omega-N-methylarginine,110,GFGGGRGVGSG
+Q01546,Homo sapiens (Human),Omega-N-methylarginine,584,SSSGSRLGGAG
+Q01844,Homo sapiens (Human),Omega-N-methylarginine; alternate,471,MPPPLRGGPGG
+Q01844,Homo sapiens (Human),Omega-N-methylarginine,486,GGPMGRMGGRG
+Q01844,Homo sapiens (Human),Omega-N-methylarginine; alternate,506,GPRGSRGNPSG
+Q01844,Homo sapiens (Human),Omega-N-methylarginine; alternate; by PRMT8,572,GPGGMRGGRGG
+Q01844,Homo sapiens (Human),Omega-N-methylarginine; alternate; by PRMT8,596,GRGGDRGGFRG
+Q01844,Homo sapiens (Human),Omega-N-methylarginine; alternate; by PRMT8,607,GRGMDRGGFGG
+Q01844,Homo sapiens (Human),Omega-N-methylarginine; alternate,615,FGGGRRGGPGG
+Q02779,Homo sapiens (Human),Omega-N-methylarginine,857,LLDFPRLPDPQ
+Q02790,Homo sapiens (Human),Omega-N-methylarginine,373,DFELARADFQK
+Q03252,Homo sapiens (Human),Omega-N-methylarginine,433,TGRLGRSKRKR
+Q04637,Homo sapiens (Human),Omega-N-methylarginine,73,SAAPARPGPAA
+Q04637,Homo sapiens (Human),Omega-N-methylarginine,110,IPGQGRSTYVV
+Q04637,Homo sapiens (Human),Omega-N-methylarginine,685,TRGPPRGGPGG
+Q04637,Homo sapiens (Human),Omega-N-methylarginine,694,GGELPRGPAGL
+Q04637,Homo sapiens (Human),Omega-N-methylarginine,1032,GSDKRRGGPPG
+Q04637,Homo sapiens (Human),Omega-N-methylarginine,1042,GPPISRGLPLV
+Q05193,Homo sapiens (Human),Omega-N-methylarginine,796,ARPGSRGPAPG
+Q06787,Homo sapiens (Human),Omega-N-methylarginine,471,GQGMGRGSRPY
+Q06787,Homo sapiens (Human),Omega-N-methylarginine; alternate,534,GDGRRRGGGGR
+Q06787,Homo sapiens (Human),Omega-N-methylarginine; alternate,539,RGGGGRGQGGR
+Q06787,Homo sapiens (Human),Omega-N-methylarginine,544,RGQGGRGRGGG
+Q06787,Homo sapiens (Human),Omega-N-methylarginine; alternate,544,RGQGGRGRGGG
+Q06787,Homo sapiens (Human),Omega-N-methylarginine; alternate,546,QGGRGRGGGFK
+Q07666,Homo sapiens (Human),Omega-N-methylarginine,282,VPEPSRGRGVP
+Q07666,Homo sapiens (Human),Omega-N-methylarginine,284,EPSRGRGVPVR
+Q07666,Homo sapiens (Human),Omega-N-methylarginine,291,VPVRGRGAAPP
+Q07666,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,310,GVGPPRGALVR
+Q07666,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,315,RGALVRGTPVR
+Q07666,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,320,RGTPVRGAITR
+Q07666,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,325,RGAITRGATVT
+Q07666,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1; alternate,331,GATVTRGVPPP
+Q07666,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,340,PPPTVRGAPAP
+Q07912,Homo sapiens (Human),Omega-N-methylarginine,839,QAPGPRAGPCI
+Q07955,Homo sapiens (Human),Omega-N-methylarginine; alternate,93,FPRSGRGTGRG
+Q07955,Homo sapiens (Human),Omega-N-methylarginine; alternate,97,GRGTGRGGGGG
+Q07955,Homo sapiens (Human),Omega-N-methylarginine; alternate,109,GGGAPRGRYGP
+Q07955,Homo sapiens (Human),Omega-N-methylarginine,111,GAPRGRYGPPS
+Q08211,Homo sapiens (Human),Omega-N-methylarginine,1175,GSGYRRGGSSY
+Q09019,Homo sapiens (Human),Omega-N-methylarginine,551,LGNISRGGSGG
+Q09666,Homo sapiens (Human),Omega-N-methylarginine,270,LDLGGRGGVQV
+Q12770,Homo sapiens (Human),Omega-N-methylarginine,1051,RGTPGRGSSPA
+Q12778,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,251,SGKSPRRRAAS
+Q12778,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,253,KSPRRRAASMD
+Q12809,Homo sapiens (Human),Omega-N-methylarginine,1014,YQELPRCPAPT
+Q12830,Homo sapiens (Human),Omega-N-methylarginine,2155,TSFQPRTATVT
+Q12888,Homo sapiens (Human),Omega-N-methylarginine,1355,ALPSSRGGPGK
+Q12905,Homo sapiens (Human),Omega-N-methylarginine; alternate,16,GRFGSRGGPGG
+Q12905,Homo sapiens (Human),Omega-N-methylarginine,24,PGGGFRPFVPH
+Q13144,Homo sapiens (Human),Omega-N-methylarginine,19,SRANKRSGAGP
+Q13148,Homo sapiens (Human),Omega-N-methylarginine,293,GFGNSRGGGAG
+Q13151,Homo sapiens (Human),Omega-N-methylarginine,139,QSGKKRGFGFV
+Q13151,Homo sapiens (Human),Omega-N-methylarginine,284,SSWGGRSNSGP
+Q13151,Homo sapiens (Human),Omega-N-methylarginine; alternate,291,NSGPYRGGYGG
+Q13227,Homo sapiens (Human),Omega-N-methylarginine; alternate,323,HSQNPRFYHK
+Q13283,Homo sapiens (Human),Omega-N-methylarginine; alternate,435,GPGGPRGGLGG
+Q13283,Homo sapiens (Human),Omega-N-methylarginine,447,MRGPPRGGMVQ
+Q13283,Homo sapiens (Human),Omega-N-methylarginine; alternate,460,GFGVGRGLAPR
+Q13283,Homo sapiens (Human),Omega-N-methylarginine,465,RGLAPRQ
+Q13303,Homo sapiens (Human),Omega-N-methylarginine; alternate,28,MIYSTRYGSPK
+Q13310,Homo sapiens (Human),Omega-N-methylarginine,419,PQAQGRPPYYT
+Q13310,Homo sapiens (Human),Omega-N-methylarginine,432,QLAQMRPNPRW
+Q13310,Homo sapiens (Human),Omega-N-methylarginine,436,MRPNPRWQQGG
+Q13310,Homo sapiens (Human),Omega-N-methylarginine,454,MPSAIRQSGPR
+Q13310,Homo sapiens (Human),Omega-N-methylarginine,530,YASSVRSPHPA
+Q13351,Homo sapiens (Human),Omega-N-methylarginine,184,GGYFPRTGLSV
+Q13435,Homo sapiens (Human),Omega-N-methylarginine,222,TPLGPRVAAPV
+Q13435,Homo sapiens (Human),Omega-N-methylarginine,245,GAPVPRPRGPP
+Q13435,Homo sapiens (Human),Omega-N-methylarginine,247,PVPRPRGPPPP
+Q13435,Homo sapiens (Human),Omega-N-methylarginine; by PRMT9; alternate,508,HWCFKRKYLQG
+Q13435,Homo sapiens (Human),Omega-N-methylarginine,515,YLQGKRGIEKP
+Q13563,Homo sapiens (Human),Omega-N-methylarginine,137,SSVGARSRGLG
+Q13595,Homo sapiens (Human),Omega-N-methylarginine,232,GGGGGRRRDSY
+Q13608,Homo sapiens (Human),Omega-N-methylarginine,119,PGLGPRVGPLL
+Q13616,Homo sapiens (Human),Omega-N-methylarginine,63,QSNQARGAGVP
+Q13671,Homo sapiens (Human),Omega-N-methylarginine,692,GALAHRLPTTG
+Q13885,Homo sapiens (Human),Omega-N-methylarginine,318,VAAIFRGRMSM
+Q13895,Homo sapiens (Human),Omega-N-methylarginine,40,EKRRGRGTGEA
+Q14003,Homo sapiens (Human),Omega-N-methylarginine,625,HPGLLRGGAGG
+Q14103,Homo sapiens (Human),Omega-N-methylarginine,272,QQWGSRGGFAG
+Q14103,Homo sapiens (Human),Omega-N-methylarginine,278,GGFAGRARGRG
+Q14103,Homo sapiens (Human),Omega-N-methylarginine,280,FAGRARGRGGG
+Q14103,Homo sapiens (Human),Omega-N-methylarginine,282,GRARGRGGGPS
+Q14103,Homo sapiens (Human),Omega-N-methylarginine; alternate,345,GKVSRRGGHQN
+Q14112,Homo sapiens (Human),Omega-N-methylarginine,1308,PDGTGRRVIQN
+Q14151,Homo sapiens (Human),Omega-N-methylarginine,897,GHMASRGGVAG
+Q14151,Homo sapiens (Human),Omega-N-methylarginine,903,GGVAGRGGFAQ
+Q14247,Homo sapiens (Human),Omega-N-methylarginine,119,QVDSVRGFGGK
+Q14315,Homo sapiens (Human),Omega-N-methylarginine,1002,GQLDVRMTSPS
+Q14444,Homo sapiens (Human),Omega-N-methylarginine,165,GDDEVRTDLKQ
+Q14444,Homo sapiens (Human),Omega-N-methylarginine,626,LMNGYRGPANG
+Q14444,Homo sapiens (Human),Omega-N-methylarginine,633,PANGFRGGYDG
+Q14444,Homo sapiens (Human),Omega-N-methylarginine,640,GYDGYRPSFSN
+Q14444,Homo sapiens (Human),Omega-N-methylarginine; alternate,698,PPRPNRGMPQM
+Q14524,Homo sapiens (Human),Omega-N-methylarginine; alternate,513,HLSLTRGLSRT
+Q14524,Homo sapiens (Human),Omega-N-methylarginine; alternate,526,KPRSSRGSIFT
+Q14524,Homo sapiens (Human),Omega-N-methylarginine; alternate,680,ELEESRHKCPP
+Q14526,Homo sapiens (Human),Omega-N-methylarginine,159,KYCHLRGGGGG
+Q14527,Homo sapiens (Human),Omega-N-methylarginine,27,HGNFPRLSYPT
+Q14671,Homo sapiens (Human),Omega-N-methylarginine,796,AEAKYRSASSA
+Q14676,Homo sapiens (Human),Omega-N-methylarginine,1943,LCALGRGIPIL
+Q14781,Homo sapiens (Human),Omega-N-methylarginine; alternate,247,ASSPGRGGISW
+Q14896,Homo sapiens (Human),Omega-N-methylarginine,1241,LTLEIRKPCPF
+Q14978,Homo sapiens (Human),Omega-N-methylarginine,683,KRGSYRGGSIS
+Q15020,Homo sapiens (Human),Omega-N-methylarginine,906,QTYGARGKGRT
+Q15025,Homo sapiens (Human),Omega-N-methylarginine; alternate,599,PEYTWRLPCGG
+Q15056,Homo sapiens (Human),Omega-N-methylarginine,19,SFGGGRGSRGS
+Q15056,Homo sapiens (Human),Omega-N-methylarginine,22,GGRGSRGSAGG
+Q15056,Homo sapiens (Human),Omega-N-methylarginine,136,GGPDDRGMGSS
+Q15056,Homo sapiens (Human),Omega-N-methylarginine,166,DFLGGRGGSRP
+Q15056,Homo sapiens (Human),Omega-N-methylarginine,175,RPGDRRTGPPM
+Q15149,Homo sapiens (Human),Omega-N-methylarginine,4627,STAGSRTGSRT
+Q15149,Homo sapiens (Human),Omega-N-methylarginine,4640,RAGSRRGSFDA
+Q15233,Homo sapiens (Human),Omega-N-methylarginine,456,PPAFNRAAPGA
+Q15424,Homo sapiens (Human),Omega-N-methylarginine,811,RMSEGRGLPPP
+Q15554,Homo sapiens (Human),Omega-N-methylarginine,60,RAAGRRASRSS
+Q15569,Homo sapiens (Human),Omega-N-methylarginine,338,QGSVARGGPSA
+Q15596,Homo sapiens (Human),Omega-N-methylarginine,1261,QQVQQRTLMMR
+Q15654,Homo sapiens (Human),Omega-N-methylarginine; alternate,25,GRAIPRGTPGP
+Q15654,Homo sapiens (Human),Omega-N-methylarginine,111,ELNGGRGHASR
+Q15654,Homo sapiens (Human),Omega-N-methylarginine,179,VAQPVRGCGPP
+Q15654,Homo sapiens (Human),Omega-N-methylarginine,186,CGPPRRGASQA
+Q15654,Homo sapiens (Human),Omega-N-methylarginine,205,FPLPGRGEVWG
+Q15654,Homo sapiens (Human),Omega-N-methylarginine,236,SGPAGRGRGGE
+Q15654,Homo sapiens (Human),Omega-N-methylarginine,238,PAGRGRGGEHG
+Q15717,Homo sapiens (Human),Omega-N-methylarginine,206,HSPARRFGGPV
+Q15717,Homo sapiens (Human),Omega-N-methylarginine; alternate,217,HHQAQRFRFSP
+Q15723,Homo sapiens (Human),Omega-N-methylarginine,494,TPLAVRALTPV
+Q15735,Homo sapiens (Human),Omega-N-methylarginine; alternate,56,GPSEPRLALAP
+Q15735,Homo sapiens (Human),Omega-N-methylarginine,65,APVGPRAAMSA
+Q15735,Homo sapiens (Human),Omega-N-methylarginine; alternate,83,ALASPRPILAP
+Q15768,Homo sapiens (Human),Omega-N-methylarginine,271,PGSFGRGGSLG
+Q15772,Homo sapiens (Human),Omega-N-methylarginine; alternate,2055,ATRLARGGLGE
+Q15772,Homo sapiens (Human),Omega-N-methylarginine,2139,GEAEPRGRHRR
+Q16204,Homo sapiens (Human),Omega-N-methylarginine,387,PTSLTRAGMSY
+Q16778,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q16778,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+Q16890,Homo sapiens (Human),Omega-N-methylarginine,133,MSYSIRHSISM
+Q2M2I8,Homo sapiens (Human),Omega-N-methylarginine,391,PALTPRKRATV
+Q4KMP7,Homo sapiens (Human),Omega-N-methylarginine,186,SGVTARSASGQ
+Q5BKZ1,Homo sapiens (Human),Omega-N-methylarginine,173,APVGSRGRGTP
+Q5BKZ1,Homo sapiens (Human),Omega-N-methylarginine,235,TVAAARGIKRK
+Q5DX21,Homo sapiens (Human),Omega-N-methylarginine,378,VVTANRGSSPQ
+Q5JU85,Homo sapiens (Human),Omega-N-methylarginine,1345,GRAPRRGAGGH
+Q5JVS0,Homo sapiens (Human),Omega-N-methylarginine,70,AGAGPRGGRSP
+Q5QNW6,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q5QNW6,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+Q5QP82,Homo sapiens (Human),Omega-N-methylarginine,134,ERSLGRGLFVD
+Q5SQI0,Homo sapiens (Human),Omega-N-methylarginine,323,QRRRTRGTPPG
+Q5T5U3,Homo sapiens (Human),Omega-N-methylarginine,554,IHKSFRGSNFT
+Q5T5U3,Homo sapiens (Human),Omega-N-methylarginine,575,RRMSGRGVGSV
+Q5T6F2,Homo sapiens (Human),Omega-N-methylarginine,166,DKPSDRGKRAR
+Q5TAQ9,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,204,LHFNQRGTWLA
+Q5TAX3,Homo sapiens (Human),Omega-N-methylarginine,1624,FYTQDRCATRR
+Q5TGY3,Homo sapiens (Human),Omega-N-methylarginine,891,ATFPSRGAKAS
+Q5U651,Homo sapiens (Human),Omega-N-methylarginine,94,ISQLFRGSGTG
+Q5VWX1,Homo sapiens (Human),Omega-N-methylarginine,230,GSTVTRGALPV
+Q5VWX1,Homo sapiens (Human),Omega-N-methylarginine,240,VPPVARGVPTP
+Q63HR2,Homo sapiens (Human),Omega-N-methylarginine,555,VASGGRGAGRE
+Q63ZY3,Homo sapiens (Human),Omega-N-methylarginine,105,YSYCGRGFYPQ
+Q69YN4,Homo sapiens (Human),Omega-N-methylarginine,1723,RREGTRGSSWS
+Q69YN4,Homo sapiens (Human),Omega-N-methylarginine; alternate,1741,NYNESRGGQSN
+Q6DN03,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q6DN03,Homo sapiens (Human),Omega-N-methylarginine,93,STITSRRSRRP
+Q6DRA6,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q6DRA6,Homo sapiens (Human),Omega-N-methylarginine,93,STITSRRSRRP
+Q6F5E8,Homo sapiens (Human),Omega-N-methylarginine,1303,AELRSRGWGQQ
+Q6NXG1,Homo sapiens (Human),Omega-N-methylarginine,582,VILNPRALQPS
+Q6NZY7,Homo sapiens (Human),Omega-N-methylarginine,38,TLHVGRGGDAF
+Q6P0Q8,Homo sapiens (Human),Omega-N-methylarginine,1004,METRGRGTSQL
+Q6P6C2,Homo sapiens (Human),Omega-N-methylarginine,359,PTHRRRGSFSS
+Q6PID8,Homo sapiens (Human),Omega-N-methylarginine,13,DRNRRRGGGAA
+Q6PKG0,Homo sapiens (Human),Omega-N-methylarginine,240,DEDCQRGGQKK
+Q6Y7W6,Homo sapiens (Human),Omega-N-methylarginine,107,LRLTGRGGGGT
+Q6Y7W6,Homo sapiens (Human),Omega-N-methylarginine,118,VVGAPRGRSSS
+Q6Y7W6,Homo sapiens (Human),Omega-N-methylarginine,120,GAPRGRSSSRG
+Q6Y7W6,Homo sapiens (Human),Omega-N-methylarginine,149,EGVFGRGGGRE
+Q709C8,Homo sapiens (Human),Omega-N-methylarginine,3519,GDSLARGGKGF
+Q709C8,Homo sapiens (Human),Omega-N-methylarginine,3526,GKGFLRGVVGG
+Q70EL1,Homo sapiens (Human),Omega-N-methylarginine,12,YFSGGRGSVQG
+Q71H61,Homo sapiens (Human),Omega-N-methylarginine,544,PEGASRGGSLE
+Q71RC2,Homo sapiens (Human),Omega-N-methylarginine,368,AMNMGRPFQKN
+Q71RC2,Homo sapiens (Human),Omega-N-methylarginine,686,GNIIPRGAAGK
+Q7L2J0,Homo sapiens (Human),Omega-N-methylarginine,117,VGEERRGGGGT
+Q7Z403,Homo sapiens (Human),Omega-N-methylarginine,94,TIGRSRGAIIS
+Q7Z417,Homo sapiens (Human),Omega-N-methylarginine,291,PGGTSRGKPAV
+Q7Z4W1,Homo sapiens (Human),Omega-N-methylarginine,21,GKGIGRGTVQA
+Q7Z6G3,Homo sapiens (Human),Omega-N-methylarginine,10,AARLCRAGAHR
+Q7Z6J9,Homo sapiens (Human),Omega-N-methylarginine,316,RHTLLRAPAPE
+Q7Z6L0,Homo sapiens (Human),Omega-N-methylarginine,240,HPGSPRGSLSR
+Q7Z6Z7,Homo sapiens (Human),Omega-N-methylarginine,3149,RLAVQRGGTFQ
+Q7Z794,Homo sapiens (Human),Omega-N-methylarginine,95,GFGGGRGFGVG
+Q7Z794,Homo sapiens (Human),Omega-N-methylarginine,523,GYGGGRSYRGG
+Q7Z7K6,Homo sapiens (Human),Omega-N-methylarginine,43,SATRTRRSASQ
+Q86TB9,Homo sapiens (Human),Omega-N-methylarginine,385,NGAGDRGSHRS
+Q86TG7,Homo sapiens (Human),Omega-N-methylarginine,507,VYQPVRYYYVQ
+Q86TG7,Homo sapiens (Human),Omega-N-methylarginine,598,VSYDCRAPNNF
+Q86TG7,Homo sapiens (Human),Omega-N-methylarginine,611,QNQYPRLSIPN
+Q86U42,Homo sapiens (Human),Omega-N-methylarginine,17,GAAGGRGSGPG
+Q86U42,Homo sapiens (Human),Omega-N-methylarginine; alternate,238,DESLFRGRQIK
+Q86U42,Homo sapiens (Human),Omega-N-methylarginine; alternate,259,ISTTDRGFPRA
+Q86U42,Homo sapiens (Human),Omega-N-methylarginine; alternate,263,DRGFPRARYRA
+Q86US8,Homo sapiens (Human),Omega-N-methylarginine,406,LRGRGRGILIL
+Q86US8,Homo sapiens (Human),Omega-N-methylarginine,433,APLGPRLLFGS
+Q86UU1,Homo sapiens (Human),Omega-N-methylarginine,512,LTLGARGRRTR
+Q86UW9,Homo sapiens (Human),Omega-N-methylarginine,256,SLSGARSAPRL
+Q86V81,Homo sapiens (Human),Omega-N-methylarginine; alternate,38,GSQGGRGGGAQ
+Q86V81,Homo sapiens (Human),Omega-N-methylarginine,58,GPIRNRPAIAR
+Q86V81,Homo sapiens (Human),Omega-N-methylarginine,63,RPAIARGAAGG
+Q86V81,Homo sapiens (Human),Omega-N-methylarginine,71,AGGGGRNRPAP
+Q86V81,Homo sapiens (Human),Omega-N-methylarginine; alternate,197,AQSVNRGGMTR
+Q86V81,Homo sapiens (Human),Omega-N-methylarginine; alternate,204,GMTRNRGAGGF
+Q86V81,Homo sapiens (Human),Omega-N-methylarginine,220,TRRGTRGGARG
+Q86VQ6,Homo sapiens (Human),Omega-N-methylarginine; alternate,26,RSGHVRGARVL
+Q86WJ1,Homo sapiens (Human),Omega-N-methylarginine,9,AGATSRGGQAP
+Q86WP2,Homo sapiens (Human),Omega-N-methylarginine,87,ENINHRGGYHG
+Q86XP3,Homo sapiens (Human),Omega-N-methylarginine,12,GPGTKRGFGFG
+Q86YP4,Homo sapiens (Human),Omega-N-methylarginine,225,PPPLVRGGQQA
+Q86YP4,Homo sapiens (Human),Omega-N-methylarginine,249,MPPLVRGAQQI
+Q86YP4,Homo sapiens (Human),Omega-N-methylarginine,258,QIHSIRQHSST
+Q86YP4,Homo sapiens (Human),Omega-N-methylarginine,273,LLLAPRASVPS
+Q86YP4,Homo sapiens (Human),Omega-N-methylarginine,285,QIQGQRIIQQG
+Q86YP4,Homo sapiens (Human),Omega-N-methylarginine; alternate,539,SATTPRGVLHT
+Q86YR5,Homo sapiens (Human),Omega-N-methylarginine,421,TWDLLRLPLER
+Q86YZ3,Homo sapiens (Human),Omega-N-methylarginine,1205,SGQSSRGERHG
+Q8IU81,Homo sapiens (Human),Omega-N-methylarginine,177,SGLGSRGLTLA
+Q8IWD4,Homo sapiens (Human),Omega-N-methylarginine,48,PRPGPRAVPSS
+Q8IWI9,Homo sapiens (Human),Omega-N-methylarginine,2265,AAKSSRGNGHF
+Q8N163,Homo sapiens (Human),Omega-N-methylarginine,180,LSHLNRFPARG
+Q8N1G0,Homo sapiens (Human),Omega-N-methylarginine,1060,AQSPGRGTTLA
+Q8N1G0,Homo sapiens (Human),Omega-N-methylarginine,1101,PAKSPRGGPGS
+Q8N1G1,Homo sapiens (Human),Omega-N-methylarginine,191,DRGQGRGGGGG
+Q8N257,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q8N257,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREVQTA
+Q8N4C8,Homo sapiens (Human),Omega-N-methylarginine,501,LLPGDRKPLYH
+Q8N4C8,Homo sapiens (Human),Omega-N-methylarginine,509,LYHYGRGMNPA
+Q8N6I1,Homo sapiens (Human),Omega-N-methylarginine,59,PVPAAREGRMA
+Q8N6I1,Homo sapiens (Human),Omega-N-methylarginine,75,PAAAARGAPVA
+Q8NB15,Homo sapiens (Human),Omega-N-methylarginine,240,GQGAARGFKSN
+Q8NC51,Homo sapiens (Human),Omega-N-methylarginine,165,RPIRGRGGLGR
+Q8NC51,Homo sapiens (Human),Omega-N-methylarginine,188,DGFDSRGKREF
+Q8NC51,Homo sapiens (Human),Omega-N-methylarginine,216,KHEDKRGGSGS
+Q8NC51,Homo sapiens (Human),Omega-N-methylarginine,364,FGDLGRPGRGG
+Q8NC51,Homo sapiens (Human),Omega-N-methylarginine,367,LGRPGRGGRGG
+Q8NC51,Homo sapiens (Human),Omega-N-methylarginine,370,PGRGGRGGRGG
+Q8NCE2,Homo sapiens (Human),Omega-N-methylarginine,638,LEQFARGVGLR
+Q8ND04,Homo sapiens (Human),Omega-N-methylarginine,898,SSSQGRGLKPH
+Q8NEY1,Homo sapiens (Human),Omega-N-methylarginine,688,SVTGGRGGPRP
+Q8NF64,Homo sapiens (Human),Omega-N-methylarginine,111,QGVYSRGGYPG
+Q8NFW8,Homo sapiens (Human),Omega-N-methylarginine,37,RGGQGRGVEKP
+Q8NFW8,Homo sapiens (Human),Omega-N-methylarginine,52,ALILARGGSKG
+Q8TAP9,Homo sapiens (Human),Omega-N-methylarginine,57,PPYGPRSRPYG
+Q8TAP9,Homo sapiens (Human),Omega-N-methylarginine,117,PQGSPRTSTPF
+Q8TB72,Homo sapiens (Human),Omega-N-methylarginine,674,AEAKYRSASST
+Q8TC59,Homo sapiens (Human),Omega-N-methylarginine; by PRMT5; alternate,76,LVSMFRGLGIE
+Q8TC59,Homo sapiens (Human),Omega-N-methylarginine; by PRMT5; alternate,97,MLPSGRGILGR
+Q8TC59,Homo sapiens (Human),Omega-N-methylarginine; alternate,102,RGILGRGLSAN
+Q8TD08,Homo sapiens (Human),Omega-N-methylarginine,449,VKPSGRGAAPS
+Q8TDC3,Homo sapiens (Human),Omega-N-methylarginine,466,AGDEARGGGSP
+Q8TDC3,Homo sapiens (Human),Omega-N-methylarginine,481,QTLPSRGPRGG
+Q8TDC3,Homo sapiens (Human),Omega-N-methylarginine,484,PSRGPRGGGAG
+Q8TDC3,Homo sapiens (Human),Omega-N-methylarginine,498,PPPSARSTPLP
+Q8TDC3,Homo sapiens (Human),Omega-N-methylarginine,525,PLHTPRASPTG
+Q8TDC3,Homo sapiens (Human),Omega-N-methylarginine,550,GGAAWRSRLNS
+Q8TDW7,Homo sapiens (Human),Omega-N-methylarginine,4510,SLHNSRGTSSS
+Q8TE49,Homo sapiens (Human),Omega-N-methylarginine,880,NGECGRGGPGP
+Q8WUF5,Homo sapiens (Human),Omega-N-methylarginine,137,YGSLDRATSPR
+Q8WUF5,Homo sapiens (Human),Omega-N-methylarginine,142,RATSPRPRAFD
+Q8WUF5,Homo sapiens (Human),Omega-N-methylarginine,144,TSPRPRAFDGA
+Q8WUF5,Homo sapiens (Human),Omega-N-methylarginine,160,RAPSPRPGPGP
+Q8WUF5,Homo sapiens (Human),Omega-N-methylarginine,167,GPGPLRQQGPP
+Q8WUF5,Homo sapiens (Human),Omega-N-methylarginine,180,FDFLGRAGSPR
+Q8WUF5,Homo sapiens (Human),Omega-N-methylarginine,205,RGPSPRPPATA
+Q8WUM0,Homo sapiens (Human),Omega-N-methylarginine,17,GTGSRRGPLAG
+Q8WUM0,Homo sapiens (Human),Omega-N-methylarginine,30,PGSTPRTASRK
+Q8WUM4,Homo sapiens (Human),Omega-N-methylarginine,745,PTPAPRTMPPT
+Q8WXF1,Homo sapiens (Human),Omega-N-methylarginine,507,PGGFGRGSQGG
+Q8WYH8,Homo sapiens (Human),Omega-N-methylarginine,126,ESSGGRGLKKG
+Q92530,Homo sapiens (Human),Omega-N-methylarginine,205,PFGPRRGGMIV
+Q92530,Homo sapiens (Human),Omega-N-methylarginine,231,SGLPNRLPPGA
+Q92558,Homo sapiens (Human),Omega-N-methylarginine; alternate,341,STSSLRASMTS
+Q92615,Homo sapiens (Human),Omega-N-methylarginine,404,PLTSLRQYPPR
+Q92615,Homo sapiens (Human),Omega-N-methylarginine,419,SKSHLRHAIPS
+Q92615,Homo sapiens (Human),Omega-N-methylarginine,493,SPGLGRGRKNS
+Q92734,Homo sapiens (Human),Omega-N-methylarginine,385,PYARNRPPFGQ
+Q92734,Homo sapiens (Human),Omega-N-methylarginine,400,PGPGYR
+Q92793,Homo sapiens (Human),Omega-N-methylarginine,220,AAGRGRGAGMP
+Q92804,Homo sapiens (Human),Omega-N-methylarginine; alternate,206,SSGGDRGGFKN
+Q92804,Homo sapiens (Human),Omega-N-methylarginine,431,GYGGDRSSGGG
+Q92804,Homo sapiens (Human),Omega-N-methylarginine,459,GYGGDRGGGYG
+Q92804,Homo sapiens (Human),Omega-N-methylarginine,475,GYGGDRGGGYG
+Q92804,Homo sapiens (Human),Omega-N-methylarginine,562,GYGGDRGGGYG
+Q92841,Homo sapiens (Human),Omega-N-methylarginine,684,FSGIGRSGQQP
+Q92900,Homo sapiens (Human),Omega-N-methylarginine,1019,GPAAGRGTPKG
+Q92903,Homo sapiens (Human),Omega-N-methylarginine,7,LELRHRGSCPG
+Q92934,Homo sapiens (Human),Omega-N-methylarginine,161,DRNLGRGSSAP
+Q92945,Homo sapiens (Human),Omega-N-methylarginine,40,PGAGDRGGGGP
+Q92945,Homo sapiens (Human),Omega-N-methylarginine,411,MPPGGRGRGRG
+Q92945,Homo sapiens (Human),Omega-N-methylarginine,413,PGGRGRGRGQG
+Q92945,Homo sapiens (Human),Omega-N-methylarginine,415,GRGRGRGQGNW
+Q92945,Homo sapiens (Human),Omega-N-methylarginine,442,GLVIGRGGENV
+Q92997,Homo sapiens (Human),Omega-N-methylarginine,27,PLPAERVTLAD
+Q92997,Homo sapiens (Human),Omega-N-methylarginine,212,QSSASRLMRRH
+Q92997,Homo sapiens (Human),Omega-N-methylarginine; alternate,342,WDPSPRGCFTL
+Q92997,Homo sapiens (Human),Omega-N-methylarginine; alternate,698,ELTASRQSFRM
+Q93074,Homo sapiens (Human),Omega-N-methylarginine; alternate,1899,KTSVYRQQQPA
+Q93074,Homo sapiens (Human),Omega-N-methylarginine,1910,VPQGQRLRQQL
+Q93079,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q93079,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+Q969G3,Homo sapiens (Human),Omega-N-methylarginine,4,MSKRPSYAP
+Q969G3,Homo sapiens (Human),Omega-N-methylarginine,40,AYNNYRLGGNP
+Q96A08,Homo sapiens (Human),Omega-N-methylarginine,88,AHYSKRSTISS
+Q96A08,Homo sapiens (Human),Omega-N-methylarginine,94,STISSREIQTA
+Q96AE4,Homo sapiens (Human),Omega-N-methylarginine,321,GTTPERIAQIT
+Q96AE4,Homo sapiens (Human),Omega-N-methylarginine,359,PGPGGRGRGRG
+Q96AE4,Homo sapiens (Human),Omega-N-methylarginine,361,PGGRGRGRGQG
+Q96AE4,Homo sapiens (Human),Omega-N-methylarginine,363,GRGRGRGQGNW
+Q96B18,Homo sapiens (Human),Omega-N-methylarginine,258,ISALLRRRRRR
+Q96B23,Homo sapiens (Human),Omega-N-methylarginine,347,RCVHPRGGVIQ
+Q96B36,Homo sapiens (Human),Omega-N-methylarginine,51,YAAHGRGALAE
+Q96DH6,Homo sapiens (Human),Omega-N-methylarginine,228,VATYGRGYPGF
+Q96DH6,Homo sapiens (Human),Omega-N-methylarginine,261,AVAAARGSGSN
+Q96DT7,Homo sapiens (Human),Omega-N-methylarginine,126,RTLAFRGGGGG
+Q96EP5,Homo sapiens (Human),Omega-N-methylarginine,253,PPPAGRGAPPP
+Q96EV2,Homo sapiens (Human),Omega-N-methylarginine; alternate,1028,KVTLTRGGLQQ
+Q96EY1,Homo sapiens (Human),Omega-N-methylarginine; by CARM1,58,TSCGPRALLTL
+Q96EY1,Homo sapiens (Human),Omega-N-methylarginine; by CARM1,238,MDTCERCNGKG
+Q96EY1,Homo sapiens (Human),Omega-N-methylarginine; by CARM1,293,PCVVCRGAGQA
+Q96F45,Homo sapiens (Human),Omega-N-methylarginine,636,ALYGQRLTTAS
+Q96H20,Homo sapiens (Human),Omega-N-methylarginine,4,MHRRGVGAG
+Q96HA7,Homo sapiens (Human),Omega-N-methylarginine,797,YQAAIRGVGSA
+Q96HB5,Homo sapiens (Human),Omega-N-methylarginine,435,SRGAPRLPPVC
+Q96HP0,Homo sapiens (Human),Omega-N-methylarginine,865,AATLARGSGRP
+Q96J94,Homo sapiens (Human),Omega-N-methylarginine; by PRMT5; alternate,14,ARGRARGQETA
+Q96J94,Homo sapiens (Human),Omega-N-methylarginine; by PRMT5,49,GELFGRGRQRG
+Q96J94,Homo sapiens (Human),Omega-N-methylarginine; alternate,53,GRGRQRGTAGG
+Q96J94,Homo sapiens (Human),Omega-N-methylarginine; by PRMT5,370,QPKRRRGPGGT
+Q96K80,Homo sapiens (Human),Omega-N-methylarginine,185,SVLPGRRHDLY
+Q96K80,Homo sapiens (Human),Omega-N-methylarginine,186,VLPGRRHDLYD
+Q96LB3,Homo sapiens (Human),Omega-N-methylarginine,51,ARPGSRGCPIG
+Q96LD4,Homo sapiens (Human),Omega-N-methylarginine,582,ASRPRRGGIPA
+Q96LJ7,Homo sapiens (Human),Omega-N-methylarginine,21,SRGIGRGIALQ
+Q96NW7,Homo sapiens (Human),Omega-N-methylarginine,1149,GRPPYRGGLDR
+Q96PU8,Homo sapiens (Human),Omega-N-methylarginine,227,AQAAPRIITGP
+Q96PU8,Homo sapiens (Human),Omega-N-methylarginine; alternate,242,PPAALRTPTPA
+Q96PU8,Homo sapiens (Human),Omega-N-methylarginine,256,IMPLIRQIQTA
+Q96Q04,Homo sapiens (Human),Omega-N-methylarginine,490,RRGAGRGGGAP
+Q96QC0,Homo sapiens (Human),Omega-N-methylarginine,665,GPVGPRLLGPP
+Q96QC0,Homo sapiens (Human),Omega-N-methylarginine,693,RGGPMRGGPGP
+Q96QC0,Homo sapiens (Human),Omega-N-methylarginine,738,GPPNGRGGPGG
+Q96QR8,Homo sapiens (Human),Omega-N-methylarginine,24,FQPASRGGGEQ
+Q96QR8,Homo sapiens (Human),Omega-N-methylarginine,152,RQTVNRGGGGF
+Q96QR8,Homo sapiens (Human),Omega-N-methylarginine,294,KLYERRGGGSG
+Q96RK0,Homo sapiens (Human),Omega-N-methylarginine,1099,SEKDGRSPNKR
+Q96RK0,Homo sapiens (Human),Omega-N-methylarginine,1843,PSMSVRGGGAG
+Q96T37,Homo sapiens (Human),Omega-N-methylarginine; alternate; by PRMT1,578,YRDRDRDLYPD
+Q96T58,Homo sapiens (Human),Omega-N-methylarginine,108,EVSGFRGGGGG
+Q99501,Homo sapiens (Human),Omega-N-methylarginine,487,APRLSRVSSPS
+Q99501,Homo sapiens (Human),Omega-N-methylarginine,504,PASIFRTPLQL
+Q99501,Homo sapiens (Human),Omega-N-methylarginine,633,SRTWARGRMDT
+Q99569,Homo sapiens (Human),Omega-N-methylarginine,254,SVTDPRPLNPS
+Q99569,Homo sapiens (Human),Omega-N-methylarginine,270,TLPAARAASPY
+Q99590,Homo sapiens (Human),Omega-N-methylarginine,1151,SSWAVRKTLPA
+Q99700,Homo sapiens (Human),Omega-N-methylarginine; alternate,640,RVSAGRGSISS
+Q99719,Homo sapiens (Human),Omega-N-methylarginine,168,FGHGLRPVDVG
+Q99729,Homo sapiens (Human),Omega-N-methylarginine; alternate,245,YGSGGRGNRNR
+Q99729,Homo sapiens (Human),Omega-N-methylarginine,250,RGNRNRGNRGS
+Q99729,Homo sapiens (Human),Omega-N-methylarginine,253,RNRGNRGSGGG
+Q99729,Homo sapiens (Human),Omega-N-methylarginine; alternate,322,GKSQRRGGHQN
+Q99832,Homo sapiens (Human),Omega-N-methylarginine,535,PTAAGRGRGRG
+Q99877,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q99877,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+Q99879,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q99879,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+Q99880,Homo sapiens (Human),Omega-N-methylarginine,87,AHYNKRSTITS
+Q99880,Homo sapiens (Human),Omega-N-methylarginine,93,STITSREIQTA
+Q99958,Homo sapiens (Human),Omega-N-methylarginine,279,NIMTLRTSPPG
+Q99958,Homo sapiens (Human),Omega-N-methylarginine,293,SPGAGRAGLVV
+Q99959,Homo sapiens (Human),Omega-N-methylarginine,46,AGSSGRGGQTV
+Q9BPU6,Homo sapiens (Human),Omega-N-methylarginine,559,APPGGRSSGIW
+Q9BQG1,Homo sapiens (Human),Omega-N-methylarginine,284,GPGGRRSGGGP
+Q9BST9,Homo sapiens (Human),Omega-N-methylarginine,14,RVTVARGSALE
+Q9BTC0,Homo sapiens (Human),Omega-N-methylarginine,1835,YLGGPRGVAPS
+Q9BTL3,Homo sapiens (Human),Omega-N-methylarginine,85,NQWHGRSWGNN
+Q9BTV5,Homo sapiens (Human),Omega-N-methylarginine,310,KDGKGRTASPI
+Q9BTV5,Homo sapiens (Human),Omega-N-methylarginine,320,INSPARGTPSP
+Q9BUJ2,Homo sapiens (Human),Omega-N-methylarginine; alternate,645,GGFQNRGGGSG
+Q9BUJ2,Homo sapiens (Human),Omega-N-methylarginine; alternate,656,GGGNYRGGFNR
+Q9BUJ2,Homo sapiens (Human),Omega-N-methylarginine,661,RGGFNRSGGGG
+Q9BUJ2,Homo sapiens (Human),Omega-N-methylarginine,671,GYSQNRWGNNN
+Q9BUV0,Homo sapiens (Human),Omega-N-methylarginine,135,AYAIARGQRYY
+Q9BVA1,Homo sapiens (Human),Omega-N-methylarginine,318,VAAIFRGRMSM
+Q9BX40,Homo sapiens (Human),Omega-N-methylarginine,351,FGVSGRFLRGR
+Q9BXB5,Homo sapiens (Human),Omega-N-methylarginine,38,CSLAGRGVSSR
+Q9BXP5,Homo sapiens (Human),Omega-N-methylarginine,833,PYGAGRGNYDA
+Q9BXP5,Homo sapiens (Human),Omega-N-methylarginine,840,NYDAFRGQGGY
+Q9BXP5,Homo sapiens (Human),Omega-N-methylarginine,850,YPGKPRNRMVR
+Q9BXY8,Homo sapiens (Human),Omega-N-methylarginine,50,EYCVPRGNRRR
+Q9BY77,Homo sapiens (Human),Omega-N-methylarginine,33,GGVRSRVGIQQ
+Q9BYG3,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1 and PRMT8,114,YLFGERLLECH
+Q9BYG3,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1 and PRMT8,284,TPTHSRKKRRR
+Q9BYN0,Homo sapiens (Human),Omega-N-methylarginine,11,GGTLGRAGAGR
+Q9BYN0,Homo sapiens (Human),Omega-N-methylarginine,16,RAGAGRGAPEG
+Q9BYV8,Homo sapiens (Human),Omega-N-methylarginine,343,KVPGARSAQNL
+Q9BZ72,Homo sapiens (Human),Omega-N-methylarginine,828,TAPASRGFRRA
+Q9BZI7,Homo sapiens (Human),Omega-N-methylarginine,447,YQPGARSRNRL
+Q9BZZ5,Homo sapiens (Human),Omega-N-methylarginine,500,FNYEQRGAFRG
+Q9C0B5,Homo sapiens (Human),Omega-N-methylarginine,617,DGLRGRGVGSP
+Q9C0B5,Homo sapiens (Human),Omega-N-methylarginine,697,LSSPTRGGVKK
+Q9C0H9,Homo sapiens (Human),Omega-N-methylarginine,329,SPSRSRLSYAG
+Q9C0H9,Homo sapiens (Human),Omega-N-methylarginine,336,SYAGGRPPSYA
+Q9C0H9,Homo sapiens (Human),Omega-N-methylarginine,501,SGPPSRGSPVR
+Q9C0J8,Homo sapiens (Human),Omega-N-methylarginine,782,MGLNPRGMQGP
+Q9C0J8,Homo sapiens (Human),Omega-N-methylarginine,987,EHGPERGPFRG
+Q9C0J8,Homo sapiens (Human),Omega-N-methylarginine,1035,REFEGRGGPLP
+Q9C0J8,Homo sapiens (Human),Omega-N-methylarginine,1262,RGGKGRGGPGP
+Q9C0J8,Homo sapiens (Human),Omega-N-methylarginine; alternate,1315,GSNWGRGSNMN
+Q9C0K0,Homo sapiens (Human),Omega-N-methylarginine,293,PFNLLRMTGPI
+Q9H074,Homo sapiens (Human),Omega-N-methylarginine,21,SRGLGRGGGGP
+Q9H0C5,Homo sapiens (Human),Omega-N-methylarginine,79,VLGKGRGAAAA
+Q9H0D6,Homo sapiens (Human),Omega-N-methylarginine; alternate,824,GHVMPRGSGTG
+Q9H0D6,Homo sapiens (Human),Omega-N-methylarginine; alternate,847,QGNLYRPLLRG
+Q9H0D6,Homo sapiens (Human),Omega-N-methylarginine; alternate,851,YRPLLRGQAQI
+Q9H0D6,Homo sapiens (Human),Omega-N-methylarginine; alternate,883,QQRFDRGVGAE
+Q9H0D6,Homo sapiens (Human),Omega-N-methylarginine,895,LLPWNRMLQTQ
+Q9H0D6,Homo sapiens (Human),Omega-N-methylarginine; alternate,946,PPPSGRYNWN
+Q9H0E3,Homo sapiens (Human),Omega-N-methylarginine,232,ASHLPRGAAAA
+Q9H270,Homo sapiens (Human),Omega-N-methylarginine,904,ADYFGRGVFNK
+Q9H2D6,Homo sapiens (Human),Omega-N-methylarginine,1930,SEVISRGGPRK
+Q9H2H8,Homo sapiens (Human),Omega-N-methylarginine,61,PTGTGRGGNSI
+Q9H307,Homo sapiens (Human),Omega-N-methylarginine,54,GPGGGRGRGSL
+Q9H361,Homo sapiens (Human),Omega-N-methylarginine,426,QIARLRPSPRW
+Q9H361,Homo sapiens (Human),Omega-N-methylarginine,430,LRPSPRWTAQG
+Q9H361,Homo sapiens (Human),Omega-N-methylarginine,449,KPSAIRPGAPR
+Q9H361,Homo sapiens (Human),Omega-N-methylarginine,513,YAAGVRNPQQH
+Q9H3H3,Homo sapiens (Human),Omega-N-methylarginine,29,ERSRARGWAGV
+Q9H3S7,Homo sapiens (Human),Omega-N-methylarginine,950,GFPAPRIGPQP
+Q9H3S7,Homo sapiens (Human),Omega-N-methylarginine,1615,NGQGLRATRPS
+Q9H3T3,Homo sapiens (Human),Omega-N-methylarginine,665,QGPGGRGGGGG
+Q9H7E9,Homo sapiens (Human),Omega-N-methylarginine,27,ASRGARLPGPV
+Q9H7S9,Homo sapiens (Human),Omega-N-methylarginine,580,ALYGQRLASAS
+Q9H8H2,Homo sapiens (Human),Omega-N-methylarginine,828,TPCFGRGKTLK
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,386,SEVSGRGVQLF
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,466,PSIFNRSARPF
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,469,FNRSARPFTPG
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,479,GLQGQRPTTTS
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,757,PRLQGRGGELF
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,806,YSPNIRAPPPI
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,826,FPQAARTLPKA
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,889,VQEIRRFSTPA
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,910,TVLAPRAATTL
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine; alternate,921,DEPIWRTELAS
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,955,GFQVARPRFSA
+Q9H987,Homo sapiens (Human),Omega-N-methylarginine,957,QVARPRFSATR
+Q9H9H4,Homo sapiens (Human),Omega-N-methylarginine,218,PVPAGRLATPF
+Q9HBZ2,Homo sapiens (Human),Omega-N-methylarginine,42,GAMPARGGKRR
+Q9HCE9,Homo sapiens (Human),Omega-N-methylarginine; alternate,1020,TGSDTRLPAFL
+Q9HCJ0,Homo sapiens (Human),Omega-N-methylarginine,523,ILAWGRGSGNN
+Q9NPC6,Homo sapiens (Human),Omega-N-methylarginine,53,SHLSNRGARLF
+Q9NQZ2,Homo sapiens (Human),Omega-N-methylarginine,8,GRSRRRGAAKW
+Q9NR22,Homo sapiens (Human),Omega-N-methylarginine; by autocatalysis,58,PSCPGRGKMSK
+Q9NRC8,Homo sapiens (Human),Omega-N-methylarginine; alternate,388,GGWFGRGCTKR
+Q9NRF2,Homo sapiens (Human),Omega-N-methylarginine,270,PAGVGRGGGVA
+Q9NRH2,Homo sapiens (Human),Omega-N-methylarginine,534,RKSQGRGSSCS
+Q9NRS6,Homo sapiens (Human),Omega-N-methylarginine,105,AEDLLRFTVHI
+Q9NS23,Homo sapiens (Human),Omega-N-methylarginine,36,ALRIARGTACN
+Q9NUQ3,Homo sapiens (Human),Omega-N-methylarginine,12,EAARGRGGGAE
+Q9NUQ3,Homo sapiens (Human),Omega-N-methylarginine,24,ATEAGRGGRRR
+Q9NVM4,Homo sapiens (Human),Omega-N-methylarginine,32,HQEIARSSYAD
+Q9NWB1,Homo sapiens (Human),Omega-N-methylarginine,388,QASIYRGGYNR
+Q9NWH9,Homo sapiens (Human),Omega-N-methylarginine,1017,GNSMPRGSGSG
+Q9NYF8,Homo sapiens (Human),Omega-N-methylarginine,809,GRGRARGVFAG
+Q9NZB2,Homo sapiens (Human),Omega-N-methylarginine,873,ASAYPRHFGPV
+Q9NZB2,Homo sapiens (Human),Omega-N-methylarginine,884,PPSQGRGRGFA
+Q9NZB2,Homo sapiens (Human),Omega-N-methylarginine,886,SQGRGRGFAGV
+Q9NZB2,Homo sapiens (Human),Omega-N-methylarginine,982,VGGPARGRPRG
+Q9NZB2,Homo sapiens (Human),Omega-N-methylarginine,986,ARGRPRGVIST
+Q9NZJ7,Homo sapiens (Human),Omega-N-methylarginine,29,AGAGARGGAAA
+Q9P270,Homo sapiens (Human),Omega-N-methylarginine,538,RSGLPRPSAPS
+Q9P270,Homo sapiens (Human),Omega-N-methylarginine,551,GIPVPRSKLAQ
+Q9P2D1,Homo sapiens (Human),Omega-N-methylarginine,148,SMWGPRAVQVP
+Q9P2K5,Homo sapiens (Human),Omega-N-methylarginine,406,MGELYRGAMTS
+Q9UBB4,Homo sapiens (Human),Omega-N-methylarginine,10,RPPPARLSGVM
+Q9UBF9,Homo sapiens (Human),Omega-N-methylarginine,20,NPCGSRLQPPG
+Q9UBN7,Homo sapiens (Human),Omega-N-methylarginine,33,SVTSKRNIKKG
+Q9UBU9,Homo sapiens (Human),Omega-N-methylarginine; alternate,42,NRRSGRGGSGI
+Q9UEU0,Homo sapiens (Human),Omega-N-methylarginine,107,ATPGGRGDMKY
+Q9UG01,Homo sapiens (Human),Omega-N-methylarginine,672,ADQVSREYGGE
+Q9UGU0,Homo sapiens (Human),Omega-N-methylarginine,60,SGGGRRGAAAA
+Q9UGU0,Homo sapiens (Human),Omega-N-methylarginine,1024,SPGRSRGPGGD
+Q9UKZ1,Homo sapiens (Human),Omega-N-methylarginine,41,GSGGGRGGASG
+Q9UL51,Homo sapiens (Human),Omega-N-methylarginine,756,ALGSPRLVRRP
+Q9ULC8,Homo sapiens (Human),Omega-N-methylarginine,441,KASSRRGGDHV
+Q9ULR3,Homo sapiens (Human),Omega-N-methylarginine,213,RAASLRGGVGA
+Q9ULX6,Homo sapiens (Human),Omega-N-methylarginine; alternate,208,DPMGARGQCMS
+Q9ULX6,Homo sapiens (Human),Omega-N-methylarginine,217,MSGASRLPSLF
+Q9ULX6,Homo sapiens (Human),Omega-N-methylarginine,237,MFQGMRGGGAF
+Q9ULX6,Homo sapiens (Human),Omega-N-methylarginine,247,FPGGSRFGFGF
+Q9UM47,Homo sapiens (Human),Omega-N-methylarginine,2174,PLDWARLPPPA
+Q9UN86,Homo sapiens (Human),Omega-N-methylarginine,457,RGPPPRGGMAQ
+Q9UN86,Homo sapiens (Human),Omega-N-methylarginine,468,KLGSGRGTGQM
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,148,SVSPDRGSTPT
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,867,TATSGRGLAKH
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,1787,QTAPYRSGPRG
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,1791,YRSGPRGRPRE
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine; alternate,1801,EAKFARYNLPN
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,1813,VAPLARRDVLI
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,2046,SVTDLRHPTDL
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,2076,HRYGPRGDAVG
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,3492,SMAHSRVRPPM
+Q9UPA5,Homo sapiens (Human),Omega-N-methylarginine,3808,SQPTTRGSAPA
+Q9UPN9,Homo sapiens (Human),Omega-N-methylarginine; alternate,515,NLAQLRLQHMQ
+Q9UPN9,Homo sapiens (Human),Omega-N-methylarginine,535,QLQQMRMQQPP
+Q9UPN9,Homo sapiens (Human),Omega-N-methylarginine; alternate,591,QAHQMRLAQNA
+Q9UPU9,Homo sapiens (Human),Omega-N-methylarginine,573,RQQRNRGFGQS
+Q9UPV7,Homo sapiens (Human),Omega-N-methylarginine,36,RPSIRRTGELP
+Q9UQ35,Homo sapiens (Human),Omega-N-methylarginine,2194,SLGTARPPPSM
+Q9UQ35,Homo sapiens (Human),Omega-N-methylarginine,2207,AGLAARMSQVP
+Q9UQ35,Homo sapiens (Human),Omega-N-methylarginine,2231,ANLASRIPAAS
+Q9UQ35,Homo sapiens (Human),Omega-N-methylarginine,2246,NLASARTPAIP
+Q9UQ35,Homo sapiens (Human),Omega-N-methylarginine,2274,NLASPRTAVAP
+Q9UQ35,Homo sapiens (Human),Omega-N-methylarginine,2288,NLADPRTPTAP
+Q9UQ35,Homo sapiens (Human),Omega-N-methylarginine,2342,NLVGPRSAHAT
+Q9UQ35,Homo sapiens (Human),Omega-N-methylarginine; alternate,2384,NLTSPRVPLSA
+Q9UQB3,Homo sapiens (Human),Omega-N-methylarginine,209,QGTTSRAGHLA
+Q9UQB3,Homo sapiens (Human),Omega-N-methylarginine,264,LPAPPRGGSPL
+Q9UQB3,Homo sapiens (Human),Omega-N-methylarginine,282,PTKLQRGGSAP
+Q9UQB3,Homo sapiens (Human),Omega-N-methylarginine,296,TYAAPRGSSPK
+Q9Y2H0,Homo sapiens (Human),Omega-N-methylarginine,291,TNYVKRGSWST
+Q9Y2J0,Homo sapiens (Human),Omega-N-methylarginine,226,ASAPGRGNYGP
+Q9Y2K2,Homo sapiens (Human),Omega-N-methylarginine,986,GHSDIRLPPTE
+Q9Y2K9,Homo sapiens (Human),Omega-N-methylarginine,709,DNFCMRGLSNF
+Q9Y2W2,Homo sapiens (Human),Omega-N-methylarginine,192,GHGVPRLPPGR
+Q9Y3I1,Homo sapiens (Human),Omega-N-methylarginine,432,NPLHPRPFPSS
+Q9Y3I1,Homo sapiens (Human),Omega-N-methylarginine,451,GEYDQRPTLPY
+Q9Y3S1,Homo sapiens (Human),Omega-N-methylarginine,19,LMEPGRGAGPA
+Q9Y3S1,Homo sapiens (Human),Omega-N-methylarginine,30,GMAEPRAKAAR
+Q9Y446,Homo sapiens (Human),Omega-N-methylarginine,81,ARGTSRGQYHT
+Q9Y446,Homo sapiens (Human),Omega-N-methylarginine,261,SSHRSRGVGGA
+Q9Y4E5,Homo sapiens (Human),Omega-N-methylarginine,158,KSSFRRGGHTW
+Q9Y4H2,Homo sapiens (Human),Omega-N-methylarginine,412,GGCGGRGSKVA
+Q9Y520,Homo sapiens (Human),Omega-N-methylarginine; alternate,242,LASQYRAMMPP
+Q9Y520,Homo sapiens (Human),Omega-N-methylarginine,279,TNKGLRGRGPP
+Q9Y520,Homo sapiens (Human),Omega-N-methylarginine,281,KGLRGRGPPPS
+Q9Y520,Homo sapiens (Human),Omega-N-methylarginine,2814,MKAKQRAEVLQ
+Q9Y520,Homo sapiens (Human),Omega-N-methylarginine; alternate,2823,LQSTQRFFSEQ
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,544,GSLGSRGRRRK
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,950,LTPSPRGGPFN
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,1051,SLRGWRGGGPS
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,1090,FQLPPRAASAA
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,1101,MYVPARSGRGR
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,1423,RELGYRAGLGS
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,1895,ALPWARGGSGG
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,2016,VSPAPRPSSLP
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,2036,GLFDIRGSPTG
+Q9Y566,Homo sapiens (Human),Omega-N-methylarginine,2074,LSGASRSLSPT
+Q9Y570,Homo sapiens (Human),Omega-N-methylarginine; alternate,16,GRLPSRPPLPG
+Q9Y580,Homo sapiens (Human),Omega-N-methylarginine,152,MNSALRQMSYG
+Q9Y5S2,Homo sapiens (Human),Omega-N-methylarginine,671,VKQGGRGAGAT
+Q9Y6I3,Homo sapiens (Human),Omega-N-methylarginine,534,TLNQLRLSPVP
+Q9Y6K1,Homo sapiens (Human),Omega-N-methylarginine,171,SRGRLRGGLGW
+Q9Y6L7,Homo sapiens (Human),Omega-N-methylarginine,963,DSSAPRLGRFC
+Q9Y6L7,Homo sapiens (Human),Omega-N-methylarginine,966,APRLGRFCGSG
+A6NFN3,Homo sapiens (Human),Omega-N-methylarginine; alternate,223,TAVAYRGAHLR
+A6NHQ2,Homo sapiens (Human),Omega-N-methylarginine,15,GGGGGRGGGGW
+A7MBM2,Homo sapiens (Human),Omega-N-methylarginine,1366,LSWKGRGGPGD
+O00515,Homo sapiens (Human),Omega-N-methylarginine,424,ESVKSRGLPCT
+P49750,Homo sapiens (Human),Omega-N-methylarginine,814,WGMIPRGPASQ
+P49750,Homo sapiens (Human),Omega-N-methylarginine,831,TSLSPRQSGPQ
+Q01995,Homo sapiens (Human),Omega-N-methylarginine,183,QMGSNRGASQA
+Q2MJR0,Homo sapiens (Human),Omega-N-methylarginine,248,KTGALRGAALG
+Q5FWE3,Homo sapiens (Human),Omega-N-methylarginine,780,AASLGRGPQGG
+Q6PJG2,Homo sapiens (Human),Omega-N-methylarginine,447,CGQVLRGGVIQ
+Q7Z6J2,Homo sapiens (Human),Omega-N-methylarginine,270,VPGRPRGGARR
+Q8IZS5,Homo sapiens (Human),Omega-N-methylarginine; by PRMT1,113,ATEVSREDDDR
+Q8N461,Homo sapiens (Human),Omega-N-methylarginine,92,GHPAERPPLAT
+Q8NAF0,Homo sapiens (Human),Omega-N-methylarginine,92,LSRHLRGHGPQ
+Q8NBF6,Homo sapiens (Human),Omega-N-methylarginine,588,VQNSERGKKIG
+Q8NC96,Homo sapiens (Human),Omega-N-methylarginine,180,KPRTARGGGLS
+Q8NDA2,Homo sapiens (Human),Omega-N-methylarginine,912,IVLAGRPLPER
+Q8NDA2,Homo sapiens (Human),Omega-N-methylarginine,917,RPLPERHWLKD
+Q8TAE6,Homo sapiens (Human),Omega-N-methylarginine,27,FFQSPRGGAGG
+Q8TB03,Homo sapiens (Human),Omega-N-methylarginine,61,PRAVCRGGSRC
+Q8WXD9,Homo sapiens (Human),Omega-N-methylarginine,398,GMAGGRGSGGH
+Q92686,Homo sapiens (Human),Omega-N-methylarginine,68,GAGVARGGAGG
+Q96EK7,Homo sapiens (Human),Omega-N-methylarginine,885,GSGYSRSSQGQ
+Q96NL0,Homo sapiens (Human),Omega-N-methylarginine,13,GLSGIRGGGGG
+Q9BUT9,Homo sapiens (Human),Omega-N-methylarginine,35,ELLKCRQPAPP
+Q9BUT9,Homo sapiens (Human),Omega-N-methylarginine,65,SSPGPRLVFNR
+Q9BYD3,Homo sapiens (Human),Omega-N-methylarginine,147,RSPLWRGGGVA
+Q9HB09,Homo sapiens (Human),Omega-N-methylarginine,60,PCSLGRGAAPS
+Q9P242,Homo sapiens (Human),Omega-N-methylarginine,81,GGEVGRGHEGS
+Q9P2N5,Homo sapiens (Human),Omega-N-methylarginine,455,PLLAARLVPPR
+Q9UPX0,Homo sapiens (Human),Omega-N-methylarginine,1136,SQGQLRHTSQG
+Q9Y3X0,Homo sapiens (Human),Omega-N-methylarginine,107,RAGMGRASRSW
+Q9Y3X0,Homo sapiens (Human),Omega-N-methylarginine,121,PGEQPRGGGAG
+Q9Y3X0,Homo sapiens (Human),Omega-N-methylarginine,128,GGAGGRGRRGR
+Q9Y3X0,Homo sapiens (Human),Omega-N-methylarginine,130,AGGRGRRGRGR
+A0A2R8Y619,Homo sapiens (Human),Omega-N-methylarginine,83,AQYSGRTTLTS
+A0A2R8Y619,Homo sapiens (Human),Omega-N-methylarginine,89,TTLTSREVQTA
+A4D1U4,Homo sapiens (Human),Omega-N-methylarginine,41,GGGGARPAAEP
+C9J069,Homo sapiens (Human),Omega-N-methylarginine,322,GPSPRRMGGYY
+C9J069,Homo sapiens (Human),Omega-N-methylarginine; alternate,749,FLSRGRGVLFL
+D6RIA3,Homo sapiens (Human),Omega-N-methylarginine,1774,QPLGPRIIAPP
+P0CG12,Homo sapiens (Human),Omega-N-methylarginine,387,PATFQRSAGLQ
+Q15032,Homo sapiens (Human),Omega-N-methylarginine; alternate,929,GQGDSRYPLLG
+Q1ED39,Homo sapiens (Human),Omega-N-methylarginine,430,SWKYSRGAGLG
+Q1KMD3,Homo sapiens (Human),Omega-N-methylarginine,656,RQNRSRGQGYV
+Q1KMD3,Homo sapiens (Human),Omega-N-methylarginine,684,GQPGNRGGYRN
+Q1KMD3,Homo sapiens (Human),Omega-N-methylarginine,738,RDRYYRNYYGY
+Q1KMD3,Homo sapiens (Human),Omega-N-methylarginine,747,GYQGYR
+Q32P51,Homo sapiens (Human),Omega-N-methylarginine; alternate,194,ASSSQRGRRGS
+Q32P51,Homo sapiens (Human),Omega-N-methylarginine; alternate,206,NFGGGRGDGFG
+Q32P51,Homo sapiens (Human),Omega-N-methylarginine; alternate,218,NDNFGRGGNFS
+Q32P51,Homo sapiens (Human),Omega-N-methylarginine; alternate,225,GNFSGRGGFGG
+Q32P51,Homo sapiens (Human),Omega-N-methylarginine,284,GNFGGRSSGPY
+Q6ZWB6,Homo sapiens (Human),Omega-N-methylarginine,80,SPSSPRGGARR
+Q7Z309,Homo sapiens (Human),Omega-N-methylarginine,122,APSPTRGFGKM
+Q7Z736,Homo sapiens (Human),Omega-N-methylarginine,638,GWKRLRGMGRA
+Q7Z736,Homo sapiens (Human),Omega-N-methylarginine,642,LRGMGRAEAMA
+Q86WR7,Homo sapiens (Human),Omega-N-methylarginine; alternate,252,QPKAPRFPSNI
+Q86WR7,Homo sapiens (Human),Omega-N-methylarginine; alternate,320,RVARGRGLPGP
+Q86WR7,Homo sapiens (Human),Omega-N-methylarginine,378,ALPSTRARQSF
+Q86WR7,Homo sapiens (Human),Omega-N-methylarginine,414,VQFAGRGSSEE
+Q8TF61,Homo sapiens (Human),Omega-N-methylarginine,360,SASLGRGGGGG
+Q969W3,Homo sapiens (Human),Omega-N-methylarginine,4,MGGRGADAG
+Q9BQ75,Homo sapiens (Human),Omega-N-methylarginine,167,CSSAVRALELI
+Q9H1Z4,Homo sapiens (Human),Omega-N-methylarginine; alternate,114,RRSVSRGSYQL
+Q9NX05,Homo sapiens (Human),Omega-N-methylarginine,58,APRAARGSVPL
+Q9NX05,Homo sapiens (Human),Omega-N-methylarginine,977,RSSRGRGSFGM
+A6NEE1,Homo sapiens (Human),Omega-N-methylarginine,503,PSALSRGGK
+A8MVX0,Homo sapiens (Human),Omega-N-methylarginine,757,AAVAARGASRT
+Q5T0Z8,Homo sapiens (Human),Omega-N-methylarginine,1073,VGEPHRGPGLP
+Q5T0Z8,Homo sapiens (Human),Omega-N-methylarginine,1084,HGGTGRSLSSP
+Q8N4B5,Homo sapiens (Human),Omega-N-methylarginine,83,QALPSRARAPA
+Q8N4B5,Homo sapiens (Human),Omega-N-methylarginine,188,AAGPRRGGPAS

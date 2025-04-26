@@ -1,0 +1,841 @@
+Entry,Organism,Modified residue,Negative_R_position,Negative_sequence
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2,MRRSKAD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,3,MRRSKADV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,10,KADVERYIASV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,23,STPSPRQKSIK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,58,INVQERDPKAH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,64,DPKAHRFLGLL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,84,AVECYRRSVEL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,85,VECYRRSVELN
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,113,DVTDGRAKYWV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,120,KYWVERAAKLF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,161,SELYVRPDDVH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,170,VHVNIRLVEVY
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,176,LVEVYRSTKRL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,180,YRSTKRLKDAV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,193,CHEAERNIALR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,198,RNIALRSSLEW
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,229,DKSDWRATNTD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,250,LTLSTRDVQES
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,256,DVQESRELLES
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,310,SNVQWRALSEL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,328,AFQVPRPKIKL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,350,MMACDRLSQSG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,363,LLNLSRGKQDF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,370,KQDFLREIVET
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,412,GNIDVREPELE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,421,LEDLARYDVGA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,428,DVGAIRAHDGS
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,454,ALPGIRKWLKQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,470,PQETSRLETNA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,527,QLCTERQKSWW
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,541,CTLIHRKAVPG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,552,NAAKLRLLVQH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,563,EINTLRAQEKH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,596,SFYDQREYIGR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,601,REYIGRSVHYW
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,689,ALIFHRKAEDI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,712,CKNYLRKTRDY
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,715,YLRKTRDYLIK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,769,TNGSLRNADSE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,784,TPSHTRYSLSP
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,802,PKTPPRWAEDQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,840,SASPHRWPTEN
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,890,SQYLLRPAANV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,907,VYGMNRLPPQQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,957,GILSPRGDDYF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,992,AAHASRSAESK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1016,PGEGLRPSLPT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1096,QTIGPRNTFNF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1126,KNSGFRRSDDM
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1127,NSGFRRSDDMF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1198,EFFCNRAKLFR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1203,RAKLFRFDVES
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1214,KEWKERGIGNV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1223,NVKILRHKTSG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1231,TSGKIRLLMRR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1235,IRLLMRREQVL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1236,RLLMRREQVLK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1262,NAGSDRSFVWH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1284,EQLAIRFKTPE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1321,SNQAVRIVKEP
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1407,ENVQDRFALVT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1427,SICLVRNEPTV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1434,EPTVSRCIACQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1473,INSDFRSVFST
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1506,ACQNPRKQSLP
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1555,SSCLVRNEANA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1562,EANATRCVACQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1618,SVCLVRNEASA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1652,SSETSRAPKSG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1677,SVCLVRNEASA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1736,SVCLVRNEASA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1781,EGMFIRKGQWD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2039,VLYSQRVKLFR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2044,RVKLFRFDAEV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2055,SQWKERGLGNL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2072,VNGKLRMLMRR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2076,LRMLMRREQVL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2077,RMLMRREQVLK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2103,LSGSDRAWMWL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2144,FEECQRLLLDI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2162,LVDTGRAAKLI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2169,AKLIQRAEEMK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2230,DNYDLREDALD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2254,ASSPVRKNLFR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2259,RKNLFRFGEST
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2305,TQEEERDGQYF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2336,VVFSHRAKLYR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2341,RAKLYRYDKDV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2352,GQWKERGIGDI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2369,DNKQVRIVMRR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2373,VRIVMRRDQVL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2374,RIVMRRDQVLK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2385,LCANHRITPDM
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2400,MKGTERVWLWT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2414,FADGERKVEHL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2422,EHLAVRFKLQD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2455,TPHVSRSSTPR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2460,RSSTPRESPCG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2477,LEETTRERTDV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2479,ETTRERTDVTQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2663,FCYKNRPDYVS
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2697,GSEKCRPLEEN
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2822,VDLSTRKEIDT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2937,ILFKERAKLYR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2942,RAKLYRWDRDV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2945,LYRWDRDVSQW
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2953,SQWKERGVGDI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2970,MKNYYRILMRR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2974,YRILMRRDQVF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2975,RILMRRDQVFK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,3023,EQLAVRFKTKE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,3079,GEPLGRITMEL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,3091,SNIVPRTAENF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,3097,TAENFRALCTG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,3115,NSIFHRVIPDF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,3214,KGSVCRRITIT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,3215,GSVCRRITITE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2,MRRSKAD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,3,MRRSKADV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,10,KADVERYIASV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,23,STPSPRQKSIK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,58,INVQERDPKAH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,64,DPKAHRFLGLL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,84,AVECYRRSVEL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,85,VECYRRSVELN
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,113,DVTDGRAKYWV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,120,KYWVERAAKLF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,161,SELYVRPDDVH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,170,VHVNIRLVEVY
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,176,LVEVYRSTKRL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,180,YRSTKRLKDAV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,193,CHEAERNIALR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,198,RNIALRSSLEW
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,229,DKSDWRATNTD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,250,LTLSTRDVQES
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,256,DVQESRELLES
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,310,SNVQWRALSEL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,328,AFQVPRPKIKL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,350,MMACDRLSQSG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,363,LLNLSRGKQDF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,370,KQDFLREIVET
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,412,GNIDVREPELE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,421,LEDLARYDVGA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,428,DVGAIRAHDGS
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,454,ALPGIRKWLKQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,470,PQETSRLETNA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,527,QLCTERQKSWW
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,541,CTLIHRKAVPG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,552,NAAKLRLLVQH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,563,EINTLRAQEKH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,596,SFYDQREYIGR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,601,REYIGRSVHYW
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,689,ALIFHRKAEDI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,712,CKNYLRKTRDY
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,715,YLRKTRDYLIK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,769,TNGSLRNADSE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,784,TPSHTRYSLSP
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,802,PKTPPRWAEDQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,840,SASPHRWPTEN
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,890,SQYLLRPAANV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,907,VYGMNRLPPQQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,945,GPPALRFESPA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,957,GILSPRGDDYF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,992,AAHASRSAESK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1096,QTIGPRNTFNF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1126,KNSGFRRSDDM
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1127,NSGFRRSDDMF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1198,EFFCNRAKLFR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1203,RAKLFRFDVES
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1214,KEWKERGIGNV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1223,NVKILRHKTSG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1231,TSGKIRLLMRR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1235,IRLLMRREQVL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1236,RLLMRREQVLK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1262,NAGSDRSFVWH
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1284,EQLAIRFKTPE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1321,SNQAVRIVKEP
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1407,ENVQDRFALVT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1427,SICLVRNEPTV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1434,EPTVSRCIACQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1473,INSDFRSVFST
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1506,ACQNPRKQSLP
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1555,SSCLVRNEANA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1562,EANATRCVACQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1618,SVCLVRNEASA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1652,SSETSRAPKSG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1677,SVCLVRNEASA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1736,SVCLVRNEASA
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1781,EGMFIRKGQWD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2039,VLYSQRVKLFR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2044,RVKLFRFDAEV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2055,SQWKERGLGNL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2072,VNGKLRMLMRR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2076,LRMLMRREQVL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2077,RMLMRREQVLK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2103,LSGSDRAWMWL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2144,FEECQRLLLDI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2162,LVDTGRAAKLI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2169,AKLIQRAEEMK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2230,DNYDLREDALD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2254,ASSPVRKNLFR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2259,RKNLFRFGEST
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2305,TQEEERDGQYF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2336,VVFSHRAKLYR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2341,RAKLYRYDKDV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2352,GQWKERGIGDI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2369,DNKQVRIVMRR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2373,VRIVMRRDQVL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2374,RIVMRRDQVLK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2385,LCANHRITPDM
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2400,MKGTERVWLWT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2414,FADGERKVEHL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2422,EHLAVRFKLQD
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2455,TPHVSRSSTPR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2460,RSSTPRESPCG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2477,LEETTRERTDV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2479,ETTRERTDVTQ
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2663,FCYKNRPDYVS
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2697,GSEKCRPLEEN
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2822,VDLSTRKEIDT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2937,ILFKERAKLYR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2942,RAKLYRWDRDV
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2945,LYRWDRDVSQW
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2953,SQWKERGVGDI
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2970,MKNYYRILMRR
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2974,YRILMRRDQVF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2975,RILMRRDQVFK
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,3023,EQLAVRFKTKE
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,3079,GEPLGRITMEL
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,3091,SNIVPRTAENF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,3097,TAENFRALCTG
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,3115,NSIFHRVIPDF
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,3214,KGSVCRRITIT
+H2QII6,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,3215,GSVCRRITITE
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,15,EDVTPRPGGCQ
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,24,CQISGRGARGC
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,27,SGRGARGCNGI
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,44,EAALPRRRPRR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,45,AALPRRRPRRH
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,46,ALPRRRPRRHP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,48,PRRRPRRHPSV
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,49,RRRPRRHPSVN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,56,PSVNPRSRAAG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,58,VNPRSRAAGSP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,64,AAGSPRTRGRR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,66,GSPRTRGRRTK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,68,PRTRGRRTKER
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,69,RTRGRRTKERP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,73,RRTKERPSGSR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,78,RPSGSRLGDHG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,84,LGDHGRGRALP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,86,DHGRGRALPGG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,92,ALPGGRVGGRG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,96,GRVGGRGRGRA
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,98,VGGRGRGRAPE
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,100,GRGRGRAPERV
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,104,GRAPERVGGRG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,110,VGGRGRGRGTA
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,112,GRGRGRGTAAP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,118,GTAAPRAAPAA
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,124,AAPAARGSRPG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,127,AARGSRPGPAG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,164,FKDPKRLYCKN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,175,GGFFLRIHPDG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,181,IHPDGRVDGVR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,186,RVDGVREKSDP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,202,LQAEERGVVSI
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,214,GVCANRYLAMK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,223,MKEDGRLLASK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,239,CFFFERLESNN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,249,NYNTYRSRKYT
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,251,NTYRSRKYTSW
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,262,YVALKRTGQYK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,15,EDVTPRPGGCQ
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,24,CQISGRGARGC
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,27,SGRGARGCNGI
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,44,EAALPRRRPRR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,45,AALPRRRPRRH
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,46,ALPRRRPRRHP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,48,PRRRPRRHPSV
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,49,RRRPRRHPSVN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,56,PSVNPRSRAAG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,58,VNPRSRAAGSP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,64,AAGSPRTRGRR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,66,GSPRTRGRRTK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,68,PRTRGRRTKER
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,69,RTRGRRTKERP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,73,RRTKERPSGSR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,78,RPSGSRLGDHG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,84,LGDHGRGRALP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,86,DHGRGRALPGG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,92,ALPGGRVGGRG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,96,GRVGGRGRGRA
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,98,VGGRGRGRAPE
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,100,GRGRGRAPERV
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,104,GRAPERVGGRG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,108,ERVGGRGRGRG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,112,GRGRGRGTAAP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,118,GTAAPRAAPAA
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,124,AAPAARGSRPG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,127,AARGSRPGPAG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,164,FKDPKRLYCKN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,175,GGFFLRIHPDG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,181,IHPDGRVDGVR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,186,RVDGVREKSDP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,202,LQAEERGVVSI
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,214,GVCANRYLAMK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,223,MKEDGRLLASK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,239,CFFFERLESNN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,249,NYNTYRSRKYT
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,251,NTYRSRKYTSW
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,262,YVALKRTGQYK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,15,EDVTPRPGGCQ
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,24,CQISGRGARGC
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,27,SGRGARGCNGI
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,44,EAALPRRRPRR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,45,AALPRRRPRRH
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,46,ALPRRRPRRHP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,48,PRRRPRRHPSV
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,49,RRRPRRHPSVN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,56,PSVNPRSRAAG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,58,VNPRSRAAGSP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,64,AAGSPRTRGRR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,66,GSPRTRGRRTK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,68,PRTRGRRTKER
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,69,RTRGRRTKERP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,73,RRTKERPSGSR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,78,RPSGSRLGDHG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,84,LGDHGRGRALP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,86,DHGRGRALPGG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,92,ALPGGRVGGRG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,96,GRVGGRGRGRA
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,98,VGGRGRGRAPE
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,100,GRGRGRAPERV
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,104,GRAPERVGGRG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,108,ERVGGRGRGRG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,110,VGGRGRGRGTA
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,118,GTAAPRAAPAA
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,124,AAPAARGSRPG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,127,AARGSRPGPAG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,164,FKDPKRLYCKN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,175,GGFFLRIHPDG
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,181,IHPDGRVDGVR
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,186,RVDGVREKSDP
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,202,LQAEERGVVSI
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,214,GVCANRYLAMK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,223,MKEDGRLLASK
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,239,CFFFERLESNN
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,249,NYNTYRSRKYT
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,251,NTYRSRKYTSW
+Q5IS69,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,262,YVALKRTGQYK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,14,EPEQLRKLFIG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,31,TDESLRSHFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,47,DCVVMRDPNTK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,53,DPNTKRSRGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,55,NTKRSRGFGFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,75,AAMNARPHKVD
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,82,HKVDGRVVEPK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,88,VVEPKRAVSRE
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,92,KRAVSREDSQR
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,97,REDSQRPGAHL
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,122,EEHHLRDYFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,140,EIMTDRGSGKK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,146,GSGKKRGFAFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,178,HNCEVRKALSK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,196,SSQRGRSGSGN
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,206,NFGGGRGGGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,218,NDNFGRGGNFS
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,225,GNFSGRGGFGG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,232,GFGGSRGGGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,284,GNFGGRSSGPY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,300,YFAKPRNQGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,318,SYGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,319,YGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,14,EPEQLRKLFIG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,31,TDESLRSHFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,47,DCVVMRDPNTK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,53,DPNTKRSRGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,55,NTKRSRGFGFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,75,AAMNARPHKVD
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,82,HKVDGRVVEPK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,88,VVEPKRAVSRE
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,92,KRAVSREDSQR
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,97,REDSQRPGAHL
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,122,EEHHLRDYFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,140,EIMTDRGSGKK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,146,GSGKKRGFAFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,178,HNCEVRKALSK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,194,ASSSQRGRSGS
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,196,SSQRGRSGSGN
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,218,NDNFGRGGNFS
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,225,GNFSGRGGFGG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,232,GFGGSRGGGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,284,GNFGGRSSGPY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,300,YFAKPRNQGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,318,SYGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,319,YGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,14,EPEQLRKLFIG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,31,TDESLRSHFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,47,DCVVMRDPNTK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,53,DPNTKRSRGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,55,NTKRSRGFGFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,75,AAMNARPHKVD
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,82,HKVDGRVVEPK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,88,VVEPKRAVSRE
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,92,KRAVSREDSQR
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,97,REDSQRPGAHL
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,122,EEHHLRDYFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,140,EIMTDRGSGKK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,146,GSGKKRGFAFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,178,HNCEVRKALSK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,194,ASSSQRGRSGS
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,196,SSQRGRSGSGN
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,206,NFGGGRGGGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,225,GNFSGRGGFGG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,232,GFGGSRGGGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,284,GNFGGRSSGPY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,300,YFAKPRNQGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,318,SYGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,319,YGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,14,EPEQLRKLFIG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,31,TDESLRSHFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,47,DCVVMRDPNTK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,53,DPNTKRSRGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,55,NTKRSRGFGFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,75,AAMNARPHKVD
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,82,HKVDGRVVEPK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,88,VVEPKRAVSRE
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,92,KRAVSREDSQR
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,97,REDSQRPGAHL
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,122,EEHHLRDYFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,140,EIMTDRGSGKK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,146,GSGKKRGFAFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,178,HNCEVRKALSK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,194,ASSSQRGRSGS
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,196,SSQRGRSGSGN
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,206,NFGGGRGGGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,218,NDNFGRGGNFS
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,232,GFGGSRGGGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,284,GNFGGRSSGPY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,300,YFAKPRNQGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,318,SYGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,319,YGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,14,EPEQLRKLFIG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,31,TDESLRSHFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,47,DCVVMRDPNTK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,53,DPNTKRSRGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,55,NTKRSRGFGFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,75,AAMNARPHKVD
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,82,HKVDGRVVEPK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,88,VVEPKRAVSRE
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,92,KRAVSREDSQR
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,97,REDSQRPGAHL
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,122,EEHHLRDYFEQ
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,140,EIMTDRGSGKK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,146,GSGKKRGFAFV
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,178,HNCEVRKALSK
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,194,ASSSQRGRSGS
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,196,SSQRGRSGSGN
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,206,NFGGGRGGGFG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,218,NDNFGRGGNFS
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,225,GNFSGRGGFGG
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,284,GNFGGRSSGPY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,300,YFAKPRNQGGY
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,318,SYGSGRRF
+A5A6H4,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,319,YGSGRRF
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,5,ASQKRPSQRH
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,9,KRPSQRHGSKY
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,25,TMDHARHGFLP
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,31,HGFLPRHRDTG
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,33,FLPRHRDTGIL
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,43,LDSIGRFFGGD
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,49,FFGGDRGAPKR
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,54,RGAPKRGSGKD
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,65,SHHPARTAHYG
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,79,QKSGHRTQDEN
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,97,NIVTPRTPPPS
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,113,GLSLSRFSWGA
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,122,GAEGQRPGFGY
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,130,FGYGGRASDYK
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,160,FKLGGRDSRSG
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,163,GGRDSRSGSPM
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,170,GSPMARR
+P06906,Pan troglodytes (Chimpanzee),Symmetric dimethylarginine; alternate,171,SPMARR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2,MRAAWLI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,25,TKVKKRHVDPF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,53,MAEYYRPGPAG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,78,VEVAIRQWDYT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,98,DGMLDRHEFLT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,113,CFEKIRPGEDE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,129,LPLLLRYSGEF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,142,SAYLSRRLAYF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,143,AYLSRRLAYFC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,150,AYFCTRRLALQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,151,YFCTRRLALQL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,203,MCPQHRPLVFG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,234,SLTDSRIKTGS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,265,FTQQVRAKLRE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,269,VRAKLREIEQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,278,QQIKERGQAVE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,285,QAVEVRWSFDK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,302,GFTIGRVLHTL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,317,SHSFERSDFSN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,330,DSLCNRIFGLG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,363,AVSCKRSGRHR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,366,CKRSGRHRAMV
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,368,RSGRHRAMVVA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,379,KLLEKRQAEIE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,387,EIEAERCGESE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,432,MLTDPRSENER
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,437,RSENERVEFFN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,452,FCELIRHDVFS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,468,CTLISRGDLAF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,479,GAPGPRPPSPF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,577,LYDQPRHVQYA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,600,HECNQRLVVLF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,611,GVGKQRDDARH
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,615,QRDDARHAIKK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,631,LKVLNRKGTAE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,662,EDGQKRRRNRP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,663,DGQKRRRNRPE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,664,GQKRRRNRPEA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,666,KRRRNRPEAFP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,697,TAQVSRNVLEQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,778,IVAVLRHYHAC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,808,KHGMNRSDGSS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,816,GSSAERCILAY
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,863,SESNMRWAPEF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,897,ENPANRYSFVC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,917,HHDPDRVNDIA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,985,AILIARQCLLL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,995,LEDLIRCAAIP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1017,SEPGARLTCRI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1021,ARLTCRILLHL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1047,PTVGIRSSCDR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1052,RSSCDRHLLAA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1061,AASQNRIVDGA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1108,GGSGGRRQGGR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1109,GSGGRRQGGRN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1113,RRQGGRNISVE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1131,AKYVLRSICQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1142,EWVGERCLKSL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1166,SAQAQRLMQLI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1176,ICYPHRLLDNE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1188,GENPQRQRIKR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1190,NPQRQRIKRIL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1193,RQRIKRILQNL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1204,DQWTMRQSSLE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1269,LSSLERSGVWL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1309,LGSSSRKERDR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1312,SSRKERDRQKQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1314,RKERDRQKQKS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1343,GQDEQREGLLT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1362,IVNNWRDDQYL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1383,EALKLRLNLVG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1396,FDTVQRSTQQT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1458,MEENKRAYMNL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1474,KELGERQSDSL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1483,SLEKVRQLLPL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1493,LPKQTRDVITC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1556,WFGTVRVDRRV
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1559,TVRVDRRVARG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1560,VRVDRRVARGE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1563,DRRVARGEEQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1569,GEEQQRLLLYH
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1578,YHTHLRPRPRA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1580,THLRPRPRAYY
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1582,LRPRPRAYYLE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1629,PSTEERKKKST
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1639,TKGKKRSQPAT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1655,GMGPGRSGPYG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1682,THLNYRQGSIG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1701,PAGGPRVDPYR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1706,RVDPYRPVRLP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1709,PYRPVRLPMQK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1718,QKLPTRPTYPG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1757,VPQGQRLRQQL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1759,QGQRLRQQLQA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1839,LVDPTRHLQQR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1844,RHLQQRPSGYV
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1865,LTSTQRFSHQT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1893,VQAGVRSTAIL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1930,QQYHIRQQQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1939,QQQILRQQQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,1989,QPQFQRQGLQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2006,TAALVRQLQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,2026,TNIFGRY
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2,MRAAWLI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,25,TKVKKRHVDPF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,53,MAEYYRPGPAG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,78,VEVAIRQWDYT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,98,DGMLDRHEFLT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,113,CFEKIRPGEDE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,129,LPLLLRYSGEF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,142,SAYLSRRLAYF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,143,AYLSRRLAYFC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,150,AYFCTRRLALQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,151,YFCTRRLALQL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,203,MCPQHRPLVFG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,234,SLTDSRIKTGS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,265,FTQQVRAKLRE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,269,VRAKLREIEQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,278,QQIKERGQAVE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,285,QAVEVRWSFDK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,302,GFTIGRVLHTL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,317,SHSFERSDFSN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,330,DSLCNRIFGLG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,363,AVSCKRSGRHR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,366,CKRSGRHRAMV
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,368,RSGRHRAMVVA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,379,KLLEKRQAEIE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,387,EIEAERCGESE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,432,MLTDPRSENER
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,437,RSENERVEFFN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,452,FCELIRHDVFS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,468,CTLISRGDLAF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,479,GAPGPRPPSPF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,577,LYDQPRHVQYA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,600,HECNQRLVVLF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,611,GVGKQRDDARH
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,615,QRDDARHAIKK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,631,LKVLNRKGTAE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,662,EDGQKRRRNRP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,663,DGQKRRRNRPE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,664,GQKRRRNRPEA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,666,KRRRNRPEAFP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,697,TAQVSRNVLEQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,778,IVAVLRHYHAC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,808,KHGMNRSDGSS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,816,GSSAERCILAY
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,863,SESNMRWAPEF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,897,ENPANRYSFVC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,917,HHDPDRVNDIA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,985,AILIARQCLLL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,995,LEDLIRCAAIP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1017,SEPGARLTCRI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1021,ARLTCRILLHL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1047,PTVGIRSSCDR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1052,RSSCDRHLLAA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1061,AASQNRIVDGA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1108,GGSGGRRQGGR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1109,GSGGRRQGGRN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1113,RRQGGRNISVE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1131,AKYVLRSICQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1142,EWVGERCLKSL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1166,SAQAQRLMQLI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1176,ICYPHRLLDNE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1188,GENPQRQRIKR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1190,NPQRQRIKRIL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1193,RQRIKRILQNL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1204,DQWTMRQSSLE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1269,LSSLERSGVWL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1309,LGSSSRKERDR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1312,SSRKERDRQKQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1314,RKERDRQKQKS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1343,GQDEQREGLLT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1362,IVNNWRDDQYL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1383,EALKLRLNLVG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1396,FDTVQRSTQQT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1458,MEENKRAYMNL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1474,KELGERQSDSL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1483,SLEKVRQLLPL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1493,LPKQTRDVITC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1556,WFGTVRVDRRV
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1559,TVRVDRRVARG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1560,VRVDRRVARGE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1563,DRRVARGEEQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1569,GEEQQRLLLYH
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1578,YHTHLRPRPRA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1580,THLRPRPRAYY
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1582,LRPRPRAYYLE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1629,PSTEERKKKST
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1639,TKGKKRSQPAT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1655,GMGPGRSGPYG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1682,THLNYRQGSIG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1701,PAGGPRVDPYR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1706,RVDPYRPVRLP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1709,PYRPVRLPMQK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1718,QKLPTRPTYPG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1746,KTSVYRQQQPA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1757,VPQGQRLRQQL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1759,QGQRLRQQLQA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1839,LVDPTRHLQQR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1865,LTSTQRFSHQT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1893,VQAGVRSTAIL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1930,QQYHIRQQQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1939,QQQILRQQQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1989,QPQFQRQGLQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2006,TAALVRQLQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2026,TNIFGRY
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2,MRAAWLI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,25,TKVKKRHVDPF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,53,MAEYYRPGPAG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,78,VEVAIRQWDYT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,98,DGMLDRHEFLT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,113,CFEKIRPGEDE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,129,LPLLLRYSGEF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,142,SAYLSRRLAYF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,143,AYLSRRLAYFC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,150,AYFCTRRLALQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,151,YFCTRRLALQL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,203,MCPQHRPLVFG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,234,SLTDSRIKTGS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,265,FTQQVRAKLRE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,269,VRAKLREIEQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,278,QQIKERGQAVE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,285,QAVEVRWSFDK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,302,GFTIGRVLHTL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,317,SHSFERSDFSN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,330,DSLCNRIFGLG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,363,AVSCKRSGRHR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,366,CKRSGRHRAMV
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,368,RSGRHRAMVVA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,379,KLLEKRQAEIE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,387,EIEAERCGESE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,432,MLTDPRSENER
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,437,RSENERVEFFN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,452,FCELIRHDVFS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,468,CTLISRGDLAF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,479,GAPGPRPPSPF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,577,LYDQPRHVQYA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,600,HECNQRLVVLF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,611,GVGKQRDDARH
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,615,QRDDARHAIKK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,631,LKVLNRKGTAE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,662,EDGQKRRRNRP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,663,DGQKRRRNRPE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,664,GQKRRRNRPEA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,666,KRRRNRPEAFP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,697,TAQVSRNVLEQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,778,IVAVLRHYHAC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,808,KHGMNRSDGSS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,816,GSSAERCILAY
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,863,SESNMRWAPEF
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,897,ENPANRYSFVC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,917,HHDPDRVNDIA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,985,AILIARQCLLL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,995,LEDLIRCAAIP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1017,SEPGARLTCRI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1021,ARLTCRILLHL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1047,PTVGIRSSCDR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1052,RSSCDRHLLAA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1061,AASQNRIVDGA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1108,GGSGGRRQGGR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1109,GSGGRRQGGRN
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1113,RRQGGRNISVE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1131,AKYVLRSICQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1142,EWVGERCLKSL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1166,SAQAQRLMQLI
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1176,ICYPHRLLDNE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1188,GENPQRQRIKR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1190,NPQRQRIKRIL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1193,RQRIKRILQNL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1204,DQWTMRQSSLE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1269,LSSLERSGVWL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1309,LGSSSRKERDR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1312,SSRKERDRQKQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1314,RKERDRQKQKS
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1343,GQDEQREGLLT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1362,IVNNWRDDQYL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1383,EALKLRLNLVG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1396,FDTVQRSTQQT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1458,MEENKRAYMNL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1474,KELGERQSDSL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1483,SLEKVRQLLPL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1493,LPKQTRDVITC
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1556,WFGTVRVDRRV
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1559,TVRVDRRVARG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1560,VRVDRRVARGE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1563,DRRVARGEEQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1569,GEEQQRLLLYH
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1578,YHTHLRPRPRA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1580,THLRPRPRAYY
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1582,LRPRPRAYYLE
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1629,PSTEERKKKST
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1639,TKGKKRSQPAT
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1655,GMGPGRSGPYG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1682,THLNYRQGSIG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1701,PAGGPRVDPYR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1706,RVDPYRPVRLP
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1709,PYRPVRLPMQK
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1718,QKLPTRPTYPG
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1746,KTSVYRQQQPA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1757,VPQGQRLRQQL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1759,QGQRLRQQLQA
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1839,LVDPTRHLQQR
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1844,RHLQQRPSGYV
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1893,VQAGVRSTAIL
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1930,QQYHIRQQQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1939,QQQILRQQQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,1989,QPQFQRQGLQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2006,TAALVRQLQQQ
+Q7YQK8,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine,2026,TNIFGRY
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,14,LAVDARYNAYR
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,19,RYNAYRTPTFP
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,27,TFPQFRTQYIR
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,32,RTQYIRRRSQL
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,33,TQYIRRRSQLL
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,34,QYIRRRSQLLR
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,39,RSQLLRENAKA
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,51,HPPALRRQYLR
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,52,PPALRRQYLRL
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,56,RRQYLRLRGQL
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,58,QYLRLRGQLLG
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,65,QLLGQRYGPLS
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,76,EPGSARAYSNS
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,84,SNSIVRSSRTT
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,87,IVRSSRTTLDR
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,92,RTTLDRMEDFE
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,101,FEDDPRALGAR
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,106,RALGARGHRRS
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,109,GARGHRRSVSR
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,110,ARGHRRSVSRG
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,125,QAQMNRAVYED
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,131,AVYEDRPPGSV
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,146,AAEASRAMAGD
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,177,DEAVPRVRFAN
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,179,AVPRVRFANDD
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,185,FANDDRHRLAC
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,187,NDDRHRLACCS
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,211,PPTVLRVLRGH
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,214,VLRVLRGHTRG
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,218,LRGHTRGVSDF
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,242,LDATMRIWASE
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,250,ASEDGRCIREI
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,253,DGRCIREIPDP
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,306,SKLTGRVLALS
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,317,FDAPGRLLWAG
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,325,WAGDDRGSVFS
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,345,LTKAKRLVVHE
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,360,TSISARSWVSR
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,365,RSWVSREARDP
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,368,VSREARDPSLL
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,385,KLLLYRVVDNE
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,397,TLQLKRSFPIE
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,409,SSHPVRSIFCP
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,419,PLMSFRQGACV
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,440,FFDVERAAKAA
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,481,MVIVWRREQK
+Q6DKP5,Pan troglodytes (Chimpanzee),Asymmetric dimethylarginine; alternate,482,VIVWRREQK

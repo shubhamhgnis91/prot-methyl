@@ -1,0 +1,135 @@
+Entry,Organism,Modified residue,Modified_position,Positive_sequence
+A1A5R1,Rattus norvegicus (Rat),Asymmetric dimethylarginine,339,VYGAVRAVPPT
+A1A5R1,Rattus norvegicus (Rat),Asymmetric dimethylarginine,371,GYAAYRYAQPA
+A1A5R1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,423,VASLYRGGYSR
+A1A5R1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,428,RGGYSRFAPY
+A7VJC2,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,203,SSRSGRGGNFG
+A7VJC2,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,213,GFGDSRGGGGN
+A7VJC2,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,266,GYGGGRGGYGG
+B2RZ55,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,390,GGWFGRGCAKR
+B5DF91,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by CARM1; alternate,217,HHQAQRFRFSP
+F1LQY6,Rattus norvegicus (Rat),Asymmetric dimethylarginine,42,RMGEPRAPLVP
+F1MA98,Rattus norvegicus (Rat),Asymmetric dimethylarginine,2340,GRQFNRQRGIS
+F1MA98,Rattus norvegicus (Rat),Asymmetric dimethylarginine,2342,QFNRQRGISHA
+F1MA98,Rattus norvegicus (Rat),Asymmetric dimethylarginine,2351,HAMGGRGGINR
+O09032,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by CARM1; alternate,248,HHQAQRFRLDN
+O88453,Rattus norvegicus (Rat),Asymmetric dimethylarginine,892,GHMMNRGGMSG
+O88453,Rattus norvegicus (Rat),Asymmetric dimethylarginine,898,GGMSGRGSFAP
+O88453,Rattus norvegicus (Rat),Asymmetric dimethylarginine,908,PGGASRRHVIP
+O88453,Rattus norvegicus (Rat),Asymmetric dimethylarginine,914,RHVIPRGGMQA
+O88778,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,1794,EAKFARYNLPN
+O88778,Rattus norvegicus (Rat),Asymmetric dimethylarginine,2243,PMIAPRVPLGP
+O88778,Rattus norvegicus (Rat),Asymmetric dimethylarginine,2253,PAGLYRYPAPS
+O88778,Rattus norvegicus (Rat),Asymmetric dimethylarginine,2259,YPAPSRFPIAS
+O88984,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,41,NRRSGRGGSGI
+P02688,Rattus norvegicus (Rat),Symmetric dimethylarginine; alternate,131,SQGKGRGLSLS
+P04256,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,194,ASSSQRGRSGS
+P04256,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,206,NFGGGRGGGFG
+P04256,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,218,NDNFGRGGNFS
+P04256,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,225,GNFSGRGGFGG
+P04256,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,232,GFGGSRGGGGY
+P09951,Rattus norvegicus (Rat),Asymmetric dimethylarginine,678,EPAPPRPSLSQ
+P10361,Rattus norvegicus (Rat),Symmetric dimethylarginine,333,LKIRGRERFEM
+P10361,Rattus norvegicus (Rat),Symmetric dimethylarginine,335,IRGRERFEMFR
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,659,GGFGGRGGGRG
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,663,GRGGGRGGFGG
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,669,GGFGGRGGGRG
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,673,GRGGGRGGRGG
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,676,GGRGGRGGFGG
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,682,GGFGGRGRGGF
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,684,FGGRGRGGFGG
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,690,GGFGGRGGFRG
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine,694,GRGGFRGGRGG
+P13383,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,697,GFRGGRGGGGD
+P17136,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,108,GPGIGRAAGRG
+P17136,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,112,GRAAGRGIPAG
+P19527,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,23,YVETPRVHISS
+P48675,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,37,SPVFPRAGFGT
+P62483,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,28,MIYSTRYGSPK
+P62804,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1; alternate,4,MSGRGKGGK
+P62804,Rattus norvegicus (Rat),Symmetric dimethylarginine; by PRMT5 and PRMT7; alternate,4,MSGRGKGGK
+P62997,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,241,YSRSYRGGGGG
+P63164,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,108,GPGVGRAAGRG
+P63164,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,112,GRAAGRGVPAG
+Q05140,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,873,AQPMMRPPFGA
+Q10758,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,49,SSSSFRGSLGG
+Q5BJU7,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,341,STSSLRASMTS
+Q5I6B8,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,459,PSKKGRGALLA
+Q5M9G3,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,696,PPRPNRGMPQM
+Q5XI81,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,476,PGGRGRSVSGG
+Q5XI81,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,482,SVSGGRGRGGP
+Q5XI81,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,484,SGGRGRGGPRG
+Q63014,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,109,SKEGGRGGISS
+Q63246,Rattus norvegicus (Rat),Asymmetric dimethylarginine,452,MFNSHRLGLDN
+Q63279,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,24,GGGPVRFGSGG
+Q63638,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,2060,ATRLTRGGLGE
+Q68FS3,Rattus norvegicus (Rat),Asymmetric dimethylarginine,518,RSADNRLPYL
+Q6IMY8,Rattus norvegicus (Rat),Asymmetric dimethylarginine,689,GGFNMRGGNFR
+Q6IMY8,Rattus norvegicus (Rat),Asymmetric dimethylarginine,694,RGGNFRGGAPG
+Q6IMY8,Rattus norvegicus (Rat),Asymmetric dimethylarginine,701,GAPGNRGGYNR
+Q6IMY8,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,707,GGYNRRGNMPQ
+Q6IMY8,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,713,GNMPQRGGGGG
+Q6IMY8,Rattus norvegicus (Rat),Asymmetric dimethylarginine,728,GYPYPRGPVFP
+Q6IMY8,Rattus norvegicus (Rat),Asymmetric dimethylarginine,735,PVFPGRGGYSN
+Q6IN36,Rattus norvegicus (Rat),Asymmetric dimethylarginine,33,TEQAGRNALLS
+Q6JHU9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,600,VTQDLRSHLVH
+Q6JHU9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,624,ALKDRRMENLV
+Q6MG11,Rattus norvegicus (Rat),Asymmetric dimethylarginine,305,PHPTARLLLAT
+Q6URK4,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,214,SAGSQRGRGGG
+Q6URK4,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,216,GSQRGRGGGSG
+Q6URK4,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,226,GNFMGRGGNFG
+Q6URK4,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,239,GGNFGRGGNFG
+Q6URK4,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,246,GNFGGRGGYGG
+Q6URK4,Rattus norvegicus (Rat),Asymmetric dimethylarginine,286,PGYSSRGGYGG
+Q7TP47,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1; alternate,354,MPPPTRGRGRG
+Q7TP47,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1,420,GAAPSRGRGAA
+Q7TP47,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1; alternate,428,GAAPPRGRAGY
+Q7TP47,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,436,AGYSQRGGPGS
+Q7TP47,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1; alternate,446,SARGVRGARGG
+Q7TP47,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1; alternate,449,GVRGARGGAQQ
+Q80WE1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,512,GDGRRRGGGGR
+Q80WE1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,517,RGGGGRGQGGR
+Q80WE1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,522,RGQGGRGRGGG
+Q80WE1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,524,QGGRGRGGGFK
+Q8K585,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,26,TEKRGRGRPRK
+Q8K585,Rattus norvegicus (Rat),Symmetric dimethylarginine; alternate,26,TEKRGRGRPRK
+Q8K585,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT6; alternate,58,TPKRPRGRPKG
+Q8K585,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT6; alternate,60,KRPRGRPKGSK
+Q91V33,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1,45,LPHRSRGGGGG
+Q91V33,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1,52,GGGGPRGGARA
+Q91V33,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by PRMT1,304,PVPRGRGVGPP
+Q91V33,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,331,GATVTRGVPPP
+Q91XU1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; by CARM1; alternate,242,PPAALRTPTPA
+Q925G0,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,105,GRSYSRGGGDQ
+Q9EPH8,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,493,QTMGPRPAAAA
+Q9JJ54,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,343,GKVSRRGGHQN
+Q9JMC1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,56,TPSEPRLALAP
+Q9JMC1,Rattus norvegicus (Rat),Asymmetric dimethylarginine,76,PSERPRLALSS
+Q9JMC1,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,83,ALSSPRPILAP
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,338,FSQIYRFSLSD
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,864,QKAALRMSQST
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,874,TFNNPRPGQLG
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1173,LRMQPRPGLRP
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1177,PRPGLRPTGIV
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1190,QPNQLRLQLQH
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1196,LQLQHRLQAQQ
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1203,QAQQNRQPLMN
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1221,VNLTLRPGVPT
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1240,LAQRQREILNQ
+Q9WUI9,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1266,RTLMMRGQGLN
+Q9WV48,Rattus norvegicus (Rat),Asymmetric dimethylarginine,1257,NEARRRSTLFL
+P52590,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,60,TPSSFRQPFTP
+P63326,Rattus norvegicus (Rat),Symmetric dimethylarginine,158,RGGFGRGRGQP
+P63326,Rattus norvegicus (Rat),Symmetric dimethylarginine,160,GFGRGRGQPPQ
+Q4FZT2,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,16,GRLPSRPPLPG
+Q66H68,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,396,RTPGPRGSYLG
+Q66H68,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,407,GYSAGRGIYSR
+Q6IG02,Rattus norvegicus (Rat),Asymmetric dimethylarginine,22,GGGGFRGFSSG
+B5DF93,Rattus norvegicus (Rat),Asymmetric dimethylarginine,217,KPVHVRPPMPP
+B5DF93,Rattus norvegicus (Rat),Asymmetric dimethylarginine,223,PPMPPRYPAPY
+B5DF93,Rattus norvegicus (Rat),Asymmetric dimethylarginine,263,LSPLQRAQLLG
+B5DF93,Rattus norvegicus (Rat),Asymmetric dimethylarginine,284,PSQFARVPGFV
+Q5XIU5,Rattus norvegicus (Rat),Asymmetric dimethylarginine,219,RSGFPRALIDP
+Q6MG48,Rattus norvegicus (Rat),Asymmetric dimethylarginine,272,PQGPYRYPTPD
+Q7TP98,Rattus norvegicus (Rat),Asymmetric dimethylarginine; alternate,94,DILGSRITRPT
+B2RYL1,Rattus norvegicus (Rat),Asymmetric dimethylarginine,368,AGVFPRGTGSG
